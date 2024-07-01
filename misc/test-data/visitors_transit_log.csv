@@ -1,0 +1,2228 @@
+timestamp,campus,cluster,place,login,direction
+2024-06-29 19:45:13,21 Veliky Novgorod,Quark,b3,beecheri@student.21-school.ru,LEAVING
+2024-06-29 19:45:13,21 Magas,Denal,o3,molochar@student.21-school.ru,LEAVING
+2024-06-29 19:45:35,21 Veliky Novgorod,Lepton,b5,graveleg@student.21-school.ru,LEAVING
+2024-06-29 19:46:46,21 Kazan,Singularity,p4,chickpet@student.21-school.ru,LEAVING
+2024-06-29 19:46:46,21 Magas,Denal,o3,merirosa@student.21-school.ru,ENTERING
+2024-06-29 19:47:03,21 Veliky Novgorod,Lepton,e2,pipelemu@student.21-school.ru,LEAVING
+2024-06-29 19:47:59,21 Magas,Denal,o4,molochar@student.21-school.ru,ENTERING
+2024-06-29 19:47:59,21 Yaroslavl,Ushakov,j2,rakharok@student.21-school.ru,LEAVING
+2024-06-29 19:48:22,21 Kazan,Universe,h5,ismaeldi@student.21-school.ru,LEAVING
+2024-06-29 19:48:22,21 Veliky Novgorod,Quark,b11,kosiseli@student.21-school.ru,LEAVING
+2024-06-29 19:48:41,21 Veliky Novgorod,Lepton,f3,grennric@student.21-school.ru,ENTERING
+2024-06-29 19:48:59,21 Veliky Novgorod,Lepton,f3,grennric@student.21-school.ru,LEAVING
+2024-06-29 19:48:59,21 Veliky Novgorod,Lepton,e3,jamibeul@student.21-school.ru,ENTERING
+2024-06-29 19:49:33,21 Magas,Denal,o4,molochar@student.21-school.ru,LEAVING
+2024-06-29 19:49:51,21 Veliky Novgorod,Lepton,e1,grennric@student.21-school.ru,ENTERING
+2024-06-29 19:51:51,21 Magas,Denal,a4,illiferr@student.21-school.ru,LEAVING
+2024-06-29 19:52:44,21 Veliky Novgorod,Lepton,b7,eugenacl@student.21-school.ru,LEAVING
+2024-06-29 19:53:01,21 Veliky Novgorod,Quark,b8,hickstag@student.21-school.ru,LEAVING
+2024-06-29 19:53:01,21 Kazan,Eternity,n4,remarque@student.21-school.ru,LEAVING
+2024-06-29 19:53:01,21 Magas,Denal,k3,takodanl@student.21-school.ru,LEAVING
+2024-06-29 19:53:21,21 Kazan,Universe,g3,ezrealtr@student.21-school.ru,LEAVING
+2024-06-29 19:53:40,21 Veliky Novgorod,Lepton,b7,eugenacl@student.21-school.ru,ENTERING
+2024-06-29 19:54:16,21 Moscow,Atlantis,j5,krustoft@student.21-school.ru,LEAVING
+2024-06-29 19:54:41,21 Kazan,Singularity,p2,edwylewo@student.21-school.ru,LEAVING
+2024-06-29 19:54:59,21 Kazan,Eternity,a6,marlinto@student.21-school.ru,LEAVING
+2024-06-29 19:55:17,21 Veliky Novgorod,Quark,b11,kosiseli@student.21-school.ru,ENTERING
+2024-06-29 19:58:19,21 Magas,Sabar,a2,ninfascr@student.21-school.ru,LEAVING
+2024-06-29 19:58:36,21 Veliky Novgorod,Quark,g2,drynagus@student.21-school.ru,LEAVING
+2024-06-29 19:59:56,21 Samarkand,tillakori,p4,ricassol@student.21-school.ru,LEAVING
+2024-06-29 20:00:35,21 Novosibirsk,Obscurity,h8,cedricho@student.21-school.ru,LEAVING
+2024-06-29 20:01:34,21 Yaroslavl,Volkov,a2,sheirezn@student.21-school.ru,LEAVING
+2024-06-29 20:04:36,21 Veliky Novgorod,Quark,f2,nettlesl@student.21-school.ru,LEAVING
+2024-06-29 20:04:36,21 Moscow,Atlantis,k7,thorneth@student.21-school.ru,LEAVING
+2024-06-29 20:05:15,21 Yaroslavl,Ushakov,e1,gathroac@student.21-school.ru,LEAVING
+2024-06-29 20:05:57,21 Kazan,Progress,d5,belgravt@student.21-school.ru,LEAVING
+2024-06-29 20:05:57,21 Magas,Sabar,b5,mutterim@student.21-school.ru,LEAVING
+2024-06-29 20:05:57,21 Moscow,Atlantis,n4,pirzamar@student.21-school.ru,LEAVING
+2024-06-29 20:06:24,21 Kazan,Progress,e3,rarthric@student.21-school.ru,LEAVING
+2024-06-29 20:08:18,21 Moscow,Mirage,r3,greenham@student.21-school.ru,LEAVING
+2024-06-29 20:10:15,21 Samarkand,tillakori,p4,ricassol@student.21-school.ru,ENTERING
+2024-06-29 20:10:15,21 Yaroslavl,Ushakov,j4,robbverl@student.21-school.ru,LEAVING
+2024-06-29 20:14:45,21 Veliky Novgorod,Lepton,e6,thedamol@student.21-school.ru,LEAVING
+2024-06-29 20:15:39,21 Moscow,Atlantis,q8,kaseltzt@student.21-school.ru,LEAVING
+2024-06-29 20:17:40,21 Yaroslavl,Ushakov,c4,ricardsa@student.21-school.ru,LEAVING
+2024-06-29 20:17:58,21 Yaroslavl,Ushakov,c2,muleanis@student.21-school.ru,LEAVING
+2024-06-29 20:18:35,21 Magas,Tesham,b5,suguhach@student.21-school.ru,ENTERING
+2024-06-29 20:18:52,21 Kazan,Genom,b5,belgravt@student.21-school.ru,ENTERING
+2024-06-29 20:19:09,21 Magas,Tesham,b5,suguhach@student.21-school.ru,LEAVING
+2024-06-29 20:19:28,21 Kazan,Progress,h3,eldredmo@student.21-school.ru,LEAVING
+2024-06-29 20:20:55,21 Kazan,Genom,d1,skeetero@student.21-school.ru,ENTERING
+2024-06-29 20:21:36,21 Moscow,Void,a2,jonnelle@student.21-school.ru,LEAVING
+2024-06-29 20:22:12,21 Magas,Ezdel,a4,allyriap@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Moscow,Atlantis,k5,acollin@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Magas,Ezdel,n2,agrajshe@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Moscow,Atlantis,m7,apearl@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Yaroslavl,Ushakov,j3,arlaagra@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Veliky Novgorod,Quark,g6,audrykar@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Kazan,Genom,a1,barrysha@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Kazan,Genom,b5,belgravt@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Kazan,Vault,c5,celestiv@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Samarkand,sherdor,y3,christib@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Veliky Novgorod,Quark,h2,daariobr@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Yaroslavl,Ushakov,j1,dunnygri@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Kazan,Progress,f2,hardynsi@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Kazan,Genom,j3,loquatsr@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Magas,Denal,o3,merirosa@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Magas,Tesham,a3,stumptok@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Magas,Tesham,g6,suguhach@student.21-school.ru,ENTERING
+2024-06-29 20:49:46,21 Veliky Novgorod,Quark,f4,tannickl@student.21-school.ru,LEAVING
+2024-06-29 20:49:46,21 Yaroslavl,Ushakov,k1,zekefinn@student.21-school.ru,LEAVING
+2024-06-29 20:51:00,21 Kazan,Universe,e2,distillb@student.21-school.ru,LEAVING
+2024-06-29 20:51:00,21 Kazan,Universe,e2,qyburnpr@student.21-school.ru,ENTERING
+2024-06-29 20:51:18,21 Veliky Novgorod,Quark,g9,silenced@student.21-school.ru,LEAVING
+2024-06-29 20:51:37,21 Veliky Novgorod,Lepton,e5,irwinran@student.21-school.ru,LEAVING
+2024-06-29 20:52:12,21 Kazan,Vault,e5,urrasnar@student.21-school.ru,LEAVING
+2024-06-29 20:52:32,21 Kazan,Vault,h5,myeshaji@student.21-school.ru,LEAVING
+2024-06-29 20:53:28,21 Veliky Novgorod,Quark,h10,ashasutt@student.21-school.ru,LEAVING
+2024-06-29 20:55:08,21 Magas,Tesham,f4,cherylol@student.21-school.ru,LEAVING
+2024-06-29 20:55:08,21 Veliky Novgorod,Quark,b11,kosiseli@student.21-school.ru,LEAVING
+2024-06-29 20:55:08,21 Veliky Novgorod,Lepton,e2,pipelemu@student.21-school.ru,ENTERING
+2024-06-29 20:55:08,21 Kazan,Universe,e1,urrasnar@student.21-school.ru,ENTERING
+2024-06-29 20:57:52,21 Veliky Novgorod,Quark,g5,fairykyu@student.21-school.ru,LEAVING
+2024-06-29 20:58:09,21 Veliky Novgorod,Quark,g7,betseywe@student.21-school.ru,LEAVING
+2024-06-29 21:04:50,21 Samarkand,tillakori,e5,illalong@student.21-school.ru,LEAVING
+2024-06-29 21:05:27,21 Moscow,Atlantis,q9,rauthade@student.21-school.ru,LEAVING
+2024-06-29 21:06:05,21 Kazan,Genom,h2,zekemath@student.21-school.ru,LEAVING
+2024-06-29 21:06:59,21 Veliky Novgorod,Quark,g3,charlerh@student.21-school.ru,LEAVING
+2024-06-29 21:06:59,21 Magas,Ezdel,n5,gerdalor@student.21-school.ru,LEAVING
+2024-06-29 21:11:43,21 Surgut,Sulfur,c2,gearhead@student.21-school.ru,LEAVING
+2024-06-29 21:14:07,21 Veliky Novgorod,Quark,f3,kassiema@student.21-school.ru,LEAVING
+2024-06-29 21:14:51,21 Kazan,Universe,a5,alivewel@student.21-school.ru,LEAVING
+2024-06-29 21:15:09,21 Magas,Denal,o6,luannafr@student.21-school.ru,LEAVING
+2024-06-29 21:17:40,21 Veliky Novgorod,Quark,g1,ellamaeo@student.21-school.ru,LEAVING
+2024-06-29 21:18:22,21 Magas,Denal,o5,baggskur@student.21-school.ru,LEAVING
+2024-06-29 21:21:33,21 Veliky Novgorod,Quark,b10,sharlali@student.21-school.ru,LEAVING
+2024-06-29 21:23:09,21 Veliky Novgorod,Lepton,e3,jamibeul@student.21-school.ru,LEAVING
+2024-06-29 21:27:58,21 Kazan,Universe,f4,captaico@student.21-school.ru,LEAVING
+2024-06-29 21:31:43,21 Magas,Tesham,g6,suguhach@student.21-school.ru,LEAVING
+2024-06-29 21:34:14,21 Magas,Denal,m5,tarrapen@student.21-school.ru,LEAVING
+2024-06-29 21:35:07,21 Kazan,Genom,b2,shelbnet@student.21-school.ru,LEAVING
+2024-06-29 21:45:11,21 Magas,Denal,n4,sunfloea@student.21-school.ru,LEAVING
+2024-06-29 21:47:12,21 Kazan,Vault,h2,myregree@student.21-school.ru,ENTERING
+2024-06-29 21:53:05,21 Kazan,Vault,c5,celestiv@student.21-school.ru,ENTERING
+2024-06-29 21:53:30,21 Novosibirsk,Obscurity,h8,cedricho@student.21-school.ru,ENTERING
+2024-06-29 21:54:54,21 Kazan,Progress,g4,kellyech@student.21-school.ru,ENTERING
+2024-06-29 21:58:30,21 Moscow,Atlantis,a1,sparrvio@student.21-school.ru,LEAVING
+2024-06-29 21:59:32,21 Kazan,Progress,h4,shacothu@student.21-school.ru,ENTERING
+2024-06-29 22:04:17,21 Kazan,Genom,d1,skeetero@student.21-school.ru,LEAVING
+2024-06-29 22:05:30,21 Kazan,Universe,e2,qyburnpr@student.21-school.ru,LEAVING
+2024-06-29 22:06:36,21 Kazan,Genom,h4,krabappk@student.21-school.ru,LEAVING
+2024-06-29 22:16:04,21 Kazan,Universe,j1,gojiingl@student.21-school.ru,ENTERING
+2024-06-29 22:21:38,21 Kazan,Universe,g6,qyburnpr@student.21-school.ru,ENTERING
+2024-06-29 22:25:27,21 Kazan,Universe,e1,urrasnar@student.21-school.ru,LEAVING
+2024-06-29 22:28:02,21 Kazan,Vault,h2,myregree@student.21-school.ru,LEAVING
+2024-06-29 22:41:44,21 Kazan,Genom,d1,skeetero@student.21-school.ru,ENTERING
+2024-06-29 22:47:01,21 Kazan,Progress,o2,bifuraet@student.21-school.ru,ENTERING
+2024-06-29 22:48:00,21 Kazan,Progress,o4,arsondor@student.21-school.ru,ENTERING
+2024-06-29 22:49:12,21 Samarkand,tillakori,p4,ricassol@student.21-school.ru,LEAVING
+2024-06-29 22:52:13,21 Kazan,Genom,d1,skeetero@student.21-school.ru,LEAVING
+2024-06-29 22:52:29,21 Yakutsk,Tuskul,g1,dirkelle@student.21-school.ru,ENTERING
+2024-06-29 22:53:18,21 Kazan,Genom,d1,skeetero@student.21-school.ru,ENTERING
+2024-06-29 23:00:14,21 Kazan,Genom,d1,skeetero@student.21-school.ru,LEAVING
+2024-06-29 23:14:21,21 Surgut,Hydrogen,g1,maegorna@student.21-school.ru,ENTERING
+2024-06-29 23:14:21,21 Surgut,Hydrogen,g2,valeriaj@student.21-school.ru,ENTERING
+2024-06-29 23:14:37,21 Surgut,Hydrogen,g3,mattabzo@student.21-school.ru,ENTERING
+2024-06-29 23:17:43,21 Surgut,Hydrogen,g3,mattabzo@student.21-school.ru,LEAVING
+2024-06-29 23:18:00,21 Surgut,Hydrogen,g1,maegorna@student.21-school.ru,LEAVING
+2024-06-29 23:19:47,21 Kazan,Progress,h5,redfortp@student.21-school.ru,LEAVING
+2024-06-29 23:19:47,21 Surgut,Hydrogen,g2,valeriaj@student.21-school.ru,LEAVING
+2024-06-29 23:27:25,21 Veliky Novgorod,Quark,c9,mjollgra@student.21-school.ru,LEAVING
+2024-06-29 23:30:59,21 Novosibirsk,Infinity,b9,jonnabin@student.21-school.ru,LEAVING
+2024-06-29 23:35:59,21 Kazan,Progress,g4,kellyech@student.21-school.ru,LEAVING
+2024-06-29 23:35:59,21 Kazan,Progress,h4,shacothu@student.21-school.ru,LEAVING
+2024-06-29 23:38:40,21 Veliky Novgorod,Lepton,b7,eugenacl@student.21-school.ru,LEAVING
+2024-06-29 23:55:08,21 Veliky Novgorod,Lepton,e1,grennric@student.21-school.ru,LEAVING
+2024-06-29 23:57:57,21 Yakutsk,Sitim,c5,harodonr@student.21-school.ru,ENTERING
+2024-06-30 00:17:48,21 Kazan,Progress,g4,kellyech@student.21-school.ru,ENTERING
+2024-06-30 00:31:56,21 Kazan,Progress,h4,shacothu@student.21-school.ru,ENTERING
+2024-06-30 00:32:13,21 Veliky Novgorod,Lepton,e2,pipelemu@student.21-school.ru,LEAVING
+2024-06-30 00:46:25,21 Kazan,Progress,g2,myregree@student.21-school.ru,ENTERING
+2024-06-30 00:47:10,21 Yakutsk,Sitim,i3,romnycha@student.21-school.ru,ENTERING
+2024-06-30 00:52:11,21 Yakutsk,Sitim,i4,corlysma@student.21-school.ru,ENTERING
+2024-06-30 00:53:01,21 Novosibirsk,Infinity,b9,jonnabin@student.21-school.ru,ENTERING
+2024-06-30 01:06:33,21 Kazan,Genom,k5,mirianpr@student.21-school.ru,LEAVING
+2024-06-30 01:09:08,21 Moscow,Atlantis,r2,sharanka@student.21-school.ru,ENTERING
+2024-06-30 01:15:03,21 Yakutsk,Ayar,g5,andromed@student.21-school.ru,ENTERING
+2024-06-30 01:19:58,21 Yakutsk,Tuskul,j3,hallynec@student.21-school.ru,ENTERING
+2024-06-30 01:26:31,21 Yakutsk,Sitim,e3,creolesi@student.21-school.ru,ENTERING
+2024-06-30 01:27:29,21 Yakutsk,Ayar,h3,queenies@student.21-school.ru,ENTERING
+2024-06-30 01:27:46,21 Yakutsk,Ayar,g3,bumpbolg@student.21-school.ru,ENTERING
+2024-06-30 01:31:49,21 Yakutsk,Ayar,h5,gruyerec@student.21-school.ru,ENTERING
+2024-06-30 01:32:25,21 Yakutsk,Ayar,h1,simoneha@student.21-school.ru,ENTERING
+2024-06-30 01:33:16,21 Yakutsk,Sitim,i4,corlysma@student.21-school.ru,LEAVING
+2024-06-30 01:34:08,21 Yakutsk,Sitim,a1,corlysma@student.21-school.ru,ENTERING
+2024-06-30 01:37:56,21 Yakutsk,Ayar,g4,oshanido@student.21-school.ru,ENTERING
+2024-06-30 01:41:58,21 Kazan,Progress,o4,arsondor@student.21-school.ru,LEAVING
+2024-06-30 01:42:55,21 Yakutsk,Erchim,b3,despinam@student.21-school.ru,ENTERING
+2024-06-30 01:45:31,21 Yakutsk,Sitim,a1,corlysma@student.21-school.ru,LEAVING
+2024-06-30 01:49:19,21 Kazan,Vault,c2,zenyatan@student.21-school.ru,ENTERING
+2024-06-30 01:51:41,21 Kazan,Vault,c2,zenyatan@student.21-school.ru,LEAVING
+2024-06-30 01:53:05,21 Yakutsk,Erchim,d9,totesora@student.21-school.ru,ENTERING
+2024-06-30 01:53:05,21 Kazan,Vault,d2,zenyatan@student.21-school.ru,ENTERING
+2024-06-30 01:53:25,21 Yakutsk,Erchim,b2,arnetteb@student.21-school.ru,ENTERING
+2024-06-30 02:01:28,21 Novosibirsk,Infinity,b9,jonnabin@student.21-school.ru,LEAVING
+2024-06-30 02:06:40,21 Yakutsk,Tuskul,g4,estelljo@student.21-school.ru,ENTERING
+2024-06-30 02:08:03,21 Yakutsk,Tuskul,g3,slowbror@student.21-school.ru,ENTERING
+2024-06-30 02:09:49,21 Kazan,Progress,h4,shacothu@student.21-school.ru,LEAVING
+2024-06-30 02:10:27,21 Novosibirsk,Obscurity,f2,macygabr@student.21-school.ru,ENTERING
+2024-06-30 02:10:27,21 Novosibirsk,Obscurity,e8,vanesabo@student.21-school.ru,ENTERING
+2024-06-30 02:12:40,21 Yakutsk,Erchim,d3,madamhor@student.21-school.ru,ENTERING
+2024-06-30 02:19:19,21 Yakutsk,Ayar,d5,normundm@student.21-school.ru,ENTERING
+2024-06-30 02:20:03,21 Yakutsk,Erchim,c7,quencdie@student.21-school.ru,ENTERING
+2024-06-30 02:36:47,21 Yakutsk,Erchim,d8,dewitdoo@student.21-school.ru,ENTERING
+2024-06-30 02:41:34,21 Novosibirsk,Obscurity,e9,sandorme@student.21-school.ru,ENTERING
+2024-06-30 02:44:18,21 Kazan,Progress,g2,myregree@student.21-school.ru,LEAVING
+2024-06-30 02:46:14,21 Yakutsk,Sitim,f2,seadraem@student.21-school.ru,ENTERING
+2024-06-30 02:47:45,21 Yakutsk,Sitim,f3,haggardm@student.21-school.ru,ENTERING
+2024-06-30 02:49:56,21 Yakutsk,Sitim,f2,seadraem@student.21-school.ru,LEAVING
+2024-06-30 02:54:46,21 Yakutsk,Erchim,d6,beatrick@student.21-school.ru,ENTERING
+2024-06-30 02:56:39,21 Yakutsk,Tuskul,g4,estelljo@student.21-school.ru,LEAVING
+2024-06-30 03:00:08,21 Yakutsk,Ayar,g2,ventrest@student.21-school.ru,ENTERING
+2024-06-30 03:03:57,21 Yakutsk,Ayar,g1,vulpixco@student.21-school.ru,ENTERING
+2024-06-30 03:12:02,21 Yakutsk,Erchim,d10,selmaman@student.21-school.ru,ENTERING
+2024-06-30 03:12:21,21 Yakutsk,Ayar,g1,vulpixco@student.21-school.ru,LEAVING
+2024-06-30 03:12:56,21 Yakutsk,Erchim,b2,arnetteb@student.21-school.ru,LEAVING
+2024-06-30 03:12:56,21 Yakutsk,Ayar,e5,brunchcl@student.21-school.ru,ENTERING
+2024-06-30 03:13:54,21 Yakutsk,Erchim,e1,rhondali@student.21-school.ru,ENTERING
+2024-06-30 03:15:05,21 Yakutsk,Ayar,e5,brunchcl@student.21-school.ru,LEAVING
+2024-06-30 03:15:30,21 Yakutsk,Ayar,h4,vulpixco@student.21-school.ru,ENTERING
+2024-06-30 03:18:19,21 Yakutsk,Ayar,b4,arnetteb@student.21-school.ru,ENTERING
+2024-06-30 03:18:19,21 Yakutsk,Ayar,b2,brunchcl@student.21-school.ru,ENTERING
+2024-06-30 03:20:26,21 Yakutsk,Erchim,d7,noisepor@student.21-school.ru,ENTERING
+2024-06-30 03:23:10,21 Yakutsk,Sitim,e3,creolesi@student.21-school.ru,LEAVING
+2024-06-30 03:24:45,21 Yakutsk,Tuskul,g1,dirkelle@student.21-school.ru,LEAVING
+2024-06-30 03:26:21,21 Yakutsk,Sitim,e3,creolesi@student.21-school.ru,ENTERING
+2024-06-30 03:28:37,21 Yakutsk,Tuskul,g1,dirkelle@student.21-school.ru,ENTERING
+2024-06-30 03:28:37,21 Yakutsk,Tuskul,g4,estelljo@student.21-school.ru,ENTERING
+2024-06-30 03:29:12,21 Yakutsk,Tuskul,j3,hallynec@student.21-school.ru,LEAVING
+2024-06-30 03:31:39,21 Yakutsk,Tuskul,h2,hallynec@student.21-school.ru,ENTERING
+2024-06-30 03:32:50,21 Yakutsk,Tuskul,g4,estelljo@student.21-school.ru,LEAVING
+2024-06-30 03:33:08,21 Yakutsk,Tuskul,g4,estelljo@student.21-school.ru,ENTERING
+2024-06-30 03:36:27,21 Yakutsk,Ayar,h2,rudgekod@student.21-school.ru,ENTERING
+2024-06-30 03:37:19,21 Kazan,Vault,a5,captaink@student.21-school.ru,ENTERING
+2024-06-30 03:38:46,21 Yakutsk,Sitim,d4,marlysma@student.21-school.ru,ENTERING
+2024-06-30 03:39:04,21 Yakutsk,Sitim,a5,argoniaf@student.21-school.ru,ENTERING
+2024-06-30 03:39:19,21 Novosibirsk,Silence,c10,wandaest@student.21-school.ru,ENTERING
+2024-06-30 03:49:13,21 Yakutsk,Sitim,f3,haggardm@student.21-school.ru,LEAVING
+2024-06-30 03:49:13,21 Yakutsk,Sitim,i3,romnycha@student.21-school.ru,LEAVING
+2024-06-30 03:50:23,21 Samarkand,sherdor,e5,yonnrose@student.21-school.ru,ENTERING
+2024-06-30 03:51:19,21 Novosibirsk,Silence,c7,dinahumb@student.21-school.ru,ENTERING
+2024-06-30 03:51:19,21 Yakutsk,Sitim,i3,romnycha@student.21-school.ru,ENTERING
+2024-06-30 03:51:36,21 Yakutsk,Erchim,d2,kandyhoa@student.21-school.ru,ENTERING
+2024-06-30 03:54:33,21 Novosibirsk,Silence,c7,dinahumb@student.21-school.ru,LEAVING
+2024-06-30 03:54:33,21 Yakutsk,Ayar,d1,jerusalw@student.21-school.ru,ENTERING
+2024-06-30 03:56:17,21 Yakutsk,Sitim,d5,merowinf@student.21-school.ru,ENTERING
+2024-06-30 03:56:35,21 Yakutsk,Sitim,d3,objectte@student.21-school.ru,ENTERING
+2024-06-30 03:57:55,21 Yakutsk,Ayar,e1,elvinbru@student.21-school.ru,ENTERING
+2024-06-30 03:58:12,21 Yakutsk,Ayar,g4,oshanido@student.21-school.ru,LEAVING
+2024-06-30 04:01:08,21 Yakutsk,Erchim,d6,beatrick@student.21-school.ru,LEAVING
+2024-06-30 04:01:25,21 Novosibirsk,Silence,a9,elenemar@student.21-school.ru,ENTERING
+2024-06-30 04:01:42,21 Yakutsk,Erchim,c2,abbottme@student.21-school.ru,ENTERING
+2024-06-30 04:02:01,21 Novosibirsk,Silence,a5,dominicq@student.21-school.ru,ENTERING
+2024-06-30 04:02:01,21 Yakutsk,Ayar,g4,oshanido@student.21-school.ru,ENTERING
+2024-06-30 04:04:40,21 Yakutsk,Sitim,f2,pieceemm@student.21-school.ru,ENTERING
+2024-06-30 04:04:58,21 Yakutsk,Sitim,h5,stephanm@student.21-school.ru,ENTERING
+2024-06-30 04:05:35,21 Novosibirsk,Infinity,h6,granceti@student.21-school.ru,ENTERING
+2024-06-30 04:07:04,21 Novosibirsk,Silence,b6,clements@student.21-school.ru,ENTERING
+2024-06-30 04:07:04,21 Kazan,Universe,j1,gojiingl@student.21-school.ru,LEAVING
+2024-06-30 04:11:34,21 Yakutsk,Ayar,h3,queenies@student.21-school.ru,LEAVING
+2024-06-30 04:12:45,21 Yakutsk,Ayar,e5,queenies@student.21-school.ru,ENTERING
+2024-06-30 04:13:22,21 Yakutsk,Ayar,i2,orethapr@student.21-school.ru,ENTERING
+2024-06-30 04:13:22,21 Yakutsk,Tuskul,c1,pintowil@student.21-school.ru,ENTERING
+2024-06-30 04:17:28,21 Yakutsk,Sitim,i4,corlysma@student.21-school.ru,ENTERING
+2024-06-30 04:19:17,21 Yakutsk,Tuskul,f1,thracede@student.21-school.ru,ENTERING
+2024-06-30 04:20:12,21 Yakutsk,Tuskul,f1,thracede@student.21-school.ru,LEAVING
+2024-06-30 04:20:57,21 Samarkand,sherdor,y3,christib@student.21-school.ru,ENTERING
+2024-06-30 04:20:57,21 Yakutsk,Tuskul,g2,thracede@student.21-school.ru,ENTERING
+2024-06-30 04:20:57,21 Yakutsk,Sitim,c1,woodysyl@student.21-school.ru,ENTERING
+2024-06-30 04:21:11,21 Novosibirsk,Obscurity,f2,macygabr@student.21-school.ru,LEAVING
+2024-06-30 04:21:55,21 Novosibirsk,Infinity,b9,birdpers@student.21-school.ru,ENTERING
+2024-06-30 04:23:25,21 Yakutsk,Erchim,c4,yelename@student.21-school.ru,ENTERING
+2024-06-30 04:27:25,21 Novosibirsk,Obscurity,h4,nicolesp@student.21-school.ru,ENTERING
+2024-06-30 04:29:49,21 Yakutsk,Erchim,d6,beatrick@student.21-school.ru,ENTERING
+2024-06-30 04:29:49,21 Kazan,Universe,j1,gojiingl@student.21-school.ru,ENTERING
+2024-06-30 04:30:25,21 Yakutsk,Erchim,c5,areskutz@student.21-school.ru,ENTERING
+2024-06-30 04:32:25,21 Yakutsk,Erchim,d6,beatrick@student.21-school.ru,LEAVING
+2024-06-30 04:32:25,21 Yakutsk,Ayar,a2,glyndach@student.21-school.ru,ENTERING
+2024-06-30 04:32:58,21 Surgut,Hydrogen,a7,gryffina@student.21-school.ru,ENTERING
+2024-06-30 04:32:58,21 Kazan,Vault,d2,zenyatan@student.21-school.ru,LEAVING
+2024-06-30 04:38:00,21 Kazan,Progress,o2,bifuraet@student.21-school.ru,LEAVING
+2024-06-30 04:40:06,21 Yakutsk,Ayar,b2,brunchcl@student.21-school.ru,LEAVING
+2024-06-30 04:40:06,21 Novosibirsk,Infinity,c6,durranpl@student.21-school.ru,ENTERING
+2024-06-30 04:43:20,21 Yakutsk,Sitim,i4,corlysma@student.21-school.ru,LEAVING
+2024-06-30 04:46:48,21 Novosibirsk,Silence,c2,oakeymar@student.21-school.ru,ENTERING
+2024-06-30 04:47:13,21 Yakutsk,Ayar,h1,simoneha@student.21-school.ru,LEAVING
+2024-06-30 04:47:31,21 Yakutsk,Erchim,d6,beatrick@student.21-school.ru,ENTERING
+2024-06-30 04:52:29,21 Yakutsk,Sitim,a1,corlysma@student.21-school.ru,ENTERING
+2024-06-30 04:52:44,21 Yakutsk,Sitim,f2,pieceemm@student.21-school.ru,LEAVING
+2024-06-30 04:55:06,21 Novosibirsk,Silence,a9,elenemar@student.21-school.ru,LEAVING
+2024-06-30 04:58:37,21 Yakutsk,Sitim,e3,creolesi@student.21-school.ru,LEAVING
+2024-06-30 05:00:14,21 Yakutsk,Ayar,i3,oshacary@student.21-school.ru,ENTERING
+2024-06-30 05:00:29,21 Yakutsk,Ayar,g1,marginch@student.21-school.ru,ENTERING
+2024-06-30 05:02:27,21 Yakutsk,Sitim,i1,tommyegr@student.21-school.ru,ENTERING
+2024-06-30 05:03:20,21 Yakutsk,Tuskul,c1,pintowil@student.21-school.ru,LEAVING
+2024-06-30 05:05:08,21 Kazan,Genom,a6,leathaho@student.21-school.ru,LEAVING
+2024-06-30 05:05:28,21 Yakutsk,Ayar,d2,rickicha@student.21-school.ru,ENTERING
+2024-06-30 05:05:46,21 Yakutsk,Ayar,d4,mariande@student.21-school.ru,ENTERING
+2024-06-30 05:06:04,21 Yakutsk,Ayar,c4,pintowil@student.21-school.ru,ENTERING
+2024-06-30 05:06:22,21 Novosibirsk,Infinity,h5,jonnabin@student.21-school.ru,ENTERING
+2024-06-30 05:07:05,21 Yakutsk,Erchim,g5,slavemag@student.21-school.ru,ENTERING
+2024-06-30 05:07:23,21 Yakutsk,Ayar,i2,orethapr@student.21-school.ru,LEAVING
+2024-06-30 05:07:23,21 Yakutsk,Erchim,g5,slavemag@student.21-school.ru,LEAVING
+2024-06-30 05:09:22,21 Yakutsk,Erchim,d7,noisepor@student.21-school.ru,LEAVING
+2024-06-30 05:09:22,21 Moscow,Mirage,l6,porthert@student.21-school.ru,ENTERING
+2024-06-30 05:09:59,21 Yakutsk,Sitim,h5,stephanm@student.21-school.ru,LEAVING
+2024-06-30 05:11:22,21 Surgut,Hydrogen,a9,tiffanev@student.21-school.ru,ENTERING
+2024-06-30 05:13:29,21 Yaroslavl,Ushakov,i3,darlaind@student.21-school.ru,ENTERING
+2024-06-30 05:13:29,21 Yakutsk,Sitim,b3,pieceemm@student.21-school.ru,ENTERING
+2024-06-30 05:14:03,21 Yakutsk,Sitim,e6,hollisgr@student.21-school.ru,ENTERING
+2024-06-30 05:14:23,21 Novosibirsk,Obscurity,d1,hummusje@student.21-school.ru,ENTERING
+2024-06-30 05:15:19,21 Yakutsk,Erchim,e1,rhondali@student.21-school.ru,LEAVING
+2024-06-30 05:15:37,21 Novosibirsk,Silence,a5,dominicq@student.21-school.ru,LEAVING
+2024-06-30 05:17:06,21 Novosibirsk,Obscurity,d2,kudzusat@student.21-school.ru,ENTERING
+2024-06-30 05:18:17,21 Novosibirsk,Obscurity,f2,macygabr@student.21-school.ru,ENTERING
+2024-06-30 05:18:56,21 Yakutsk,Sitim,d4,marlysma@student.21-school.ru,LEAVING
+2024-06-30 05:19:33,21 Novosibirsk,Infinity,h2,jeffielo@student.21-school.ru,ENTERING
+2024-06-30 05:22:57,21 Yakutsk,Sitim,g4,cypherco@student.21-school.ru,ENTERING
+2024-06-30 05:23:54,21 Magas,Tesham,f1,johnnyfi@student.21-school.ru,ENTERING
+2024-06-30 05:25:28,21 Yakutsk,Erchim,c5,areskutz@student.21-school.ru,LEAVING
+2024-06-30 05:25:28,21 Moscow,Atlantis,r2,sharanka@student.21-school.ru,LEAVING
+2024-06-30 05:25:28,21 Yakutsk,Sitim,i1,tommyegr@student.21-school.ru,LEAVING
+2024-06-30 05:26:29,21 Yakutsk,Erchim,c5,areskutz@student.21-school.ru,ENTERING
+2024-06-30 05:27:33,21 Yakutsk,Sitim,e5,emmonsha@student.21-school.ru,ENTERING
+2024-06-30 05:27:53,21 Yakutsk,Ayar,b4,arnetteb@student.21-school.ru,LEAVING
+2024-06-30 05:27:53,21 Veliky Novgorod,Quark,f1,effrafas@student.21-school.ru,ENTERING
+2024-06-30 05:27:53,21 Magas,Tesham,f3,pastkere@student.21-school.ru,ENTERING
+2024-06-30 05:28:28,21 Yakutsk,Ayar,d1,jerusalw@student.21-school.ru,LEAVING
+2024-06-30 05:28:44,21 Novosibirsk,Infinity,e6,julietah@student.21-school.ru,ENTERING
+2024-06-30 05:32:12,21 Yakutsk,Sitim,b6,ygrittea@student.21-school.ru,ENTERING
+2024-06-30 05:32:31,21 Yakutsk,Ayar,i1,nicolemy@student.21-school.ru,ENTERING
+2024-06-30 05:33:06,21 Samarkand,sherdor,a5,hayheadt@student.21-school.ru,LEAVING
+2024-06-30 05:33:43,21 Samarkand,sherdor,y5,lorenuzu@student.21-school.ru,ENTERING
+2024-06-30 05:33:43,21 Yakutsk,Tuskul,f1,tamikotw@student.21-school.ru,ENTERING
+2024-06-30 05:34:01,21 Yakutsk,Ayar,g4,oshanido@student.21-school.ru,LEAVING
+2024-06-30 05:34:38,21 Yakutsk,Ayar,f2,margeral@student.21-school.ru,ENTERING
+2024-06-30 05:35:51,21 Yakutsk,Sitim,g1,birdluci@student.21-school.ru,ENTERING
+2024-06-30 05:36:10,21 Yakutsk,Sitim,a1,corlysma@student.21-school.ru,LEAVING
+2024-06-30 05:37:12,21 Yakutsk,Ayar,i2,orethapr@student.21-school.ru,ENTERING
+2024-06-30 05:37:31,21 Kazan,Universe,j1,gojiingl@student.21-school.ru,LEAVING
+2024-06-30 05:38:07,21 Kazan,Universe,k1,zenyatan@student.21-school.ru,ENTERING
+2024-06-30 05:40:30,21 Kazan,Evolution,g6,heidysha@student.21-school.ru,ENTERING
+2024-06-30 05:41:33,21 Yakutsk,Erchim,c6,ezekiele@student.21-school.ru,ENTERING
+2024-06-30 05:41:58,21 Novosibirsk,Silence,a10,draugrol@student.21-school.ru,ENTERING
+2024-06-30 05:42:15,21 Yakutsk,Ayar,b4,arnetteb@student.21-school.ru,ENTERING
+2024-06-30 05:42:15,21 Kazan,Universe,j1,gojiingl@student.21-school.ru,ENTERING
+2024-06-30 05:42:53,21 Yakutsk,Sitim,d4,marlysma@student.21-school.ru,ENTERING
+2024-06-30 05:42:53,21 Yakutsk,Sitim,d5,merowinf@student.21-school.ru,LEAVING
+2024-06-30 05:44:09,21 Yakutsk,Sitim,d3,objectte@student.21-school.ru,LEAVING
+2024-06-30 05:45:02,21 Kazan,Universe,l4,ninapete@student.21-school.ru,ENTERING
+2024-06-30 05:45:20,21 Surgut,Hydrogen,a7,gryffina@student.21-school.ru,LEAVING
+2024-06-30 05:46:22,21 Magas,Tesham,i2,woodsazi@student.21-school.ru,ENTERING
+2024-06-30 05:47:38,21 Kazan,Evolution,g4,barleyhe@student.21-school.ru,ENTERING
+2024-06-30 05:48:32,21 Magas,Denal,o1,chakotga@student.21-school.ru,ENTERING
+2024-06-30 05:49:25,21 Yakutsk,Erchim,d9,totesora@student.21-school.ru,LEAVING
+2024-06-30 05:50:00,21 Yakutsk,Erchim,d9,totesora@student.21-school.ru,ENTERING
+2024-06-30 05:50:18,21 Yakutsk,Erchim,e3,scarletr@student.21-school.ru,ENTERING
+2024-06-30 05:51:46,21 Kazan,Vault,b3,rachelsa@student.21-school.ru,ENTERING
+2024-06-30 05:52:03,21 Novosibirsk,Silence,a5,dominicq@student.21-school.ru,ENTERING
+2024-06-30 05:52:20,21 Yakutsk,Erchim,c4,yelename@student.21-school.ru,LEAVING
+2024-06-30 05:52:58,21 Samarkand,tillakori,a5,ilynpois@student.21-school.ru,ENTERING
+2024-06-30 05:53:53,21 Yakutsk,Ayar,b2,brunchcl@student.21-school.ru,ENTERING
+2024-06-30 05:54:09,21 Yakutsk,Sitim,c1,woodysyl@student.21-school.ru,LEAVING
+2024-06-30 05:55:20,21 Samarkand,sherdor,a5,hayheadt@student.21-school.ru,ENTERING
+2024-06-30 05:57:44,21 Novosibirsk,Silence,a9,elenemar@student.21-school.ru,ENTERING
+2024-06-30 05:58:38,21 Yakutsk,Sitim,i1,tommyegr@student.21-school.ru,ENTERING
+2024-06-30 05:58:59,21 Yakutsk,Sitim,i4,creolesi@student.21-school.ru,ENTERING
+2024-06-30 05:59:52,21 Magas,Tesham,c5,vanessst@student.21-school.ru,ENTERING
+2024-06-30 06:01:14,21 Yakutsk,Tuskul,i3,aeronedg@student.21-school.ru,ENTERING
+2024-06-30 06:02:35,21 Yakutsk,Sitim,i1,tommyegr@student.21-school.ru,LEAVING
+2024-06-30 06:03:13,21 Magas,Tesham,f2,poudregi@student.21-school.ru,ENTERING
+2024-06-30 06:03:30,21 Surgut,Hydrogen,h7,mangoshe@student.21-school.ru,ENTERING
+2024-06-30 06:04:41,21 Novosibirsk,Infinity,h5,jonnabin@student.21-school.ru,LEAVING
+2024-06-30 06:04:41,21 Magas,Denal,l2,margaerm@student.21-school.ru,ENTERING
+2024-06-30 06:05:35,21 Magas,Tesham,f1,johnnyfi@student.21-school.ru,LEAVING
+2024-06-30 06:05:35,21 Magas,Tesham,f2,poudregi@student.21-school.ru,LEAVING
+2024-06-30 06:06:02,21 Novosibirsk,Silence,c9,sancepas@student.21-school.ru,ENTERING
+2024-06-30 06:06:27,21 Magas,Tesham,b6,tregarmi@student.21-school.ru,ENTERING
+2024-06-30 06:06:44,21 Yakutsk,Ayar,j4,raffonec@student.21-school.ru,ENTERING
+2024-06-30 06:07:41,21 Yakutsk,Sitim,e2,temekabl@student.21-school.ru,ENTERING
+2024-06-30 06:08:37,21 Magas,Tesham,g5,johnnyfi@student.21-school.ru,ENTERING
+2024-06-30 06:08:37,21 Magas,Tesham,g6,poudregi@student.21-school.ru,ENTERING
+2024-06-30 06:10:27,21 Veliky Novgorod,Quark,a6,thedamol@student.21-school.ru,ENTERING
+2024-06-30 06:11:18,21 Yakutsk,Sitim,b3,pieceemm@student.21-school.ru,LEAVING
+2024-06-30 06:11:18,21 Yakutsk,Erchim,c8,stasiave@student.21-school.ru,ENTERING
+2024-06-30 06:12:19,21 Novosibirsk,Obscurity,j8,hatchesn@student.21-school.ru,ENTERING
+2024-06-30 06:12:57,21 Surgut,Hydrogen,a8,noahlesa@student.21-school.ru,ENTERING
+2024-06-30 06:12:57,21 Yaroslavl,Tkachenko,q2,socorrov@student.21-school.ru,ENTERING
+2024-06-30 06:14:29,21 Yakutsk,Erchim,g2,chereewe@student.21-school.ru,ENTERING
+2024-06-30 06:14:29,21 Yakutsk,Sitim,e6,hollisgr@student.21-school.ru,LEAVING
+2024-06-30 06:14:29,21 Yakutsk,Sitim,i2,tommyegr@student.21-school.ru,ENTERING
+2024-06-30 06:14:45,21 Yakutsk,Erchim,c5,areskutz@student.21-school.ru,LEAVING
+2024-06-30 06:15:05,21 Veliky Novgorod,Quark,a1,deedeema@student.21-school.ru,ENTERING
+2024-06-30 06:15:24,21 Yakutsk,Sitim,e6,sapphirl@student.21-school.ru,ENTERING
+2024-06-30 06:15:44,21 Surgut,Hydrogen,a7,gryffina@student.21-school.ru,ENTERING
+2024-06-30 06:16:43,21 Yakutsk,Sitim,d5,hollisgr@student.21-school.ru,ENTERING
+2024-06-30 06:17:00,21 Yakutsk,Tuskul,g3,slowbror@student.21-school.ru,LEAVING
+2024-06-30 06:18:13,21 Magas,Denal,l6,adellaet@student.21-school.ru,ENTERING
+2024-06-30 06:18:32,21 Samarkand,sherdor,y5,lorenuzu@student.21-school.ru,LEAVING
+2024-06-30 06:19:05,21 Yakutsk,Ayar,a1,erichbla@student.21-school.ru,ENTERING
+2024-06-30 06:19:25,21 Magas,Denal,j1,aragogha@student.21-school.ru,ENTERING
+2024-06-30 06:21:12,21 Magas,Tesham,j5,nguyetja@student.21-school.ru,ENTERING
+2024-06-30 06:22:47,21 Magas,Denal,e1,lasszule@student.21-school.ru,ENTERING
+2024-06-30 06:23:07,21 Magas,Tesham,d1,suguhach@student.21-school.ru,ENTERING
+2024-06-30 06:23:25,21 Yaroslavl,Ushakov,i1,carmonra@student.21-school.ru,ENTERING
+2024-06-30 06:23:43,21 Yakutsk,Ayar,g4,oshanido@student.21-school.ru,ENTERING
+2024-06-30 06:23:43,21 Yaroslavl,Ushakov,g3,sejuania@student.21-school.ru,ENTERING
+2024-06-30 06:24:39,21 Novosibirsk,Obscurity,h4,nicolesp@student.21-school.ru,LEAVING
+2024-06-30 06:26:26,21 Kazan,Progress,g4,kellyech@student.21-school.ru,LEAVING
+2024-06-30 06:26:44,21 Magas,Ezdel,d2,krustyes@student.21-school.ru,ENTERING
+2024-06-30 06:29:12,21 Magas,Ezdel,d2,krustyes@student.21-school.ru,LEAVING
+2024-06-30 06:29:31,21 Kazan,Genom,e2,renaultd@student.21-school.ru,ENTERING
+2024-06-30 06:30:53,21 Magas,Tesham,f1,merirosa@student.21-school.ru,ENTERING
+2024-06-30 06:30:53,21 Magas,Ezdel,d5,rachaela@student.21-school.ru,ENTERING
+2024-06-30 06:31:11,21 Magas,Ezdel,d4,krustyes@student.21-school.ru,ENTERING
+2024-06-30 06:31:45,21 Magas,Tesham,j2,galenani@student.21-school.ru,ENTERING
+2024-06-30 06:32:23,21 Veliky Novgorod,Quark,b3,owynwend@student.21-school.ru,ENTERING
+2024-06-30 06:32:41,21 Magas,Tesham,i4,thademma@student.21-school.ru,ENTERING
+2024-06-30 06:32:59,21 Veliky Novgorod,Lepton,e5,irwinran@student.21-school.ru,ENTERING
+2024-06-30 06:33:17,21 Yakutsk,Tuskul,b6,brunapea@student.21-school.ru,ENTERING
+2024-06-30 06:34:32,21 Veliky Novgorod,Quark,b9,luisemar@student.21-school.ru,LEAVING
+2024-06-30 06:34:51,21 Yakutsk,Tuskul,b6,brunapea@student.21-school.ru,LEAVING
+2024-06-30 06:34:51,21 Veliky Novgorod,Quark,b9,luisemar@student.21-school.ru,ENTERING
+2024-06-30 06:35:26,21 Yakutsk,Sitim,g5,brunapea@student.21-school.ru,ENTERING
+2024-06-30 06:35:51,21 Magas,Denal,m1,hellenor@student.21-school.ru,ENTERING
+2024-06-30 06:36:11,21 Magas,Denal,a5,tomatone@student.21-school.ru,ENTERING
+2024-06-30 06:36:28,21 Yakutsk,Ayar,b2,brunchcl@student.21-school.ru,LEAVING
+2024-06-30 06:36:45,21 Yakutsk,Sitim,i2,tommyegr@student.21-school.ru,LEAVING
+2024-06-30 06:37:23,21 Moscow,Atlantis,o7,vanesawo@student.21-school.ru,ENTERING
+2024-06-30 06:37:41,21 Magas,Tesham,a5,corineil@student.21-school.ru,ENTERING
+2024-06-30 06:39:11,21 Magas,Sabar,c6,ruthanel@student.21-school.ru,ENTERING
+2024-06-30 06:41:01,21 Magas,Denal,f5,baharatl@student.21-school.ru,ENTERING
+2024-06-30 06:42:36,21 Yakutsk,Sitim,b6,ygrittea@student.21-school.ru,LEAVING
+2024-06-30 06:44:03,21 Yakutsk,Sitim,h2,questiov@student.21-school.ru,ENTERING
+2024-06-30 06:44:03,21 Magas,Denal,o3,stumptok@student.21-school.ru,ENTERING
+2024-06-30 06:44:20,21 Yakutsk,Sitim,g3,ygrittea@student.21-school.ru,ENTERING
+2024-06-30 06:45:17,21 Surgut,Hydrogen,h7,mangoshe@student.21-school.ru,LEAVING
+2024-06-30 06:45:35,21 Magas,Denal,f2,halfempd@student.21-school.ru,ENTERING
+2024-06-30 06:45:55,21 Novosibirsk,Silence,a5,dominicq@student.21-school.ru,LEAVING
+2024-06-30 06:46:14,21 Moscow,Atlantis,f6,ameeleon@student.21-school.ru,ENTERING
+2024-06-30 06:46:52,21 Novosibirsk,Silence,a5,dominicq@student.21-school.ru,ENTERING
+2024-06-30 06:47:27,21 Yakutsk,Ayar,e1,elvinbru@student.21-school.ru,LEAVING
+2024-06-30 06:47:27,21 Surgut,Hydrogen,a6,hagridmi@student.21-school.ru,ENTERING
+2024-06-30 06:47:47,21 Yakutsk,Erchim,c6,ezekiele@student.21-school.ru,LEAVING
+2024-06-30 06:47:47,21 Moscow,Oasis,o3,lidiamah@student.21-school.ru,ENTERING
+2024-06-30 06:47:47,21 Surgut,Hydrogen,a5,mangoshe@student.21-school.ru,ENTERING
+2024-06-30 06:47:47,21 Kazan,Eternity,a6,marlinto@student.21-school.ru,ENTERING
+2024-06-30 06:48:20,21 Yakutsk,Sitim,c1,holleycl@student.21-school.ru,ENTERING
+2024-06-30 06:48:38,21 Yakutsk,Ayar,c1,ezekiele@student.21-school.ru,ENTERING
+2024-06-30 06:49:31,21 Kazan,Progress,c2,armondvi@student.21-school.ru,ENTERING
+2024-06-30 06:49:31,21 Kazan,Singularity,p4,chickpet@student.21-school.ru,ENTERING
+2024-06-30 06:49:31,21 Kazan,Vault,g3,diamondp@student.21-school.ru,ENTERING
+2024-06-30 06:49:31,21 Kazan,Genom,e5,quintons@student.21-school.ru,ENTERING
+2024-06-30 06:49:31,21 Yakutsk,Sitim,i2,tommyegr@student.21-school.ru,ENTERING
+2024-06-30 06:49:50,21 Veliky Novgorod,Quark,b9,luisemar@student.21-school.ru,LEAVING
+2024-06-30 06:50:08,21 Veliky Novgorod,Quark,h12,intellib@student.21-school.ru,ENTERING
+2024-06-30 06:50:44,21 Yakutsk,Sitim,g4,cypherco@student.21-school.ru,LEAVING
+2024-06-30 06:50:44,21 Yakutsk,Erchim,f5,hiltonma@student.21-school.ru,ENTERING
+2024-06-30 06:51:19,21 Magas,Ezdel,p5,janeyrub@student.21-school.ru,LEAVING
+2024-06-30 06:51:39,21 Magas,Tesham,c4,arrected@student.21-school.ru,ENTERING
+2024-06-30 06:51:39,21 Yakutsk,Sitim,g4,tumitiss@student.21-school.ru,ENTERING
+2024-06-30 06:51:57,21 Kazan,Evolution,h3,catinasw@student.21-school.ru,ENTERING
+2024-06-30 06:51:57,21 Yakutsk,Erchim,g2,chereewe@student.21-school.ru,LEAVING
+2024-06-30 06:51:57,21 Novosibirsk,Infinity,g5,mitcheba@student.21-school.ru,ENTERING
+2024-06-30 06:53:14,21 Yakutsk,Sitim,i3,romnycha@student.21-school.ru,LEAVING
+2024-06-30 06:53:32,21 Yaroslavl,Ushakov,d6,shericev@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Moscow,Atlantis,j6,alexista@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Surgut,Hydrogen,g9,callistj@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Yaroslavl,Ushakov,i4,cecilaoc@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Magas,Tesham,f4,cherylol@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Yakutsk,Sitim,i4,creolesi@student.21-school.ru,LEAVING
+2024-06-30 07:11:27,21 Novosibirsk,Infinity,c6,durranpl@student.21-school.ru,LEAVING
+2024-06-30 07:11:27,21 Kazan,Vault,e5,ellensem@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Yakutsk,Ayar,e1,elvinbru@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Novosibirsk,Infinity,c4,graveshe@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Magas,Denal,j2,gummyfra@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Yakutsk,Erchim,b1,jarlamab@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Magas,Denal,m3,minisagu@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Novosibirsk,Silence,c2,oakeymar@student.21-school.ru,LEAVING
+2024-06-30 07:11:27,21 Yaroslavl,Ushakov,i2,pulaskiu@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Magas,Ezdel,a1,pullemni@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Veliky Novgorod,Lepton,a7,quantumr@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Magas,Tesham,a3,rosellem@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Magas,Sabar,c6,ruthanel@student.21-school.ru,LEAVING
+2024-06-30 07:11:27,21 Magas,Denal,e2,shavonry@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Novosibirsk,Silence,d10,smokedem@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Yakutsk,Ayar,e3,softfooe@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Magas,Tesham,j3,spinnetg@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Yaroslavl,Ushakov,c6,stockmer@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Veliky Novgorod,Quark,a6,thedamol@student.21-school.ru,LEAVING
+2024-06-30 07:11:27,21 Samarkand,sherdor,b2,toffeebl@student.21-school.ru,ENTERING
+2024-06-30 07:11:27,21 Magas,Tesham,j1,tonettes@student.21-school.ru,ENTERING
+2024-06-30 07:12:23,21 Kazan,Universe,d6,adellabr@student.21-school.ru,ENTERING
+2024-06-30 07:12:23,21 Yaroslavl,Ushakov,c5,yurikoro@student.21-school.ru,ENTERING
+2024-06-30 07:14:32,21 Yakutsk,Erchim,e5,lynettan@student.21-school.ru,ENTERING
+2024-06-30 07:14:32,21 Yakutsk,Sitim,i2,tommyegr@student.21-school.ru,LEAVING
+2024-06-30 07:15:10,21 Magas,Denal,n6,ruthanel@student.21-school.ru,ENTERING
+2024-06-30 07:15:27,21 Magas,Ezdel,p4,lyannawi@student.21-school.ru,ENTERING
+2024-06-30 07:16:01,21 Yakutsk,Erchim,g3,narwhalv@student.21-school.ru,ENTERING
+2024-06-30 07:17:33,21 Yakutsk,Erchim,d2,kandyhoa@student.21-school.ru,LEAVING
+2024-06-30 07:18:09,21 Kazan,Vault,a5,captaink@student.21-school.ru,LEAVING
+2024-06-30 07:18:27,21 Samarkand,tillakori,w5,illalong@student.21-school.ru,ENTERING
+2024-06-30 07:19:18,21 Yakutsk,Sitim,a3,horserap@student.21-school.ru,ENTERING
+2024-06-30 07:19:59,21 Yaroslavl,Ushakov,o2,muckwyli@student.21-school.ru,ENTERING
+2024-06-30 07:20:52,21 Kazan,Progress,i3,condonmi@student.21-school.ru,ENTERING
+2024-06-30 07:20:52,21 Yaroslavl,Ushakov,j4,darlaind@student.21-school.ru,LEAVING
+2024-06-30 07:22:19,21 Yakutsk,Erchim,a1,grapevic@student.21-school.ru,ENTERING
+2024-06-30 07:22:39,21 Yaroslavl,Ushakov,i3,darlaind@student.21-school.ru,ENTERING
+2024-06-30 07:23:33,21 Kazan,Singularity,p2,captaink@student.21-school.ru,ENTERING
+2024-06-30 07:24:29,21 Yaroslavl,Ushakov,e4,didijacq@student.21-school.ru,ENTERING
+2024-06-30 07:25:27,21 Magas,Sabar,f6,xerathka@student.21-school.ru,ENTERING
+2024-06-30 07:25:46,21 Magas,Denal,o2,tabethtu@student.21-school.ru,ENTERING
+2024-06-30 07:26:03,21 Magas,Denal,f5,baharatl@student.21-school.ru,LEAVING
+2024-06-30 07:26:23,21 Surgut,Hydrogen,h4,melaraka@student.21-school.ru,ENTERING
+2024-06-30 07:26:23,21 Yaroslavl,Ushakov,q3,robbverl@student.21-school.ru,ENTERING
+2024-06-30 07:27:00,21 Magas,Tesham,a4,ettahass@student.21-school.ru,ENTERING
+2024-06-30 07:27:00,21 Yaroslavl,Tkachenko,e3,okanosha@student.21-school.ru,ENTERING
+2024-06-30 07:27:19,21 Veliky Novgorod,Lepton,e6,thedamol@student.21-school.ru,ENTERING
+2024-06-30 07:28:33,21 Kazan,Universe,h6,cranbero@student.21-school.ru,ENTERING
+2024-06-30 07:28:53,21 Novosibirsk,Obscurity,h5,electroe@student.21-school.ru,ENTERING
+2024-06-30 07:29:12,21 Yakutsk,Ayar,f5,jalikakb@student.21-school.ru,ENTERING
+2024-06-30 07:30:29,21 Magas,Tesham,i3,argraveb@student.21-school.ru,ENTERING
+2024-06-30 07:30:47,21 Yakutsk,Ayar,b4,arnetteb@student.21-school.ru,LEAVING
+2024-06-30 07:31:23,21 Novosibirsk,Silence,a3,myrlemal@student.21-school.ru,ENTERING
+2024-06-30 07:33:10,21 Magas,Tesham,j6,brainyco@student.21-school.ru,ENTERING
+2024-06-30 07:33:10,21 Yakutsk,Ayar,g2,ventrest@student.21-school.ru,LEAVING
+2024-06-30 07:35:01,21 Yaroslavl,Ushakov,g4,dorianbu@student.21-school.ru,ENTERING
+2024-06-30 07:35:20,21 Moscow,Oasis,k5,ricardof@student.21-school.ru,ENTERING
+2024-06-30 07:35:38,21 Kazan,Genom,j3,loquatsr@student.21-school.ru,ENTERING
+2024-06-30 07:36:47,21 Magas,Ezdel,p2,neelixve@student.21-school.ru,ENTERING
+2024-06-30 07:37:40,21 Yakutsk,Sitim,h1,denystri@student.21-school.ru,ENTERING
+2024-06-30 07:37:58,21 Magas,Denal,l3,theobalk@student.21-school.ru,ENTERING
+2024-06-30 07:38:33,21 Magas,Ezdel,l3,lovejoye@student.21-school.ru,ENTERING
+2024-06-30 07:39:10,21 Surgut,Carbon,f3,pennyclo@student.21-school.ru,ENTERING
+2024-06-30 07:39:10,21 Yaroslavl,Tkachenko,i4,ryzefire@student.21-school.ru,ENTERING
+2024-06-30 07:40:11,21 Yakutsk,Ayar,c4,pintowil@student.21-school.ru,LEAVING
+2024-06-30 07:40:50,21 Yaroslavl,Tkachenko,q3,rubensel@student.21-school.ru,ENTERING
+2024-06-30 07:41:24,21 Yaroslavl,Tkachenko,e3,okanosha@student.21-school.ru,LEAVING
+2024-06-30 07:41:24,21 Veliky Novgorod,Boson,b6,patakibe@student.21-school.ru,ENTERING
+2024-06-30 07:41:42,21 Yaroslavl,Ushakov,c1,flitwicu@student.21-school.ru,ENTERING
+2024-06-30 07:41:42,21 Yaroslavl,Tkachenko,i4,ryzefire@student.21-school.ru,LEAVING
+2024-06-30 07:42:01,21 Yakutsk,Ayar,c4,pintowil@student.21-school.ru,ENTERING
+2024-06-30 07:42:01,21 Yaroslavl,Tkachenko,i3,ryzefire@student.21-school.ru,ENTERING
+2024-06-30 07:42:18,21 Surgut,Hydrogen,a4,northmoh@student.21-school.ru,ENTERING
+2024-06-30 07:43:34,21 Yaroslavl,Tkachenko,e2,commanan@student.21-school.ru,ENTERING
+2024-06-30 07:43:52,21 Yakutsk,Ayar,a2,glyndach@student.21-school.ru,LEAVING
+2024-06-30 07:44:27,21 Yakutsk,Ayar,c1,ezekiele@student.21-school.ru,LEAVING
+2024-06-30 07:44:27,21 Samarkand,sherdor,b2,toffeebl@student.21-school.ru,LEAVING
+2024-06-30 07:45:08,21 Yakutsk,Ayar,c1,ezekiele@student.21-school.ru,ENTERING
+2024-06-30 07:46:02,21 Yakutsk,Ayar,a2,glyndach@student.21-school.ru,ENTERING
+2024-06-30 07:46:02,21 Yakutsk,Sitim,e2,temekabl@student.21-school.ru,LEAVING
+2024-06-30 07:46:23,21 Yakutsk,Sitim,i2,annihilt@student.21-school.ru,ENTERING
+2024-06-30 07:46:41,21 Surgut,Hydrogen,f3,stonetrl@student.21-school.ru,ENTERING
+2024-06-30 07:47:00,21 Yakutsk,Erchim,d3,madamhor@student.21-school.ru,LEAVING
+2024-06-30 07:47:00,21 Kazan,Eternity,g5,weaverir@student.21-school.ru,ENTERING
+2024-06-30 07:47:19,21 Samarkand,sherdor,f4,daisymal@student.21-school.ru,ENTERING
+2024-06-30 07:48:13,21 Yakutsk,Ayar,g2,ventrest@student.21-school.ru,ENTERING
+2024-06-30 07:48:31,21 Yakutsk,Erchim,d8,dewitdoo@student.21-school.ru,LEAVING
+2024-06-30 07:48:31,21 Yakutsk,Erchim,d3,madamhor@student.21-school.ru,ENTERING
+2024-06-30 07:49:07,21 Magas,Denal,j3,jhadvivi@student.21-school.ru,ENTERING
+2024-06-30 07:51:53,21 Magas,Ezdel,k4,bhattlen@student.21-school.ru,ENTERING
+2024-06-30 07:51:53,21 Novosibirsk,Obscurity,g8,shenmurr@student.21-school.ru,ENTERING
+2024-06-30 07:53:04,21 Yakutsk,Ayar,j4,raffonec@student.21-school.ru,LEAVING
+2024-06-30 07:53:21,21 Moscow,Mirage,a6,aseptimu@student.21-school.ru,ENTERING
+2024-06-30 07:53:39,21 Kazan,Progress,c5,kosssoni@student.21-school.ru,ENTERING
+2024-06-30 07:53:39,21 Veliky Novgorod,Quark,f2,nettlesl@student.21-school.ru,ENTERING
+2024-06-30 07:54:35,21 Veliky Novgorod,Lepton,a7,quantumr@student.21-school.ru,LEAVING
+2024-06-30 07:54:55,21 Veliky Novgorod,Quark,f2,nettlesl@student.21-school.ru,LEAVING
+2024-06-30 07:55:14,21 Moscow,Atlantis,b1,jettajac@student.21-school.ru,ENTERING
+2024-06-30 07:55:14,21 Kazan,Vault,d5,powersmi@student.21-school.ru,ENTERING
+2024-06-30 07:55:14,21 Magas,Sabar,f5,trudivai@student.21-school.ru,ENTERING
+2024-06-30 07:55:50,21 Veliky Novgorod,Quark,f3,nettlesl@student.21-school.ru,ENTERING
+2024-06-30 07:56:27,21 Yakutsk,Tuskul,i3,aeronedg@student.21-school.ru,LEAVING
+2024-06-30 07:56:45,21 Yakutsk,Tuskul,g2,thracede@student.21-school.ru,LEAVING
+2024-06-30 07:57:04,21 Kazan,Evolution,m3,grandisc@student.21-school.ru,LEAVING
+2024-06-30 07:57:24,21 Yakutsk,Sitim,g5,brunapea@student.21-school.ru,LEAVING
+2024-06-30 07:57:24,21 Yakutsk,Sitim,g4,tumitiss@student.21-school.ru,LEAVING
+2024-06-30 07:58:17,21 Kazan,Universe,k3,grandisc@student.21-school.ru,ENTERING
+2024-06-30 07:58:36,21 Yakutsk,Tuskul,i2,aeronedg@student.21-school.ru,ENTERING
+2024-06-30 07:58:36,21 Veliky Novgorod,Quark,f4,tannickl@student.21-school.ru,ENTERING
+2024-06-30 07:59:30,21 Veliky Novgorod,Boson,e6,mauricem@student.21-school.ru,ENTERING
+2024-06-30 08:00:06,21 Magas,Denal,f5,baharatl@student.21-school.ru,ENTERING
+2024-06-30 08:00:06,21 Yakutsk,Tuskul,g2,thracede@student.21-school.ru,ENTERING
+2024-06-30 08:00:40,21 Novosibirsk,Obscurity,h8,cedricho@student.21-school.ru,LEAVING
+2024-06-30 08:03:40,21 Yakutsk,Erchim,c7,quencdie@student.21-school.ru,LEAVING
+2024-06-30 08:03:59,21 Veliky Novgorod,Lepton,c6,yellowpr@student.21-school.ru,ENTERING
+2024-06-30 08:06:10,21 Novosibirsk,Obscurity,k6,denissed@student.21-school.ru,ENTERING
+2024-06-30 08:06:29,21 Veliky Novgorod,Quark,a1,deedeema@student.21-school.ru,LEAVING
+2024-06-30 08:07:07,21 Samarkand,sherdor,f4,daisymal@student.21-school.ru,LEAVING
+2024-06-30 08:07:07,21 Magas,Tesham,a6,lucamove@student.21-school.ru,ENTERING
+2024-06-30 08:07:26,21 Magas,Denal,o1,chakotga@student.21-school.ru,LEAVING
+2024-06-30 08:07:26,21 Yakutsk,Ayar,j4,raffonec@student.21-school.ru,ENTERING
+2024-06-30 08:07:45,21 Surgut,Hydrogen,b8,melakach@student.21-school.ru,ENTERING
+2024-06-30 08:08:39,21 Kazan,Vault,e5,ellensem@student.21-school.ru,LEAVING
+2024-06-30 08:08:39,21 Magas,Tesham,c6,merlingd@student.21-school.ru,ENTERING
+2024-06-30 08:08:39,21 Veliky Novgorod,Lepton,b6,stalward@student.21-school.ru,ENTERING
+2024-06-30 08:10:43,21 Magas,Denal,l4,donettda@student.21-school.ru,LEAVING
+2024-06-30 08:11:02,21 Yaroslavl,Ushakov,m3,tashiwin@student.21-school.ru,ENTERING
+2024-06-30 08:11:20,21 Magas,Denal,f4,ardrianw@student.21-school.ru,ENTERING
+2024-06-30 08:11:20,21 Yaroslavl,Ushakov,m1,dumbleda@student.21-school.ru,ENTERING
+2024-06-30 08:11:20,21 Samarkand,tillakori,w5,illalong@student.21-school.ru,LEAVING
+2024-06-30 08:12:13,21 Samarkand,tillakori,a3,daisymal@student.21-school.ru,ENTERING
+2024-06-30 08:14:03,21 Surgut,Hydrogen,a9,tiffanev@student.21-school.ru,LEAVING
+2024-06-30 08:14:40,21 Surgut,Hydrogen,b2,valentbl@student.21-school.ru,ENTERING
+2024-06-30 08:15:21,21 Magas,Denal,l4,donettda@student.21-school.ru,ENTERING
+2024-06-30 08:15:39,21 Samarkand,tillakori,a3,daisymal@student.21-school.ru,LEAVING
+2024-06-30 08:15:56,21 Yaroslavl,Ushakov,e1,azellnor@student.21-school.ru,ENTERING
+2024-06-30 08:15:56,21 Novosibirsk,Silence,a5,dominicq@student.21-school.ru,LEAVING
+2024-06-30 08:16:49,21 Yakutsk,Ayar,g4,oshanido@student.21-school.ru,LEAVING
+2024-06-30 08:16:49,21 Yaroslavl,Ushakov,e2,pepperno@student.21-school.ru,ENTERING
+2024-06-30 08:17:09,21 Magas,Tesham,b4,kangaskr@student.21-school.ru,ENTERING
+2024-06-30 08:17:09,21 Yaroslavl,Tkachenko,r2,okanosha@student.21-school.ru,ENTERING
+2024-06-30 08:17:45,21 Magas,Tesham,c4,arrected@student.21-school.ru,LEAVING
+2024-06-30 08:18:03,21 Magas,Denal,m6,tarrapen@student.21-school.ru,ENTERING
+2024-06-30 08:18:24,21 Novosibirsk,Infinity,d10,nedrchan@student.21-school.ru,ENTERING
+2024-06-30 08:18:42,21 Yakutsk,Ayar,b4,arnetteb@student.21-school.ru,ENTERING
+2024-06-30 08:18:42,21 Magas,Tesham,c2,juliusav@student.21-school.ru,ENTERING
+2024-06-30 08:19:40,21 Magas,Tesham,a1,dugtrios@student.21-school.ru,ENTERING
+2024-06-30 08:19:40,21 Magas,Tesham,a2,viviennb@student.21-school.ru,ENTERING
+2024-06-30 08:20:45,21 Surgut,Hydrogen,a5,mangoshe@student.21-school.ru,LEAVING
+2024-06-30 08:21:59,21 Moscow,Atlantis,f3,rossartb@student.21-school.ru,ENTERING
+2024-06-30 08:22:34,21 Yaroslavl,Ushakov,h5,mediumsa@student.21-school.ru,ENTERING
+2024-06-30 08:22:53,21 Yakutsk,Ayar,b2,brunchcl@student.21-school.ru,ENTERING
+2024-06-30 08:22:53,21 Kazan,Universe,g5,frisbeet@student.21-school.ru,ENTERING
+2024-06-30 08:22:53,21 Yakutsk,Erchim,d3,madamhor@student.21-school.ru,LEAVING
+2024-06-30 08:23:10,21 Magas,Denal,d3,marilynu@student.21-school.ru,ENTERING
+2024-06-30 08:23:28,21 Yakutsk,Ayar,g4,oshanido@student.21-school.ru,ENTERING
+2024-06-30 08:24:28,21 Novosibirsk,Infinity,c4,graveshe@student.21-school.ru,LEAVING
+2024-06-30 08:24:46,21 Kazan,Universe,g5,frisbeet@student.21-school.ru,LEAVING
+2024-06-30 08:25:21,21 Novosibirsk,Infinity,c8,lyddenma@student.21-school.ru,ENTERING
+2024-06-30 08:26:32,21 Yakutsk,Ayar,a2,glyndach@student.21-school.ru,LEAVING
+2024-06-30 08:26:32,21 Surgut,Hydrogen,b4,mangoshe@student.21-school.ru,ENTERING
+2024-06-30 08:26:32,21 Magas,Denal,l3,theobalk@student.21-school.ru,LEAVING
+2024-06-30 08:26:32,21 Veliky Novgorod,Lepton,b7,udyrannm@student.21-school.ru,ENTERING
+2024-06-30 08:27:08,21 Yakutsk,Erchim,d9,totesora@student.21-school.ru,LEAVING
+2024-06-30 08:27:45,21 Novosibirsk,Obscurity,d1,hummusje@student.21-school.ru,LEAVING
+2024-06-30 08:27:45,21 Yaroslavl,Tkachenko,p3,socorrov@student.21-school.ru,LEAVING
+2024-06-30 08:28:02,21 Yaroslavl,Tkachenko,q2,socorrov@student.21-school.ru,ENTERING
+2024-06-30 08:28:22,21 Yaroslavl,Mudriy,b2,ytramsse@student.21-school.ru,ENTERING
+2024-06-30 08:28:43,21 Magas,Denal,k3,gastropb@student.21-school.ru,ENTERING
+2024-06-30 08:29:00,21 Novosibirsk,Silence,a10,draugrol@student.21-school.ru,LEAVING
+2024-06-30 08:29:00,21 Kazan,Evolution,g5,frisbeet@student.21-school.ru,ENTERING
+2024-06-30 08:29:00,21 Yaroslavl,Ushakov,l1,gimpknru@student.21-school.ru,ENTERING
+2024-06-30 08:29:00,21 Magas,Denal,l1,theobalk@student.21-school.ru,ENTERING
+2024-06-30 08:29:40,21 Yakutsk,Ayar,a1,erichbla@student.21-school.ru,LEAVING
+2024-06-30 08:29:40,21 Yakutsk,Sitim,h3,ilanajon@student.21-school.ru,ENTERING
+2024-06-30 08:29:40,21 Novosibirsk,Obscurity,k4,microchm@student.21-school.ru,ENTERING
+2024-06-30 08:29:56,21 Yakutsk,Ayar,g2,ventrest@student.21-school.ru,LEAVING
+2024-06-30 08:30:15,21 Novosibirsk,Silence,b7,draugrol@student.21-school.ru,ENTERING
+2024-06-30 08:30:35,21 Yakutsk,Tuskul,g1,dirkelle@student.21-school.ru,LEAVING
+2024-06-30 08:30:35,21 Novosibirsk,Silence,a10,zgeorgan@student.21-school.ru,ENTERING
+2024-06-30 08:30:55,21 Yakutsk,Ayar,f1,ventrest@student.21-school.ru,ENTERING
+2024-06-30 08:31:31,21 Yakutsk,Ayar,c4,pintowil@student.21-school.ru,LEAVING
+2024-06-30 08:31:31,21 Magas,Denal,l1,theobalk@student.21-school.ru,LEAVING
+2024-06-30 08:32:08,21 Yaroslavl,Ushakov,j3,arlaagra@student.21-school.ru,ENTERING
+2024-06-30 08:32:08,21 Kazan,Progress,h3,mildredm@student.21-school.ru,ENTERING
+2024-06-30 08:32:08,21 Magas,Ezdel,p2,neelixve@student.21-school.ru,LEAVING
+2024-06-30 08:32:08,21 Magas,Tesham,i4,thademma@student.21-school.ru,LEAVING
+2024-06-30 08:32:43,21 Magas,Denal,l3,theobalk@student.21-school.ru,ENTERING
+2024-06-30 08:33:56,21 Veliky Novgorod,Lepton,a7,caladanw@student.21-school.ru,ENTERING
+2024-06-30 08:34:50,21 Yakutsk,Sitim,a1,tanjaann@student.21-school.ru,ENTERING
+2024-06-30 08:35:25,21 Yakutsk,Sitim,g4,tumitiss@student.21-school.ru,ENTERING
+2024-06-30 08:35:43,21 Yakutsk,Sitim,g5,brunapea@student.21-school.ru,ENTERING
+2024-06-30 08:36:01,21 Surgut,Hydrogen,a7,gryffina@student.21-school.ru,LEAVING
+2024-06-30 08:36:18,21 Kazan,Progress,h3,mildredm@student.21-school.ru,LEAVING
+2024-06-30 08:36:38,21 Magas,Tesham,d1,suguhach@student.21-school.ru,LEAVING
+2024-06-30 08:37:15,21 Veliky Novgorod,Quark,c6,lothanin@student.21-school.ru,ENTERING
+2024-06-30 08:37:15,21 Yakutsk,Ayar,d5,normundm@student.21-school.ru,LEAVING
+2024-06-30 08:37:34,21 Yakutsk,Ayar,g1,marginch@student.21-school.ru,LEAVING
+2024-06-30 08:37:53,21 Magas,Tesham,b5,mogodaar@student.21-school.ru,ENTERING
+2024-06-30 08:38:49,21 Magas,Tesham,i4,thademma@student.21-school.ru,ENTERING
+2024-06-30 08:39:08,21 Yaroslavl,Ushakov,n1,boomclar@student.21-school.ru,ENTERING
+2024-06-30 08:39:25,21 Magas,Tesham,i6,chakotga@student.21-school.ru,ENTERING
+2024-06-30 08:40:21,21 Magas,Tesham,c4,arrected@student.21-school.ru,ENTERING
+2024-06-30 08:40:57,21 Kazan,Progress,h5,mildredm@student.21-school.ru,ENTERING
+2024-06-30 08:41:58,21 Yaroslavl,Ushakov,b4,craitzel@student.21-school.ru,ENTERING
+2024-06-30 08:41:58,21 Magas,Tesham,j5,nguyetja@student.21-school.ru,LEAVING
+2024-06-30 08:42:34,21 Magas,Denal,f5,baharatl@student.21-school.ru,LEAVING
+2024-06-30 08:42:34,21 Magas,Sabar,b3,nadiagat@student.21-school.ru,LEAVING
+2024-06-30 08:42:54,21 Magas,Denal,o6,fisholdt@student.21-school.ru,ENTERING
+2024-06-30 08:42:54,21 Yakutsk,Sitim,a3,horserap@student.21-school.ru,LEAVING
+2024-06-30 08:42:54,21 Magas,Sabar,b3,nadiagat@student.21-school.ru,ENTERING
+2024-06-30 08:43:12,21 Magas,Denal,n4,sunfloea@student.21-school.ru,ENTERING
+2024-06-30 08:43:51,21 Surgut,Hydrogen,a8,noahlesa@student.21-school.ru,LEAVING
+2024-06-30 08:45:00,21 Magas,Tesham,g5,johnnyfi@student.21-school.ru,LEAVING
+2024-06-30 08:46:13,21 Yakutsk,Sitim,d5,hollisgr@student.21-school.ru,LEAVING
+2024-06-30 08:47:11,21 Magas,Denal,f4,ardrianw@student.21-school.ru,LEAVING
+2024-06-30 08:47:11,21 Yakutsk,Erchim,g3,narwhalv@student.21-school.ru,LEAVING
+2024-06-30 08:47:49,21 Moscow,Oasis,b6,aaronarl@student.21-school.ru,ENTERING
+2024-06-30 08:48:05,21 Yaroslavl,Ushakov,q2,sylvapre@student.21-school.ru,ENTERING
+2024-06-30 08:48:24,21 Magas,Denal,j4,ardrianw@student.21-school.ru,ENTERING
+2024-06-30 08:48:42,21 Kazan,Progress,e1,mattchar@student.21-school.ru,ENTERING
+2024-06-30 08:49:02,21 Magas,Tesham,g5,johnnyfi@student.21-school.ru,ENTERING
+2024-06-30 08:49:37,21 Magas,Denal,j5,hagridar@student.21-school.ru,ENTERING
+2024-06-30 08:50:52,21 Magas,Tesham,c2,juliusav@student.21-school.ru,LEAVING
+2024-06-30 08:51:30,21 Veliky Novgorod,Quark,g6,audrykar@student.21-school.ru,ENTERING
+2024-06-30 08:51:48,21 Kazan,Vault,a3,edwylewo@student.21-school.ru,ENTERING
+2024-06-30 08:51:48,21 Novosibirsk,Infinity,i1,maudmadl@student.21-school.ru,ENTERING
+2024-06-30 08:52:58,21 Magas,Tesham,g2,juliusav@student.21-school.ru,ENTERING
+2024-06-30 08:53:17,21 Kazan,Progress,e3,garigusn@student.21-school.ru,ENTERING
+2024-06-30 08:53:34,21 Novosibirsk,Obscurity,d1,hummusje@student.21-school.ru,ENTERING
+2024-06-30 08:54:09,21 Magas,Tesham,j2,galenani@student.21-school.ru,LEAVING
+2024-06-30 08:54:09,21 Yaroslavl,Tkachenko,q4,kezmyaca@student.21-school.ru,ENTERING
+2024-06-30 08:54:27,21 Yaroslavl,Ushakov,c1,flitwicu@student.21-school.ru,LEAVING
+2024-06-30 08:54:27,21 Yaroslavl,Ushakov,f2,stinkshu@student.21-school.ru,ENTERING
+2024-06-30 08:54:45,21 Kazan,Universe,j6,emrickon@student.21-school.ru,ENTERING
+2024-06-30 08:55:22,21 Yaroslavl,Ushakov,e6,flitwicu@student.21-school.ru,ENTERING
+2024-06-30 08:55:22,21 Magas,Tesham,g3,galenani@student.21-school.ru,ENTERING
+2024-06-30 08:55:22,21 Yaroslavl,Mudriy,b3,tyrionca@student.21-school.ru,ENTERING
+2024-06-30 08:55:40,21 Yaroslavl,Tkachenko,r2,okanosha@student.21-school.ru,LEAVING
+2024-06-30 08:55:40,21 Yaroslavl,Ushakov,j4,staciaar@student.21-school.ru,ENTERING
+2024-06-30 08:56:19,21 Yaroslavl,Tkachenko,q1,okanosha@student.21-school.ru,ENTERING
+2024-06-30 08:56:35,21 Moscow,Atlantis,h4,msalena@student.21-school.ru,ENTERING
+2024-06-30 08:56:52,21 Yaroslavl,Ushakov,i4,cecilaoc@student.21-school.ru,LEAVING
+2024-06-30 08:56:52,21 Yakutsk,Sitim,g3,ygrittea@student.21-school.ru,LEAVING
+2024-06-30 08:57:11,21 Veliky Novgorod,Quark,g9,silenced@student.21-school.ru,ENTERING
+2024-06-30 08:57:28,21 Yaroslavl,Ushakov,i4,cecilaoc@student.21-school.ru,ENTERING
+2024-06-30 08:57:28,21 Yakutsk,Tuskul,g1,dirkelle@student.21-school.ru,ENTERING
+2024-06-30 08:57:49,21 Yaroslavl,Ushakov,e5,cherrylc@student.21-school.ru,ENTERING
+2024-06-30 08:57:49,21 Magas,Tesham,g4,suguhach@student.21-school.ru,ENTERING
+2024-06-30 08:58:06,21 Yaroslavl,Ushakov,i4,cecilaoc@student.21-school.ru,LEAVING
+2024-06-30 08:59:18,21 Surgut,Hydrogen,b9,medwicki@student.21-school.ru,ENTERING
+2024-06-30 08:59:18,21 Novosibirsk,Infinity,d3,vindicao@student.21-school.ru,ENTERING
+2024-06-30 08:59:54,21 Magas,Denal,i1,stripeca@student.21-school.ru,ENTERING
+2024-06-30 09:01:49,21 Yakutsk,Ayar,h3,bellatme@student.21-school.ru,ENTERING
+2024-06-30 09:02:31,21 Yakutsk,Sitim,f1,lashawnh@student.21-school.ru,ENTERING
+2024-06-30 09:02:31,21 Veliky Novgorod,Quark,c8,sarirunc@student.21-school.ru,ENTERING
+2024-06-30 09:03:09,21 Magas,Ezdel,b2,skipjacs@student.21-school.ru,ENTERING
+2024-06-30 09:03:46,21 Novosibirsk,Obscurity,e7,starfigd@student.21-school.ru,ENTERING
+2024-06-30 09:04:45,21 Yaroslavl,Ushakov,a1,martainm@student.21-school.ru,ENTERING
+2024-06-30 09:05:04,21 Magas,Denal,b2,heathmer@student.21-school.ru,ENTERING
+2024-06-30 09:05:22,21 Yakutsk,Sitim,d4,marlysma@student.21-school.ru,LEAVING
+2024-06-30 09:05:22,21 Magas,Denal,m5,poutinec@student.21-school.ru,ENTERING
+2024-06-30 09:05:40,21 Veliky Novgorod,Quark,f2,kassiema@student.21-school.ru,ENTERING
+2024-06-30 09:06:20,21 Surgut,Sulfur,g1,annikche@student.21-school.ru,ENTERING
+2024-06-30 09:06:20,21 Yaroslavl,Mudriy,a3,beneketo@student.21-school.ru,ENTERING
+2024-06-30 09:07:01,21 Kazan,Genom,a6,leathaho@student.21-school.ru,ENTERING
+2024-06-30 09:07:01,21 Magas,Denal,n2,marisboo@student.21-school.ru,ENTERING
+2024-06-30 09:07:19,21 Magas,Tesham,h3,hagridar@student.21-school.ru,LEAVING
+2024-06-30 09:07:54,21 Novosibirsk,Obscurity,j8,hatchesn@student.21-school.ru,LEAVING
+2024-06-30 09:07:54,21 Yaroslavl,Ushakov,e3,moaneyma@student.21-school.ru,ENTERING
+2024-06-30 09:08:32,21 Yakutsk,Erchim,c2,abbottme@student.21-school.ru,LEAVING
+2024-06-30 09:08:32,21 Kazan,Universe,g6,qyburnpr@student.21-school.ru,LEAVING
+2024-06-30 09:08:49,21 Magas,Denal,j5,hagridar@student.21-school.ru,ENTERING
+2024-06-30 09:09:09,21 Samarkand,sherdor,d4,daemonpr@student.21-school.ru,ENTERING
+2024-06-30 09:10:22,21 Magas,Ezdel,l3,lovejoye@student.21-school.ru,LEAVING
+2024-06-30 09:10:22,21 Veliky Novgorod,Lepton,e6,thedamol@student.21-school.ru,LEAVING
+2024-06-30 09:10:22,21 Magas,Denal,a5,tomatone@student.21-school.ru,LEAVING
+2024-06-30 09:10:42,21 Veliky Novgorod,Quark,d6,curiezhi@student.21-school.ru,ENTERING
+2024-06-30 09:10:42,21 Veliky Novgorod,Lepton,e6,thedamol@student.21-school.ru,ENTERING
+2024-06-30 09:11:17,21 Moscow,Mirage,v4,everettl@student.21-school.ru,ENTERING
+2024-06-30 09:11:34,21 Yakutsk,Ayar,g4,oshanido@student.21-school.ru,LEAVING
+2024-06-30 09:11:54,21 Yakutsk,Sitim,i1,codsworn@student.21-school.ru,ENTERING
+2024-06-30 09:12:32,21 Veliky Novgorod,Quark,g4,cavalood@student.21-school.ru,ENTERING
+2024-06-30 09:12:32,21 Novosibirsk,Obscurity,e3,eusebiaa@student.21-school.ru,ENTERING
+2024-06-30 09:12:32,21 Yakutsk,Sitim,d4,marlysma@student.21-school.ru,ENTERING
+2024-06-30 09:12:32,21 Novosibirsk,Obscurity,k2,nelsonma@student.21-school.ru,ENTERING
+2024-06-30 09:13:28,21 Kazan,Universe,g2,qyburnpr@student.21-school.ru,ENTERING
+2024-06-30 09:14:03,21 Magas,Denal,n3,ottyneus@student.21-school.ru,ENTERING
+2024-06-30 09:14:23,21 Magas,Tesham,j6,brainyco@student.21-school.ru,LEAVING
+2024-06-30 09:14:23,21 Veliky Novgorod,Quark,b9,luisemar@student.21-school.ru,ENTERING
+2024-06-30 09:15:07,21 Surgut,Sulfur,j4,darrelot@student.21-school.ru,ENTERING
+2024-06-30 09:15:33,21 Surgut,Hydrogen,h4,melaraka@student.21-school.ru,LEAVING
+2024-06-30 09:15:51,21 Magas,Tesham,j6,brainyco@student.21-school.ru,ENTERING
+2024-06-30 09:16:45,21 Kazan,Universe,g2,qyburnpr@student.21-school.ru,LEAVING
+2024-06-30 09:16:45,21 Magas,Denal,o3,stumptok@student.21-school.ru,LEAVING
+2024-06-30 09:17:02,21 Magas,Ezdel,l3,lovejoye@student.21-school.ru,ENTERING
+2024-06-30 09:18:20,21 Magas,Sabar,f5,trudivai@student.21-school.ru,LEAVING
+2024-06-30 09:18:58,21 Magas,Tesham,b3,harragto@student.21-school.ru,ENTERING
+2024-06-30 09:19:37,21 Yakutsk,Erchim,b3,despinam@student.21-school.ru,LEAVING
+2024-06-30 09:20:18,21 Magas,Ezdel,p2,neelixve@student.21-school.ru,ENTERING
+2024-06-30 09:21:35,21 Yakutsk,Sitim,h1,denystri@student.21-school.ru,LEAVING
+2024-06-30 09:21:35,21 Yakutsk,Ayar,h5,gruyerec@student.21-school.ru,LEAVING
+2024-06-30 09:23:12,21 Yaroslavl,Mudriy,c3,elisevil@student.21-school.ru,ENTERING
+2024-06-30 09:23:12,21 Magas,Denal,o2,tabethtu@student.21-school.ru,LEAVING
+2024-06-30 09:24:04,21 Veliky Novgorod,Lepton,b7,udyrannm@student.21-school.ru,LEAVING
+2024-06-30 09:25:23,21 Magas,Denal,o6,fisholdt@student.21-school.ru,LEAVING
+2024-06-30 09:26:00,21 Samarkand,tillakori,y5,galiokam@student.21-school.ru,ENTERING
+2024-06-30 09:26:00,21 Magas,Ezdel,l3,lovejoye@student.21-school.ru,LEAVING
+2024-06-30 09:26:56,21 Veliky Novgorod,Quark,g5,charlerh@student.21-school.ru,ENTERING
+2024-06-30 09:27:14,21 Moscow,Atlantis,f2,ningrhys@student.21-school.ru,ENTERING
+2024-06-30 09:27:55,21 Yakutsk,Sitim,h1,denystri@student.21-school.ru,ENTERING
+2024-06-30 09:27:55,21 Novosibirsk,Infinity,f3,doduofor@student.21-school.ru,ENTERING
+2024-06-30 09:28:31,21 Yaroslavl,Ushakov,n4,moneylov@student.21-school.ru,ENTERING
+2024-06-30 09:29:07,21 Kazan,Progress,k6,grubbsas@student.21-school.ru,ENTERING
+2024-06-30 09:29:25,21 Kazan,Universe,f2,qyburnpr@student.21-school.ru,ENTERING
+2024-06-30 09:29:25,21 Yakutsk,Tuskul,g3,slowbror@student.21-school.ru,ENTERING
+2024-06-30 09:29:45,21 Veliky Novgorod,Quark,g2,drynagus@student.21-school.ru,ENTERING
+2024-06-30 09:29:45,21 Yakutsk,Erchim,e6,fudgeare@student.21-school.ru,ENTERING
+2024-06-30 09:29:45,21 Magas,Denal,f2,halfempd@student.21-school.ru,LEAVING
+2024-06-30 09:30:03,21 Magas,Tesham,j5,nguyetja@student.21-school.ru,ENTERING
+2024-06-30 09:30:57,21 Yakutsk,Erchim,c5,areskutz@student.21-school.ru,ENTERING
+2024-06-30 09:31:49,21 Magas,Denal,j3,jhadvivi@student.21-school.ru,LEAVING
+2024-06-30 09:31:49,21 Yakutsk,Ayar,d4,mariande@student.21-school.ru,LEAVING
+2024-06-30 09:31:49,21 Yaroslavl,Mudriy,d3,sharelbe@student.21-school.ru,ENTERING
+2024-06-30 09:32:59,21 Kazan,Universe,f2,qyburnpr@student.21-school.ru,LEAVING
+2024-06-30 09:32:59,21 Yakutsk,Ayar,j4,raffonec@student.21-school.ru,LEAVING
+2024-06-30 09:33:16,21 Yakutsk,Sitim,b6,formymor@student.21-school.ru,ENTERING
+2024-06-30 09:35:12,21 Kazan,Universe,g6,qyburnpr@student.21-school.ru,ENTERING
+2024-06-30 09:35:12,21 Yakutsk,Tuskul,h4,raffonec@student.21-school.ru,ENTERING
+2024-06-30 09:35:48,21 Moscow,Atlantis,m5,niggurar@student.21-school.ru,ENTERING
+2024-06-30 09:36:07,21 Moscow,Oasis,d4,felixsta@student.21-school.ru,ENTERING
+2024-06-30 09:36:25,21 Yaroslavl,Ushakov,n5,beardlep@student.21-school.ru,ENTERING
+2024-06-30 09:36:46,21 Novosibirsk,Silence,b7,draugrol@student.21-school.ru,LEAVING
+2024-06-30 09:37:03,21 Magas,Tesham,i1,audriape@student.21-school.ru,ENTERING
+2024-06-30 09:37:22,21 Magas,Denal,j5,hagridar@student.21-school.ru,LEAVING
+2024-06-30 09:37:22,21 Magas,Denal,l3,theobalk@student.21-school.ru,LEAVING
+2024-06-30 09:37:41,21 Yakutsk,Sitim,f1,lashawnh@student.21-school.ru,LEAVING
+2024-06-30 09:38:00,21 Yakutsk,Ayar,b4,arnetteb@student.21-school.ru,LEAVING
+2024-06-30 09:38:41,21 Surgut,Hydrogen,a6,hagridmi@student.21-school.ru,LEAVING
+2024-06-30 09:38:41,21 Moscow,Oasis,j4,nedrapro@student.21-school.ru,ENTERING
+2024-06-30 09:38:59,21 Magas,Denal,j5,hagridar@student.21-school.ru,ENTERING
+2024-06-30 09:39:18,21 Yakutsk,Erchim,f5,hiltonma@student.21-school.ru,LEAVING
+2024-06-30 09:39:56,21 Yakutsk,Erchim,a1,grapevic@student.21-school.ru,LEAVING
+2024-06-30 09:40:34,21 Yakutsk,Ayar,g1,lesleegw@student.21-school.ru,ENTERING
+2024-06-30 09:40:34,21 Magas,Sabar,f5,trudivai@student.21-school.ru,ENTERING
+2024-06-30 09:41:14,21 Kazan,Genom,e4,atlasiro@student.21-school.ru,ENTERING
+2024-06-30 09:41:14,21 Magas,Tesham,d3,byronani@student.21-school.ru,ENTERING
+2024-06-30 09:41:14,21 Magas,Denal,e2,shavonry@student.21-school.ru,LEAVING
+2024-06-30 09:41:33,21 Yakutsk,Ayar,g2,mariande@student.21-school.ru,ENTERING
+2024-06-30 09:41:33,21 Magas,Denal,o1,takodanl@student.21-school.ru,ENTERING
+2024-06-30 09:41:49,21 Yaroslavl,Ushakov,f1,dennisli@student.21-school.ru,ENTERING
+2024-06-30 09:42:26,21 Magas,Sabar,b4,shavonry@student.21-school.ru,ENTERING
+2024-06-30 09:42:26,21 Magas,Denal,o2,tabethtu@student.21-school.ru,ENTERING
+2024-06-30 09:43:03,21 Yaroslavl,Ushakov,d5,babakaly@student.21-school.ru,ENTERING
+2024-06-30 09:43:19,21 Magas,Denal,e3,elinorwi@student.21-school.ru,ENTERING
+2024-06-30 09:43:19,21 Yakutsk,Erchim,c7,quencdie@student.21-school.ru,ENTERING
+2024-06-30 09:43:43,21 Veliky Novgorod,Lepton,e3,jamibeul@student.21-school.ru,ENTERING
+2024-06-30 09:43:43,21 Magas,Sabar,c5,ninfascr@student.21-school.ru,ENTERING
+2024-06-30 09:43:43,21 Veliky Novgorod,Lepton,b7,udyrannm@student.21-school.ru,ENTERING
+2024-06-30 09:44:03,21 Moscow,Illusion,k6,gerrenka@student.21-school.ru,ENTERING
+2024-06-30 09:44:03,21 Yakutsk,Erchim,b1,jarlamab@student.21-school.ru,LEAVING
+2024-06-30 09:44:20,21 Veliky Novgorod,Quark,f4,tannickl@student.21-school.ru,LEAVING
+2024-06-30 09:44:38,21 Moscow,Oasis,l1,lucimorn@student.21-school.ru,ENTERING
+2024-06-30 09:44:56,21 Moscow,Atlantis,q8,broderci@student.21-school.ru,ENTERING
+2024-06-30 09:44:56,21 Moscow,Mirage,s6,guerenmo@student.21-school.ru,ENTERING
+2024-06-30 09:44:56,21 Yakutsk,Sitim,h2,questiov@student.21-school.ru,LEAVING
+2024-06-30 09:45:30,21 Veliky Novgorod,Quark,f4,tannickl@student.21-school.ru,ENTERING
+2024-06-30 09:45:49,21 Magas,Ezdel,b2,skipjacs@student.21-school.ru,LEAVING
+2024-06-30 09:45:49,21 Magas,Denal,i1,stripeca@student.21-school.ru,LEAVING
+2024-06-30 09:46:07,21 Yakutsk,Erchim,d6,beatrick@student.21-school.ru,LEAVING
+2024-06-30 09:46:25,21 Magas,Denal,e5,zharaqgo@student.21-school.ru,ENTERING
+2024-06-30 09:47:21,21 Magas,Denal,f2,halfempd@student.21-school.ru,ENTERING
+2024-06-30 09:47:59,21 Magas,Tesham,a2,viviennb@student.21-school.ru,LEAVING
+2024-06-30 09:49:36,21 Magas,Denal,l1,theobalk@student.21-school.ru,ENTERING
+2024-06-30 09:49:55,21 Yakutsk,Sitim,i2,annihilt@student.21-school.ru,LEAVING
+2024-06-30 09:50:34,21 Yakutsk,Tuskul,h2,hallynec@student.21-school.ru,LEAVING
+2024-06-30 09:50:51,21 Kazan,Singularity,p4,chickpet@student.21-school.ru,LEAVING
+2024-06-30 09:50:51,21 Magas,Denal,e3,elinorwi@student.21-school.ru,LEAVING
+2024-06-30 09:50:51,21 Yakutsk,Erchim,a1,grapevic@student.21-school.ru,ENTERING
+2024-06-30 09:50:51,21 Magas,Ezdel,d5,rachaela@student.21-school.ru,LEAVING
+2024-06-30 09:50:51,21 Moscow,Mirage,k4,sheriffl@student.21-school.ru,ENTERING
+2024-06-30 09:51:28,21 Moscow,Mirage,g5,eabradol@student.21-school.ru,ENTERING
+2024-06-30 09:51:46,21 Magas,Denal,m2,elinorwi@student.21-school.ru,ENTERING
+2024-06-30 09:51:46,21 Kazan,Vault,j1,msima@student.21-school.ru,ENTERING
+2024-06-30 09:52:04,21 Magas,Denal,j3,jhadvivi@student.21-school.ru,ENTERING
+2024-06-30 09:52:23,21 Yakutsk,Erchim,d6,beatrick@student.21-school.ru,ENTERING
+2024-06-30 09:52:41,21 Veliky Novgorod,Quark,b9,luisemar@student.21-school.ru,LEAVING
+2024-06-30 09:52:41,21 Magas,Ezdel,d5,rachaela@student.21-school.ru,ENTERING
+2024-06-30 09:52:41,21 Magas,Denal,l3,viviennb@student.21-school.ru,ENTERING
+2024-06-30 09:52:59,21 Magas,Denal,b5,fideldan@student.21-school.ru,ENTERING
+2024-06-30 09:52:59,21 Moscow,Illusion,a3,hortonbe@student.21-school.ru,ENTERING
+2024-06-30 09:52:59,21 Yakutsk,Tuskul,h4,raffonec@student.21-school.ru,LEAVING
+2024-06-30 09:53:37,21 Yaroslavl,Tkachenko,i5,braintha@student.21-school.ru,ENTERING
+2024-06-30 09:53:57,21 Magas,Denal,l5,cesarfis@student.21-school.ru,ENTERING
+2024-06-30 09:54:15,21 Veliky Novgorod,Quark,f1,effrafas@student.21-school.ru,LEAVING
+2024-06-30 09:54:15,21 Samarkand,tillakori,p3,kabutops@student.21-school.ru,ENTERING
+2024-06-30 09:54:33,21 Veliky Novgorod,Quark,f1,effrafas@student.21-school.ru,ENTERING
+2024-06-30 09:54:49,21 Yaroslavl,Ushakov,d4,gathroac@student.21-school.ru,ENTERING
+2024-06-30 09:54:49,21 Yakutsk,Sitim,c5,harodonr@student.21-school.ru,LEAVING
+2024-06-30 09:55:41,21 Veliky Novgorod,Quark,d6,curiezhi@student.21-school.ru,LEAVING
+2024-06-30 09:55:59,21 Yakutsk,Erchim,d9,totesora@student.21-school.ru,ENTERING
+2024-06-30 09:56:18,21 Yakutsk,Erchim,d6,beatrick@student.21-school.ru,LEAVING
+2024-06-30 09:56:57,21 Yakutsk,Sitim,g1,birdluci@student.21-school.ru,LEAVING
+2024-06-30 09:57:51,21 Magas,Tesham,c4,arrected@student.21-school.ru,LEAVING
+2024-06-30 09:58:11,21 Yaroslavl,Ushakov,e4,didijacq@student.21-school.ru,LEAVING
+2024-06-30 09:58:29,21 Novosibirsk,Infinity,d8,shelbaja@student.21-school.ru,ENTERING
+2024-06-30 09:58:48,21 Moscow,Oasis,f4,rikkifan@student.21-school.ru,ENTERING
+2024-06-30 09:58:48,21 Yaroslavl,Ushakov,j4,staciaar@student.21-school.ru,LEAVING
+2024-06-30 09:59:08,21 Samarkand,sherdor,r5,kaylenak@student.21-school.ru,LEAVING
+2024-06-30 09:59:25,21 Novosibirsk,Silence,b6,clements@student.21-school.ru,LEAVING
+2024-06-30 09:59:25,21 Surgut,Hydrogen,b4,mangoshe@student.21-school.ru,LEAVING
+2024-06-30 09:59:25,21 Yakutsk,Tuskul,i4,raffonec@student.21-school.ru,ENTERING
+2024-06-30 10:00:22,21 Samarkand,sherdor,y5,kaylenak@student.21-school.ru,ENTERING
+2024-06-30 10:00:22,21 Yakutsk,Ayar,g2,mariande@student.21-school.ru,LEAVING
+2024-06-30 10:00:22,21 Kazan,Universe,g6,qyburnpr@student.21-school.ru,LEAVING
+2024-06-30 10:01:02,21 Moscow,Atlantis,l4,rachellt@student.21-school.ru,ENTERING
+2024-06-30 10:01:18,21 Novosibirsk,Silence,b7,draugrol@student.21-school.ru,ENTERING
+2024-06-30 10:01:38,21 Surgut,Hydrogen,a6,hagridmi@student.21-school.ru,ENTERING
+2024-06-30 10:01:38,21 Veliky Novgorod,Quark,b8,hickstag@student.21-school.ru,ENTERING
+2024-06-30 10:01:38,21 Yakutsk,Ayar,f5,jalikakb@student.21-school.ru,LEAVING
+2024-06-30 10:01:56,21 Magas,Tesham,i3,argraveb@student.21-school.ru,LEAVING
+2024-06-30 10:01:56,21 Yakutsk,Ayar,g4,oshanido@student.21-school.ru,ENTERING
+2024-06-30 10:02:51,21 Veliky Novgorod,Lepton,e6,thedamol@student.21-school.ru,LEAVING
+2024-06-30 10:02:51,21 Magas,Tesham,c5,vanessst@student.21-school.ru,LEAVING
+2024-06-30 10:05:17,21 Veliky Novgorod,Quark,i7,akiraver@student.21-school.ru,ENTERING
+2024-06-30 10:05:17,21 Yakutsk,Ayar,g5,andromed@student.21-school.ru,LEAVING
+2024-06-30 10:05:17,21 Veliky Novgorod,Quark,g3,ellamaeo@student.21-school.ru,ENTERING
+2024-06-30 10:05:17,21 Moscow,Atlantis,j3,tentacos@student.21-school.ru,ENTERING
+2024-06-30 10:05:17,21 Yakutsk,Sitim,g4,tumitiss@student.21-school.ru,LEAVING
+2024-06-30 10:05:35,21 Yakutsk,Ayar,g5,andromed@student.21-school.ru,ENTERING
+2024-06-30 10:05:54,21 Novosibirsk,Infinity,b9,birdpers@student.21-school.ru,LEAVING
+2024-06-30 10:06:34,21 Magas,Tesham,i3,argraveb@student.21-school.ru,ENTERING
+2024-06-30 10:06:34,21 Yakutsk,Erchim,c6,cantillc@student.21-school.ru,ENTERING
+2024-06-30 10:06:51,21 Magas,Tesham,e4,ravynush@student.21-school.ru,ENTERING
+2024-06-30 10:07:12,21 Moscow,Illusion,i6,milfordn@student.21-school.ru,ENTERING
+2024-06-30 10:07:30,21 Yakutsk,Ayar,g5,andromed@student.21-school.ru,LEAVING
+2024-06-30 10:07:30,21 Magas,Denal,j1,aragogha@student.21-school.ru,LEAVING
+2024-06-30 10:07:51,21 Veliky Novgorod,Lepton,f4,graveleg@student.21-school.ru,ENTERING
+2024-06-30 10:08:16,21 Magas,Tesham,i4,thademma@student.21-school.ru,LEAVING
+2024-06-30 10:09:31,21 Magas,Denal,c3,hobertgo@student.21-school.ru,ENTERING
+2024-06-30 10:09:50,21 Magas,Denal,j1,aragogha@student.21-school.ru,ENTERING
+2024-06-30 10:10:08,21 Kazan,Universe,a5,alivewel@student.21-school.ru,ENTERING
+2024-06-30 10:11:43,21 Magas,Ezdel,a2,sadelore@student.21-school.ru,ENTERING
+2024-06-30 10:12:00,21 Yakutsk,Tuskul,g3,slowbror@student.21-school.ru,LEAVING
+2024-06-30 10:12:19,21 Magas,Denal,j4,ardrianw@student.21-school.ru,LEAVING
+2024-06-30 10:12:19,21 Yakutsk,Sitim,h3,ilanajon@student.21-school.ru,LEAVING
+2024-06-30 10:12:19,21 Kazan,Universe,h5,ismaeldi@student.21-school.ru,ENTERING
+2024-06-30 10:13:16,21 Magas,Denal,c5,ardrianw@student.21-school.ru,ENTERING
+2024-06-30 10:13:51,21 Magas,Sabar,c6,keishaae@student.21-school.ru,ENTERING
+2024-06-30 10:13:51,21 Yaroslavl,Ushakov,d6,shericev@student.21-school.ru,LEAVING
+2024-06-30 10:16:03,21 Veliky Novgorod,Quark,b3,owynwend@student.21-school.ru,LEAVING
+2024-06-30 10:16:03,21 Samarkand,tillakori,m4,puckcher@student.21-school.ru,ENTERING
+2024-06-30 10:16:03,21 Veliky Novgorod,Quark,c7,sharlali@student.21-school.ru,ENTERING
+2024-06-30 10:16:23,21 Samarkand,tillakori,m1,lorenuzu@student.21-school.ru,ENTERING
+2024-06-30 10:16:23,21 Magas,Tesham,b5,mogodaar@student.21-school.ru,LEAVING
+2024-06-30 10:16:44,21 Yakutsk,Erchim,c5,areskutz@student.21-school.ru,LEAVING
+2024-06-30 10:16:44,21 Magas,Denal,l4,donettda@student.21-school.ru,LEAVING
+2024-06-30 10:17:20,21 Novosibirsk,Obscurity,j8,hatchesn@student.21-school.ru,ENTERING
+2024-06-30 10:17:56,21 Kazan,Genom,g3,louellat@student.21-school.ru,ENTERING
+2024-06-30 10:18:14,21 Magas,Tesham,b3,harragto@student.21-school.ru,LEAVING
+2024-06-30 10:18:30,21 Magas,Tesham,a5,corineil@student.21-school.ru,LEAVING
+2024-06-30 10:18:50,21 Veliky Novgorod,Boson,b6,patakibe@student.21-school.ru,LEAVING
+2024-06-30 10:18:50,21 Magas,Ezdel,b2,skipjacs@student.21-school.ru,ENTERING
+2024-06-30 10:19:06,21 Veliky Novgorod,Quark,i7,akiraver@student.21-school.ru,LEAVING
+2024-06-30 10:19:23,21 Samarkand,tillakori,p3,kabutops@student.21-school.ru,LEAVING
+2024-06-30 10:19:23,21 Magas,Tesham,i4,thademma@student.21-school.ru,ENTERING
+2024-06-30 10:19:44,21 Veliky Novgorod,Quark,i5,akiraver@student.21-school.ru,ENTERING
+2024-06-30 10:20:07,21 Moscow,Mirage,d6,boilbrit@student.21-school.ru,ENTERING
+2024-06-30 10:20:07,21 Yaroslavl,Ushakov,e4,didijacq@student.21-school.ru,ENTERING
+2024-06-30 10:20:07,21 Magas,Ezdel,f4,mountaie@student.21-school.ru,ENTERING
+2024-06-30 10:20:07,21 Yaroslavl,Ushakov,l2,rolleyby@student.21-school.ru,ENTERING
+2024-06-30 10:20:25,21 Moscow,Illusion,a1,felixdos@student.21-school.ru,ENTERING
+2024-06-30 10:20:25,21 Kazan,Evolution,g6,heidysha@student.21-school.ru,LEAVING
+2024-06-30 10:20:25,21 Yaroslavl,Mudriy,e3,lonnysig@student.21-school.ru,ENTERING
+2024-06-30 10:20:46,21 Moscow,Mirage,w2,frostdra@student.21-school.ru,ENTERING
+2024-06-30 10:20:46,21 Veliky Novgorod,Quark,c7,sharlali@student.21-school.ru,LEAVING
+2024-06-30 10:21:04,21 Magas,Sabar,d2,harragto@student.21-school.ru,ENTERING
+2024-06-30 10:21:58,21 Yaroslavl,Volkov,a2,jocelynw@student.21-school.ru,ENTERING
+2024-06-30 10:21:58,21 Magas,Ezdel,p4,lyannawi@student.21-school.ru,LEAVING
+2024-06-30 10:22:17,21 Magas,Tesham,c6,merlingd@student.21-school.ru,LEAVING
+2024-06-30 10:22:37,21 Moscow,Mirage,q1,alliserr@student.21-school.ru,ENTERING
+2024-06-30 10:22:37,21 Moscow,Mirage,r1,newmanla@student.21-school.ru,ENTERING
+2024-06-30 10:22:37,21 Veliky Novgorod,Quark,c2,sharlali@student.21-school.ru,ENTERING
+2024-06-30 10:23:15,21 Magas,Tesham,i1,audriape@student.21-school.ru,LEAVING
+2024-06-30 10:23:32,21 Magas,Tesham,c6,merlingd@student.21-school.ru,ENTERING
+2024-06-30 10:24:06,21 Yakutsk,Erchim,e5,lynettan@student.21-school.ru,LEAVING
+2024-06-30 10:24:28,21 Magas,Sabar,b5,crabbjam@student.21-school.ru,ENTERING
+2024-06-30 10:24:45,21 Novosibirsk,Obscurity,e3,eusebiaa@student.21-school.ru,LEAVING
+2024-06-30 10:25:04,21 Yakutsk,Sitim,h1,denystri@student.21-school.ru,LEAVING
+2024-06-30 10:25:24,21 Kazan,Evolution,g6,heidysha@student.21-school.ru,ENTERING
+2024-06-30 10:25:42,21 Magas,Denal,o3,baggskur@student.21-school.ru,ENTERING
+2024-06-30 10:26:17,21 Yaroslavl,Mudriy,d3,sharelbe@student.21-school.ru,LEAVING
+2024-06-30 10:26:37,21 Magas,Tesham,h4,luciascl@student.21-school.ru,ENTERING
+2024-06-30 10:26:54,21 Veliky Novgorod,Quark,g7,betseywe@student.21-school.ru,ENTERING
+2024-06-30 10:27:12,21 Magas,Sabar,c5,ninfascr@student.21-school.ru,LEAVING
+2024-06-30 10:27:12,21 Yakutsk,Ayar,h2,rudgekod@student.21-school.ru,LEAVING
+2024-06-30 10:27:12,21 Yaroslavl,Mudriy,d1,sharelbe@student.21-school.ru,ENTERING
+2024-06-30 10:27:54,21 Moscow,Mirage,w1,kathryho@student.21-school.ru,ENTERING
+2024-06-30 10:28:28,21 Magas,Sabar,c3,ninfascr@student.21-school.ru,ENTERING
+2024-06-30 10:29:30,21 Magas,Denal,f2,halfempd@student.21-school.ru,LEAVING
+2024-06-30 10:30:09,21 Kazan,Genom,h6,corinnem@student.21-school.ru,ENTERING
+2024-06-30 10:30:27,21 Magas,Denal,c5,ardrianw@student.21-school.ru,LEAVING
+2024-06-30 10:30:27,21 Veliky Novgorod,Quark,e8,concenth@student.21-school.ru,ENTERING
+2024-06-30 10:30:27,21 Novosibirsk,Infinity,f3,doduofor@student.21-school.ru,LEAVING
+2024-06-30 10:30:27,21 Novosibirsk,Infinity,b9,eusebiaa@student.21-school.ru,ENTERING
+2024-06-30 10:30:46,21 Magas,Denal,o2,tabethtu@student.21-school.ru,LEAVING
+2024-06-30 10:31:03,21 Magas,Denal,j4,ardrianw@student.21-school.ru,ENTERING
+2024-06-30 10:31:03,21 Yakutsk,Tuskul,g4,estelljo@student.21-school.ru,LEAVING
+2024-06-30 10:31:03,21 Magas,Denal,f1,seleneay@student.21-school.ru,ENTERING
+2024-06-30 10:31:22,21 Surgut,Sulfur,g1,annikche@student.21-school.ru,LEAVING
+2024-06-30 10:31:22,21 Magas,Denal,n5,celinagu@student.21-school.ru,ENTERING
+2024-06-30 10:31:22,21 Novosibirsk,Obscurity,h4,nicolesp@student.21-school.ru,ENTERING
+2024-06-30 10:31:40,21 Yakutsk,Tuskul,i1,estelljo@student.21-school.ru,ENTERING
+2024-06-30 10:31:40,21 Yakutsk,Sitim,b6,formymor@student.21-school.ru,LEAVING
+2024-06-30 10:31:40,21 Yakutsk,Ayar,g1,lesleegw@student.21-school.ru,LEAVING
+2024-06-30 10:31:40,21 Yaroslavl,Ushakov,h5,mediumsa@student.21-school.ru,LEAVING
+2024-06-30 10:32:00,21 Yakutsk,Tuskul,g1,dirkelle@student.21-school.ru,LEAVING
+2024-06-30 10:32:00,21 Samarkand,tillakori,y5,galiokam@student.21-school.ru,LEAVING
+2024-06-30 10:32:17,21 Surgut,Sulfur,g5,worfwint@student.21-school.ru,ENTERING
+2024-06-30 10:32:36,21 Veliky Novgorod,Quark,b3,owynwend@student.21-school.ru,ENTERING
+2024-06-30 10:32:54,21 Kazan,Singularity,p4,chickpet@student.21-school.ru,ENTERING
+2024-06-30 10:33:11,21 Yaroslavl,Tkachenko,q3,rubensel@student.21-school.ru,LEAVING
+2024-06-30 10:34:24,21 Kazan,Vault,a3,edwylewo@student.21-school.ru,LEAVING
+2024-06-30 10:34:42,21 Veliky Novgorod,Lepton,e1,grennric@student.21-school.ru,ENTERING
+2024-06-30 10:35:01,21 Yakutsk,Ayar,e1,elvinbru@student.21-school.ru,LEAVING
+2024-06-30 10:35:01,21 Magas,Denal,j3,jhadvivi@student.21-school.ru,LEAVING
+2024-06-30 10:35:22,21 Kazan,Progress,c5,kosssoni@student.21-school.ru,LEAVING
+2024-06-30 10:35:41,21 Kazan,Evolution,h1,edwylewo@student.21-school.ru,ENTERING
+2024-06-30 10:35:41,21 Yakutsk,Sitim,c1,holleycl@student.21-school.ru,LEAVING
+2024-06-30 10:35:59,21 Veliky Novgorod,Quark,c2,sharlali@student.21-school.ru,LEAVING
+2024-06-30 10:35:59,21 Novosibirsk,Silence,e4,soymilkl@student.21-school.ru,ENTERING
+2024-06-30 10:36:18,21 Moscow,Oasis,b4,virgilwi@student.21-school.ru,ENTERING
+2024-06-30 10:36:59,21 Moscow,Oasis,j4,nedrapro@student.21-school.ru,LEAVING
+2024-06-30 10:37:22,21 Magas,Tesham,b5,mogodaar@student.21-school.ru,ENTERING
+2024-06-30 10:37:22,21 Veliky Novgorod,Quark,d6,sharlali@student.21-school.ru,ENTERING
+2024-06-30 10:38:38,21 Samarkand,sherdor,d4,daemonpr@student.21-school.ru,LEAVING
+2024-06-30 10:38:38,21 Yaroslavl,Ushakov,j4,staciaar@student.21-school.ru,ENTERING
+2024-06-30 10:38:56,21 Magas,Denal,k3,gastropb@student.21-school.ru,LEAVING
+2024-06-30 10:39:37,21 Magas,Tesham,h5,nereidat@student.21-school.ru,ENTERING
+2024-06-30 10:39:53,21 Moscow,Oasis,d4,felixsta@student.21-school.ru,LEAVING
+2024-06-30 10:39:53,21 Yakutsk,Tuskul,f1,tamikotw@student.21-school.ru,LEAVING
+2024-06-30 10:40:13,21 Yaroslavl,Ushakov,b4,craitzel@student.21-school.ru,LEAVING
+2024-06-30 10:40:29,21 Kazan,Progress,c5,kosssoni@student.21-school.ru,ENTERING
+2024-06-30 10:40:29,21 Surgut,Hydrogen,a8,noahlesa@student.21-school.ru,ENTERING
+2024-06-30 10:41:23,21 Magas,Tesham,i4,thademma@student.21-school.ru,LEAVING
+2024-06-30 10:41:42,21 Surgut,Hydrogen,b2,valentbl@student.21-school.ru,LEAVING
+2024-06-30 10:42:20,21 Moscow,Mirage,w6,clemenjo@student.21-school.ru,ENTERING
+2024-06-30 10:43:16,21 Kazan,Universe,h6,cranbero@student.21-school.ru,LEAVING
+2024-06-30 10:43:16,21 Magas,Tesham,d2,gastropb@student.21-school.ru,ENTERING
+2024-06-30 10:43:34,21 Moscow,Atlantis,h3,desperos@student.21-school.ru,ENTERING
+2024-06-30 10:43:34,21 Magas,Tesham,f3,pastkere@student.21-school.ru,LEAVING
+2024-06-30 10:43:54,21 Magas,Sabar,g6,ronnelqu@student.21-school.ru,ENTERING
+2024-06-30 10:44:12,21 Novosibirsk,Infinity,d4,waltlate@student.21-school.ru,ENTERING
+2024-06-30 10:44:29,21 Magas,Denal,f1,seleneay@student.21-school.ru,LEAVING
+2024-06-30 10:44:48,21 Yakutsk,Sitim,a5,argoniaf@student.21-school.ru,LEAVING
+2024-06-30 10:45:25,21 Kazan,Progress,f1,godardge@student.21-school.ru,ENTERING
+2024-06-30 10:45:25,21 Moscow,Mirage,l6,porthert@student.21-school.ru,LEAVING
+2024-06-30 10:45:45,21 Kazan,Progress,e2,blackfyd@student.21-school.ru,ENTERING
+2024-06-30 10:45:45,21 Magas,Denal,m2,elinorwi@student.21-school.ru,LEAVING
+2024-06-30 10:46:04,21 Magas,Tesham,i6,chakotga@student.21-school.ru,LEAVING
+2024-06-30 10:46:04,21 Veliky Novgorod,Quark,b6,hammondb@student.21-school.ru,ENTERING
+2024-06-30 10:46:04,21 Magas,Ezdel,b4,shrimplm@student.21-school.ru,ENTERING
+2024-06-30 10:46:42,21 Yaroslavl,Tkachenko,i1,drahffma@student.21-school.ru,ENTERING
+2024-06-30 10:46:42,21 Surgut,Hydrogen,a6,hagridmi@student.21-school.ru,LEAVING
+2024-06-30 10:46:42,21 Surgut,Hydrogen,b9,medwicki@student.21-school.ru,LEAVING
+2024-06-30 10:46:42,21 Yakutsk,Ayar,e5,queenies@student.21-school.ru,LEAVING
+2024-06-30 10:47:02,21 Kazan,Vault,j5,blackwoo@student.21-school.ru,ENTERING
+2024-06-30 10:47:58,21 Yaroslavl,Tkachenko,p4,eleonorc@student.21-school.ru,ENTERING
+2024-06-30 10:48:18,21 Kazan,Universe,d1,skytecat@student.21-school.ru,ENTERING
+2024-06-30 10:48:36,21 Kazan,Genom,l3,arboriob@student.21-school.ru,ENTERING
+2024-06-30 10:48:36,21 Yakutsk,Sitim,g5,brunapea@student.21-school.ru,LEAVING
+2024-06-30 10:48:54,21 Kazan,Universe,d3,lenwooda@student.21-school.ru,ENTERING
+2024-06-30 10:49:17,21 Magas,Denal,j3,kedgemar@student.21-school.ru,ENTERING
+2024-06-30 10:49:52,21 Surgut,Hydrogen,a6,hagridmi@student.21-school.ru,ENTERING
+2024-06-30 10:49:52,21 Magas,Sabar,g6,ronnelqu@student.21-school.ru,LEAVING
+2024-06-30 10:50:10,21 Magas,Tesham,a5,corineil@student.21-school.ru,ENTERING
+2024-06-30 10:50:10,21 Moscow,Oasis,h2,jilliaco@student.21-school.ru,ENTERING
+2024-06-30 10:50:29,21 Veliky Novgorod,Lepton,f4,graveleg@student.21-school.ru,LEAVING
+2024-06-30 10:50:47,21 Surgut,Hydrogen,b9,medwicki@student.21-school.ru,ENTERING
+2024-06-30 10:51:04,21 Magas,Tesham,d3,byronani@student.21-school.ru,LEAVING
+2024-06-30 10:51:22,21 Magas,Ezdel,b4,shrimplm@student.21-school.ru,LEAVING
+2024-06-30 10:51:39,21 Yaroslavl,Volkov,g1,genaroeu@student.21-school.ru,ENTERING
+2024-06-30 10:51:39,21 Yakutsk,Ayar,g1,lesleegw@student.21-school.ru,ENTERING
+2024-06-30 10:51:39,21 Magas,Ezdel,b4,shrimplm@student.21-school.ru,ENTERING
+2024-06-30 10:52:16,21 Veliky Novgorod,Boson,b4,petyrdar@student.21-school.ru,ENTERING
+2024-06-30 10:52:16,21 Magas,Sabar,g6,ronnelqu@student.21-school.ru,ENTERING
+2024-06-30 10:52:53,21 Moscow,Mirage,k2,gabriecr@student.21-school.ru,ENTERING
+2024-06-30 10:52:53,21 Magas,Denal,f2,halfempd@student.21-school.ru,ENTERING
+2024-06-30 10:53:10,21 Kazan,Vault,j5,blackwoo@student.21-school.ru,LEAVING
+2024-06-30 10:53:10,21 Moscow,Mirage,l6,porthert@student.21-school.ru,ENTERING
+2024-06-30 10:53:28,21 Yakutsk,Sitim,d4,marlysma@student.21-school.ru,LEAVING
+2024-06-30 10:53:50,21 Veliky Novgorod,Quark,d7,kosiseli@student.21-school.ru,ENTERING
+2024-06-30 10:53:50,21 Moscow,Oasis,b5,shunnedx@student.21-school.ru,ENTERING
+2024-06-30 10:53:50,21 Yakutsk,Tuskul,g2,thracede@student.21-school.ru,LEAVING
+2024-06-30 10:54:10,21 Yaroslavl,Mudriy,d5,josefied@student.21-school.ru,ENTERING
+2024-06-30 10:54:10,21 Magas,Tesham,e4,ravynush@student.21-school.ru,LEAVING
+2024-06-30 10:54:28,21 Yakutsk,Sitim,i1,codsworn@student.21-school.ru,LEAVING
+2024-06-30 10:54:28,21 Magas,Tesham,a2,daxospre@student.21-school.ru,ENTERING
+2024-06-30 10:54:28,21 Yaroslavl,Ushakov,o3,drivepos@student.21-school.ru,ENTERING
+2024-06-30 10:54:28,21 Yaroslavl,Volkov,g3,shelliek@student.21-school.ru,ENTERING
+2024-06-30 10:54:46,21 Yaroslavl,Ushakov,o1,leygoodg@student.21-school.ru,ENTERING
+2024-06-30 10:54:46,21 Magas,Denal,f4,sparecar@student.21-school.ru,ENTERING
+2024-06-30 10:55:26,21 Novosibirsk,Obscurity,h5,electroe@student.21-school.ru,LEAVING
+2024-06-30 10:55:46,21 Magas,Ezdel,a2,sadelore@student.21-school.ru,LEAVING
+2024-06-30 10:56:23,21 Magas,Denal,f5,baharatl@student.21-school.ru,ENTERING
+2024-06-30 10:56:23,21 Yakutsk,Erchim,d9,totesora@student.21-school.ru,LEAVING
+2024-06-30 10:56:40,21 Yaroslavl,Ushakov,d6,karrieer@student.21-school.ru,ENTERING
+2024-06-30 10:56:40,21 Yaroslavl,Mudriy,d4,papaward@student.21-school.ru,ENTERING
+2024-06-30 10:57:15,21 Yakutsk,Erchim,e1,arnetteb@student.21-school.ru,ENTERING
+2024-06-30 10:57:15,21 Magas,Denal,j3,kedgemar@student.21-school.ru,LEAVING
+2024-06-30 10:57:53,21 Yaroslavl,Mudriy,e3,lonnysig@student.21-school.ru,LEAVING
+2024-06-30 10:58:11,21 Kazan,Progress,f3,elliejac@student.21-school.ru,ENTERING
+2024-06-30 10:58:29,21 Moscow,Illusion,e6,pamellam@student.21-school.ru,ENTERING
+2024-06-30 10:58:29,21 Yakutsk,Sitim,i2,tommyegr@student.21-school.ru,ENTERING
+2024-06-30 10:58:45,21 Yaroslavl,Mudriy,a1,lonnysig@student.21-school.ru,ENTERING
+2024-06-30 10:59:24,21 Kazan,Universe,k3,grandisc@student.21-school.ru,LEAVING
+2024-06-30 10:59:43,21 Kazan,Universe,h6,cranbero@student.21-school.ru,ENTERING
+2024-06-30 10:59:43,21 Samarkand,tillakori,m1,lorenuzu@student.21-school.ru,LEAVING
+2024-06-30 11:00:19,21 Novosibirsk,Infinity,d8,shelbaja@student.21-school.ru,LEAVING
+2024-06-30 11:00:39,21 Yaroslavl,Ushakov,i3,darlaind@student.21-school.ru,LEAVING
+2024-06-30 11:00:39,21 Moscow,Atlantis,q2,kaseltzt@student.21-school.ru,ENTERING
+2024-06-30 11:00:39,21 Novosibirsk,Infinity,d3,vindicao@student.21-school.ru,LEAVING
+2024-06-30 11:00:57,21 Moscow,Mirage,s6,guerenmo@student.21-school.ru,LEAVING
+2024-06-30 11:01:35,21 Surgut,Hydrogen,b4,mangoshe@student.21-school.ru,ENTERING
+2024-06-30 11:01:35,21 Surgut,Hydrogen,b2,valentbl@student.21-school.ru,ENTERING
+2024-06-30 11:01:52,21 Samarkand,tillakori,p5,barramuc@student.21-school.ru,LEAVING
+2024-06-30 11:01:52,21 Moscow,Atlantis,j3,tentacos@student.21-school.ru,LEAVING
+2024-06-30 11:02:10,21 Magas,Denal,o6,fisholdt@student.21-school.ru,ENTERING
+2024-06-30 11:02:10,21 Veliky Novgorod,Boson,b6,patakibe@student.21-school.ru,ENTERING
+2024-06-30 11:04:19,21 Magas,Denal,l1,theobalk@student.21-school.ru,LEAVING
+2024-06-30 11:05:18,21 Moscow,Oasis,c3,apearl@student.21-school.ru,ENTERING
+2024-06-30 11:05:18,21 Yakutsk,Sitim,a5,argoniaf@student.21-school.ru,ENTERING
+2024-06-30 11:05:37,21 Magas,Sabar,b3,nadiagat@student.21-school.ru,LEAVING
+2024-06-30 11:05:53,21 Moscow,Atlantis,m1,israelpi@student.21-school.ru,ENTERING
+2024-06-30 11:05:53,21 Yaroslavl,Mudriy,d5,josefied@student.21-school.ru,LEAVING
+2024-06-30 11:06:14,21 Kazan,Universe,a5,alivewel@student.21-school.ru,LEAVING
+2024-06-30 11:06:14,21 Samarkand,tillakori,m1,lorenuzu@student.21-school.ru,ENTERING
+2024-06-30 11:06:50,21 Kazan,Universe,j6,emrickon@student.21-school.ru,LEAVING
+2024-06-30 11:07:25,21 Yakutsk,Sitim,a5,argoniaf@student.21-school.ru,LEAVING
+2024-06-30 11:07:25,21 Magas,Sabar,a2,chipmand@student.21-school.ru,ENTERING
+2024-06-30 11:07:25,21 Samarkand,tillakori,m4,puckcher@student.21-school.ru,LEAVING
+2024-06-30 11:07:25,21 Yaroslavl,Ushakov,q3,robbverl@student.21-school.ru,LEAVING
+2024-06-30 11:08:04,21 Moscow,Oasis,j4,nedrapro@student.21-school.ru,ENTERING
+2024-06-30 11:08:04,21 Magas,Sabar,d6,shawndas@student.21-school.ru,ENTERING
+2024-06-30 11:08:38,21 Magas,Sabar,d6,shawndas@student.21-school.ru,LEAVING
+2024-06-30 11:08:38,21 Magas,Tesham,g4,suguhach@student.21-school.ru,LEAVING
+2024-06-30 11:08:56,21 Veliky Novgorod,Quark,f4,tannickl@student.21-school.ru,LEAVING
+2024-06-30 11:09:13,21 Moscow,Oasis,b6,aaronarl@student.21-school.ru,LEAVING
+2024-06-30 11:09:13,21 Magas,Denal,o3,baggskur@student.21-school.ru,LEAVING
+2024-06-30 11:09:13,21 Magas,Tesham,j2,gayeearl@student.21-school.ru,ENTERING
+2024-06-30 11:11:09,21 Magas,Denal,j1,aragogha@student.21-school.ru,LEAVING
+2024-06-30 11:11:47,21 Surgut,Hydrogen,c2,kashiwai@student.21-school.ru,ENTERING
+2024-06-30 11:11:47,21 Magas,Denal,d4,seleneay@student.21-school.ru,ENTERING
+2024-06-30 11:11:47,21 Yakutsk,Erchim,d10,selmaman@student.21-school.ru,LEAVING
+2024-06-30 11:11:47,21 Yaroslavl,Volkov,c1,trumpecy@student.21-school.ru,ENTERING
+2024-06-30 11:12:06,21 Kazan,Genom,i6,leonidak@student.21-school.ru,ENTERING
+2024-06-30 11:12:06,21 Yaroslavl,Ushakov,l2,rolleyby@student.21-school.ru,LEAVING
+2024-06-30 11:12:48,21 Veliky Novgorod,Quark,h4,fairykyu@student.21-school.ru,ENTERING
+2024-06-30 11:12:48,21 Moscow,Oasis,g2,fideliai@student.21-school.ru,ENTERING
+2024-06-30 11:12:48,21 Yakutsk,Erchim,d10,selmaman@student.21-school.ru,ENTERING
+2024-06-30 11:13:06,21 Veliky Novgorod,Lepton,e5,irwinran@student.21-school.ru,LEAVING
+2024-06-30 11:13:06,21 Samarkand,tillakori,l3,twannama@student.21-school.ru,ENTERING
+2024-06-30 11:13:24,21 Novosibirsk,Silence,d10,smokedem@student.21-school.ru,LEAVING
+2024-06-30 11:13:44,21 Yaroslavl,Ushakov,d1,tomatofe@student.21-school.ru,ENTERING
+2024-06-30 11:14:20,21 Yakutsk,Sitim,a1,tanjaann@student.21-school.ru,LEAVING
+2024-06-30 11:14:58,21 Kazan,Progress,i6,barnardd@student.21-school.ru,ENTERING
+2024-06-30 11:14:58,21 Novosibirsk,Silence,e2,kilowoga@student.21-school.ru,ENTERING
+2024-06-30 11:14:58,21 Magas,Sabar,a1,suguhach@student.21-school.ru,ENTERING
+2024-06-30 11:15:15,21 Yakutsk,Ayar,i1,nicolemy@student.21-school.ru,LEAVING
+2024-06-30 11:15:15,21 Magas,Denal,n1,nornetho@student.21-school.ru,ENTERING
+2024-06-30 11:15:35,21 Moscow,Mirage,l6,porthert@student.21-school.ru,LEAVING
+2024-06-30 11:15:55,21 Magas,Denal,l4,donettda@student.21-school.ru,ENTERING
+2024-06-30 11:15:55,21 Kazan,Genom,d6,elisabet@student.21-school.ru,ENTERING
+2024-06-30 11:15:55,21 Novosibirsk,Infinity,e4,yesenias@student.21-school.ru,ENTERING
+2024-06-30 11:16:15,21 Yaroslavl,Ushakov,a1,martainm@student.21-school.ru,LEAVING
+2024-06-30 11:16:15,21 Yakutsk,Erchim,c8,stasiave@student.21-school.ru,LEAVING
+2024-06-30 11:16:41,21 Magas,Ezdel,k2,ngocbitt@student.21-school.ru,ENTERING
+2024-06-30 11:16:41,21 Moscow,Mirage,j3,patchesj@student.21-school.ru,ENTERING
+2024-06-30 11:16:41,21 Yakutsk,Erchim,c7,quencdie@student.21-school.ru,LEAVING
+2024-06-30 11:16:41,21 Yakutsk,Ayar,f1,ventrest@student.21-school.ru,LEAVING
+2024-06-30 11:17:02,21 Veliky Novgorod,Quark,f11,eleonoev@student.21-school.ru,ENTERING
+2024-06-30 11:17:20,21 Magas,Denal,j5,hagridar@student.21-school.ru,LEAVING
+2024-06-30 11:17:39,21 Magas,Ezdel,d3,shawndas@student.21-school.ru,ENTERING
+2024-06-30 11:17:59,21 Magas,Denal,b2,heathmer@student.21-school.ru,LEAVING
+2024-06-30 11:19:30,21 Veliky Novgorod,Lepton,b7,udyrannm@student.21-school.ru,LEAVING
+2024-06-30 11:20:07,21 Moscow,Mirage,t5,lorinach@student.21-school.ru,ENTERING
+2024-06-30 11:20:07,21 Moscow,Atlantis,j3,tentacos@student.21-school.ru,ENTERING
+2024-06-30 11:20:25,21 Moscow,Atlantis,o7,vanesawo@student.21-school.ru,LEAVING
+2024-06-30 11:20:43,21 Kazan,Universe,b6,kaneshau@student.21-school.ru,ENTERING
+2024-06-30 11:21:20,21 Yakutsk,Ayar,h3,bellatme@student.21-school.ru,LEAVING
+2024-06-30 11:21:20,21 Yakutsk,Ayar,e1,elvinbru@student.21-school.ru,ENTERING
+2024-06-30 11:21:38,21 Magas,Ezdel,e2,lovejoye@student.21-school.ru,ENTERING
+2024-06-30 11:21:58,21 Yaroslavl,Ushakov,c4,onielore@student.21-school.ru,ENTERING
+2024-06-30 11:22:16,21 Novosibirsk,Silence,a2,mavissig@student.21-school.ru,ENTERING
+2024-06-30 11:22:16,21 Moscow,Atlantis,o7,vanesawo@student.21-school.ru,ENTERING
+2024-06-30 11:22:53,21 Moscow,Atlantis,h2,winonale@student.21-school.ru,ENTERING
+2024-06-30 11:22:53,21 Yaroslavl,Ushakov,f6,zekefinn@student.21-school.ru,ENTERING
+2024-06-30 11:23:11,21 Novosibirsk,Obscurity,e8,vanesabo@student.21-school.ru,LEAVING
+2024-06-30 11:24:03,21 Yaroslavl,Ushakov,e5,cherrylc@student.21-school.ru,LEAVING
+2024-06-30 11:24:20,21 Kazan,Eternity,l6,ricardac@student.21-school.ru,ENTERING
+2024-06-30 11:24:20,21 Yaroslavl,Ushakov,j4,staciaar@student.21-school.ru,LEAVING
+2024-06-30 11:24:38,21 Veliky Novgorod,Quark,b1,beecheri@student.21-school.ru,ENTERING
+2024-06-30 11:24:38,21 Moscow,Illusion,a2,skarnede@student.21-school.ru,ENTERING
+2024-06-30 11:24:57,21 Yaroslavl,Ushakov,f4,cherrylc@student.21-school.ru,ENTERING
+2024-06-30 11:25:54,21 Veliky Novgorod,Lepton,e5,irwinran@student.21-school.ru,ENTERING
+2024-06-30 11:26:13,21 Yakutsk,Ayar,e3,softfooe@student.21-school.ru,LEAVING
+2024-06-30 11:26:13,21 Veliky Novgorod,Quark,f4,tannickl@student.21-school.ru,ENTERING
+2024-06-30 11:26:31,21 Yakutsk,Ayar,b2,brunchcl@student.21-school.ru,LEAVING
+2024-06-30 11:27:28,21 Yakutsk,Erchim,a1,grapevic@student.21-school.ru,LEAVING
+2024-06-30 11:27:47,21 Yakutsk,Erchim,e1,arnetteb@student.21-school.ru,LEAVING
+2024-06-30 11:27:47,21 Novosibirsk,Obscurity,d1,hummusje@student.21-school.ru,LEAVING
+2024-06-30 11:28:05,21 Magas,Ezdel,b2,skipjacs@student.21-school.ru,LEAVING
+2024-06-30 11:28:41,21 Magas,Denal,n1,nornetho@student.21-school.ru,LEAVING
+2024-06-30 11:28:41,21 Yakutsk,Ayar,e5,queenies@student.21-school.ru,ENTERING
+2024-06-30 11:29:03,21 Veliky Novgorod,Lepton,a7,caladanw@student.21-school.ru,LEAVING
+2024-06-30 11:29:03,21 Yakutsk,Ayar,e5,queenies@student.21-school.ru,LEAVING
+2024-06-30 11:29:03,21 Yaroslavl,Tkachenko,i3,ryzefire@student.21-school.ru,LEAVING
+2024-06-30 11:29:21,21 Magas,Denal,n6,ruthanel@student.21-school.ru,LEAVING
+2024-06-30 11:29:39,21 Magas,Denal,f1,nornetho@student.21-school.ru,ENTERING
+2024-06-30 11:29:39,21 Yakutsk,Ayar,e2,queenies@student.21-school.ru,ENTERING
+2024-06-30 11:29:56,21 Surgut,Carbon,b9,wilberma@student.21-school.ru,ENTERING
+2024-06-30 11:30:13,21 Yaroslavl,Ushakov,l2,rolleyby@student.21-school.ru,ENTERING
+2024-06-30 11:30:13,21 Yaroslavl,Ushakov,c5,yurikoro@student.21-school.ru,LEAVING
+2024-06-30 11:30:32,21 Novosibirsk,Infinity,d4,waltlate@student.21-school.ru,LEAVING
+2024-06-30 11:30:51,21 Novosibirsk,Infinity,b9,eusebiaa@student.21-school.ru,LEAVING
+2024-06-30 11:30:51,21 Veliky Novgorod,Quark,c8,sarirunc@student.21-school.ru,LEAVING
+2024-06-30 11:31:09,21 Veliky Novgorod,Quark,c8,sarirunc@student.21-school.ru,ENTERING
+2024-06-30 11:31:26,21 Magas,Denal,a5,tomatone@student.21-school.ru,ENTERING
+2024-06-30 11:31:46,21 Magas,Tesham,g5,johnnyfi@student.21-school.ru,LEAVING
+2024-06-30 11:31:46,21 Veliky Novgorod,Lepton,a5,quianakr@student.21-school.ru,ENTERING
+2024-06-30 11:32:42,21 Surgut,Hydrogen,a4,northmoh@student.21-school.ru,LEAVING
+2024-06-30 11:33:19,21 Yakutsk,Erchim,a1,grapevic@student.21-school.ru,ENTERING
+2024-06-30 11:33:39,21 Kazan,Eternity,l6,ricardac@student.21-school.ru,LEAVING
+2024-06-30 11:33:57,21 Magas,Tesham,b5,mogodaar@student.21-school.ru,LEAVING
+2024-06-30 11:33:57,21 Novosibirsk,Obscurity,g3,rondaeli@student.21-school.ru,ENTERING
+2024-06-30 11:33:57,21 Magas,Denal,d4,seleneay@student.21-school.ru,LEAVING
+2024-06-30 11:33:57,21 Magas,Tesham,b6,tregarmi@student.21-school.ru,LEAVING
+2024-06-30 11:33:57,21 Yaroslavl,Tkachenko,o3,ymirgowe@student.21-school.ru,ENTERING
+2024-06-30 11:34:15,21 Yakutsk,Tuskul,i1,estelljo@student.21-school.ru,LEAVING
+2024-06-30 11:34:15,21 Magas,Tesham,b4,kangaskr@student.21-school.ru,LEAVING
+2024-06-30 11:35:09,21 Magas,Tesham,a3,rosellem@student.21-school.ru,LEAVING
+2024-06-30 11:35:26,21 Kazan,Eternity,l6,ricardac@student.21-school.ru,ENTERING
+2024-06-30 11:36:03,21 Veliky Novgorod,Lepton,a7,caladanw@student.21-school.ru,ENTERING
+2024-06-30 11:36:03,21 Novosibirsk,Infinity,f3,doduofor@student.21-school.ru,ENTERING
+2024-06-30 11:36:19,21 Yaroslavl,Mudriy,d2,josefied@student.21-school.ru,ENTERING
+2024-06-30 11:36:19,21 Moscow,Mirage,m6,porthert@student.21-school.ru,ENTERING
+2024-06-30 11:36:41,21 Magas,Tesham,j5,nguyetja@student.21-school.ru,LEAVING
+2024-06-30 11:36:41,21 Yaroslavl,Volkov,a3,rhyhormo@student.21-school.ru,ENTERING
+2024-06-30 11:36:41,21 Novosibirsk,Infinity,d8,shelbaja@student.21-school.ru,ENTERING
+2024-06-30 11:37:18,21 Novosibirsk,Obscurity,f2,macygabr@student.21-school.ru,LEAVING
+2024-06-30 11:37:38,21 Yaroslavl,Mudriy,d2,josefied@student.21-school.ru,LEAVING
+2024-06-30 11:37:54,21 Yaroslavl,Ushakov,e4,didijacq@student.21-school.ru,LEAVING
+2024-06-30 11:37:54,21 Kazan,Eternity,l6,ricardac@student.21-school.ru,LEAVING
+2024-06-30 11:38:13,21 Moscow,Illusion,i6,milfordn@student.21-school.ru,LEAVING
+2024-06-30 11:38:30,21 Magas,Ezdel,e2,lovejoye@student.21-school.ru,LEAVING
+2024-06-30 11:38:30,21 Yaroslavl,Volkov,a3,rhyhormo@student.21-school.ru,LEAVING
+2024-06-30 11:38:50,21 Yaroslavl,Ushakov,i4,cecilaoc@student.21-school.ru,ENTERING
+2024-06-30 11:39:08,21 Magas,Tesham,d2,gastropb@student.21-school.ru,LEAVING
+2024-06-30 11:39:27,21 Magas,Sabar,c6,keishaae@student.21-school.ru,LEAVING
+2024-06-30 11:39:46,21 Magas,Denal,f5,baharatl@student.21-school.ru,LEAVING
+2024-06-30 11:39:46,21 Yaroslavl,Ushakov,m4,quickaxc@student.21-school.ru,ENTERING
+2024-06-30 11:39:46,21 Yaroslavl,Volkov,b6,sharlenn@student.21-school.ru,ENTERING
+2024-06-30 11:39:46,21 Magas,Denal,f4,sparecar@student.21-school.ru,LEAVING
+2024-06-30 11:39:46,21 Veliky Novgorod,Lepton,b7,udyrannm@student.21-school.ru,ENTERING
+2024-06-30 11:40:05,21 Magas,Tesham,i3,argraveb@student.21-school.ru,LEAVING
+2024-06-30 11:40:05,21 Magas,Tesham,a1,dugtrios@student.21-school.ru,LEAVING
+2024-06-30 11:40:05,21 Magas,Tesham,d2,gastropb@student.21-school.ru,ENTERING
+2024-06-30 11:40:05,21 Moscow,Mirage,f6,kellabul@student.21-school.ru,ENTERING
+2024-06-30 11:40:05,21 Yaroslavl,Tkachenko,q4,kezmyaca@student.21-school.ru,LEAVING
+2024-06-30 11:40:23,21 Magas,Tesham,a5,corineil@student.21-school.ru,LEAVING
+2024-06-30 11:40:23,21 Magas,Tesham,a6,lucamove@student.21-school.ru,LEAVING
+2024-06-30 11:40:23,21 Magas,Ezdel,a4,rapidass@student.21-school.ru,ENTERING
+2024-06-30 11:40:23,21 Kazan,Eternity,i6,ricardac@student.21-school.ru,ENTERING
+2024-06-30 11:41:00,21 Magas,Tesham,a5,corineil@student.21-school.ru,ENTERING
+2024-06-30 11:41:17,21 Magas,Tesham,g6,poudregi@student.21-school.ru,LEAVING
+2024-06-30 11:41:17,21 Yaroslavl,Tkachenko,q2,socorrov@student.21-school.ru,LEAVING
+2024-06-30 11:41:35,21 Yaroslavl,Tkachenko,p4,eleonorc@student.21-school.ru,LEAVING
+2024-06-30 11:41:52,21 Yaroslavl,Ushakov,e3,moaneyma@student.21-school.ru,LEAVING
+2024-06-30 11:41:52,21 Yaroslavl,Volkov,b6,sharlenn@student.21-school.ru,LEAVING
+2024-06-30 11:42:10,21 Yakutsk,Erchim,e6,fudgeare@student.21-school.ru,LEAVING
+2024-06-30 11:42:29,21 Magas,Tesham,h1,dinorahl@student.21-school.ru,ENTERING
+2024-06-30 11:43:45,21 Novosibirsk,Silence,b6,clements@student.21-school.ru,ENTERING
+2024-06-30 11:44:01,21 Yaroslavl,Tkachenko,i5,braintha@student.21-school.ru,LEAVING
+2024-06-30 11:44:01,21 Novosibirsk,Infinity,c8,lyddenma@student.21-school.ru,LEAVING
+2024-06-30 11:44:38,21 Magas,Denal,b5,fideldan@student.21-school.ru,LEAVING
+2024-06-30 11:44:38,21 Magas,Denal,o6,fisholdt@student.21-school.ru,LEAVING
+2024-06-30 11:44:38,21 Moscow,Atlantis,h4,msalena@student.21-school.ru,LEAVING
+2024-06-30 11:44:38,21 Yakutsk,Ayar,g4,oshanido@student.21-school.ru,LEAVING
+2024-06-30 11:44:57,21 Moscow,Atlantis,k5,acollin@student.21-school.ru,ENTERING
+2024-06-30 11:45:18,21 Moscow,Mirage,t3,kwaltzgw@student.21-school.ru,ENTERING
+2024-06-30 11:45:18,21 Yaroslavl,Volkov,b5,sharlenn@student.21-school.ru,ENTERING
+2024-06-30 11:45:35,21 Kazan,Universe,m5,ellensem@student.21-school.ru,ENTERING
+2024-06-30 11:45:54,21 Magas,Sabar,c5,cheddarf@student.21-school.ru,ENTERING
+2024-06-30 11:46:50,21 Moscow,Atlantis,j4,glossuvi@student.21-school.ru,ENTERING
+2024-06-30 11:46:50,21 Magas,Denal,e5,zharaqgo@student.21-school.ru,LEAVING
+2024-06-30 11:47:26,21 Magas,Denal,l6,adellaet@student.21-school.ru,LEAVING
+2024-06-30 11:47:26,21 Kazan,Universe,j6,emrickon@student.21-school.ru,ENTERING
+2024-06-30 11:47:26,21 Novosibirsk,Obscurity,e9,sandorme@student.21-school.ru,LEAVING
+2024-06-30 11:48:04,21 Magas,Tesham,f3,pastkere@student.21-school.ru,ENTERING
+2024-06-30 11:48:04,21 Surgut,Carbon,b9,wilberma@student.21-school.ru,LEAVING
+2024-06-30 11:48:23,21 Magas,Tesham,f2,baggskur@student.21-school.ru,ENTERING
+2024-06-30 11:48:23,21 Novosibirsk,Obscurity,g8,shenmurr@student.21-school.ru,LEAVING
+2024-06-30 11:48:41,21 Magas,Denal,j5,hagridar@student.21-school.ru,ENTERING
+2024-06-30 11:49:03,21 Samarkand,tillakori,m1,lorenuzu@student.21-school.ru,LEAVING
+2024-06-30 11:49:03,21 Magas,Sabar,g6,ronnelqu@student.21-school.ru,LEAVING
+2024-06-30 11:49:03,21 Yaroslavl,Volkov,b5,sharlenn@student.21-school.ru,LEAVING
+2024-06-30 11:49:22,21 Kazan,Genom,f4,quayleel@student.21-school.ru,ENTERING
+2024-06-30 11:49:41,21 Magas,Ezdel,l3,lovejoye@student.21-school.ru,ENTERING
+2024-06-30 11:49:58,21 Yaroslavl,Volkov,c5,sharlenn@student.21-school.ru,ENTERING
+2024-06-30 11:50:38,21 Magas,Ezdel,p4,lyannawi@student.21-school.ru,ENTERING
+2024-06-30 11:50:38,21 Surgut,Sulfur,b4,whitneye@student.21-school.ru,ENTERING
+2024-06-30 11:51:13,21 Moscow,Atlantis,c2,stepaniy@student.21-school.ru,ENTERING
+2024-06-30 11:51:30,21 Yakutsk,Ayar,i1,nicolemy@student.21-school.ru,ENTERING
+2024-06-30 11:51:30,21 Moscow,Atlantis,m5,niggurar@student.21-school.ru,LEAVING
+2024-06-30 11:51:30,21 Magas,Sabar,c6,zeftyjef@student.21-school.ru,ENTERING
+2024-06-30 11:52:08,21 Novosibirsk,Infinity,d4,waltlate@student.21-school.ru,ENTERING
+2024-06-30 11:52:27,21 Magas,Tesham,a1,dugtrios@student.21-school.ru,ENTERING
+2024-06-30 11:52:27,21 Surgut,Sulfur,c2,gearhead@student.21-school.ru,ENTERING
+2024-06-30 11:52:27,21 Magas,Tesham,a3,rosellem@student.21-school.ru,ENTERING
+2024-06-30 11:52:45,21 Kazan,Evolution,h6,evangelm@student.21-school.ru,ENTERING
+2024-06-30 11:52:45,21 Moscow,Oasis,g2,fideliai@student.21-school.ru,LEAVING
+2024-06-30 11:53:04,21 Yakutsk,Erchim,e6,fudgeare@student.21-school.ru,ENTERING
+2024-06-30 11:53:24,21 Veliky Novgorod,Quark,g2,drynagus@student.21-school.ru,LEAVING
+2024-06-30 11:54:00,21 Yaroslavl,Ushakov,k1,chantede@student.21-school.ru,ENTERING
+2024-06-30 11:54:00,21 Yaroslavl,Ushakov,c6,stockmer@student.21-school.ru,LEAVING
+2024-06-30 11:54:00,21 Surgut,Carbon,b9,wilberma@student.21-school.ru,ENTERING
+2024-06-30 11:54:20,21 Moscow,Atlantis,j6,alexista@student.21-school.ru,LEAVING
+2024-06-30 11:54:20,21 Moscow,Mirage,i6,hongdant@student.21-school.ru,ENTERING
+2024-06-30 11:54:20,21 Magas,Tesham,a3,rosellem@student.21-school.ru,LEAVING
+2024-06-30 11:54:37,21 Samarkand,tillakori,p5,barramuc@student.21-school.ru,ENTERING
+2024-06-30 11:54:54,21 Novosibirsk,Obscurity,j8,hatchesn@student.21-school.ru,LEAVING
+2024-06-30 11:55:12,21 Yakutsk,Ayar,e2,queenies@student.21-school.ru,LEAVING
+2024-06-30 11:55:52,21 Magas,Tesham,a3,rosellem@student.21-school.ru,ENTERING
+2024-06-30 11:56:12,21 Magas,Tesham,a2,daxospre@student.21-school.ru,LEAVING
+2024-06-30 11:56:12,21 Kazan,Progress,h5,mildredm@student.21-school.ru,LEAVING
+2024-06-30 11:56:49,21 Yaroslavl,Mudriy,d4,papaward@student.21-school.ru,LEAVING
+2024-06-30 11:57:06,21 Magas,Tesham,i3,argraveb@student.21-school.ru,ENTERING
+2024-06-30 11:57:06,21 Yaroslavl,Tkachenko,p4,eleonorc@student.21-school.ru,ENTERING
+2024-06-30 11:57:06,21 Yakutsk,Sitim,e5,emmonsha@student.21-school.ru,LEAVING
+2024-06-30 11:57:06,21 Novosibirsk,Obscurity,d2,kudzusat@student.21-school.ru,LEAVING
+2024-06-30 11:57:27,21 Magas,Tesham,i1,audriape@student.21-school.ru,ENTERING
+2024-06-30 11:57:27,21 Moscow,Oasis,b4,virgilwi@student.21-school.ru,LEAVING
+2024-06-30 11:58:05,21 Yaroslavl,Mudriy,e3,josefied@student.21-school.ru,ENTERING
+2024-06-30 11:58:24,21 Magas,Denal,l4,donettda@student.21-school.ru,LEAVING
+2024-06-30 11:58:43,21 Samarkand,tillakori,i3,unmentia@student.21-school.ru,ENTERING
+2024-06-30 11:59:02,21 Magas,Denal,j4,ardrianw@student.21-school.ru,LEAVING
+2024-06-30 11:59:02,21 Novosibirsk,Obscurity,d1,hummusje@student.21-school.ru,ENTERING
+2024-06-30 11:59:18,21 Novosibirsk,Obscurity,g8,shenmurr@student.21-school.ru,ENTERING
+2024-06-30 11:59:36,21 Magas,Tesham,a2,daxospre@student.21-school.ru,ENTERING
+2024-06-30 11:59:54,21 Novosibirsk,Obscurity,d2,kudzusat@student.21-school.ru,ENTERING
+2024-06-30 11:59:54,21 Samarkand,tillakori,p4,ricassol@student.21-school.ru,ENTERING
+2024-06-30 12:00:12,21 Magas,Denal,d3,marilynu@student.21-school.ru,LEAVING
+2024-06-30 12:00:12,21 Moscow,Mirage,r5,randalls@student.21-school.ru,ENTERING
+2024-06-30 12:00:50,21 Yaroslavl,Ushakov,e3,moaneyma@student.21-school.ru,ENTERING
+2024-06-30 12:01:09,21 Moscow,Mirage,q1,alliserr@student.21-school.ru,LEAVING
+2024-06-30 12:01:09,21 Moscow,Atlantis,c3,lifeboak@student.21-school.ru,ENTERING
+2024-06-30 12:02:08,21 Magas,Tesham,j5,nguyetja@student.21-school.ru,ENTERING
+2024-06-30 12:02:08,21 Magas,Ezdel,d3,shawndas@student.21-school.ru,LEAVING
+2024-06-30 12:02:28,21 Kazan,Evolution,h5,mildredm@student.21-school.ru,ENTERING
+2024-06-30 12:02:47,21 Moscow,Atlantis,p6,bodgerun@student.21-school.ru,ENTERING
+2024-06-30 12:03:07,21 Samarkand,sherdor,y3,christib@student.21-school.ru,LEAVING
+2024-06-30 12:03:07,21 Kazan,Progress,k4,eugeniee@student.21-school.ru,ENTERING
+2024-06-30 12:03:07,21 Surgut,Sulfur,g5,worfwint@student.21-school.ru,LEAVING
+2024-06-30 12:03:23,21 Samarkand,tillakori,i3,unmentia@student.21-school.ru,LEAVING
+2024-06-30 12:03:44,21 Yaroslavl,Volkov,g1,genaroeu@student.21-school.ru,LEAVING
+2024-06-30 12:03:44,21 Magas,Tesham,b6,tregarmi@student.21-school.ru,ENTERING
+2024-06-30 12:04:22,21 Veliky Novgorod,Quark,b1,beecheri@student.21-school.ru,LEAVING
+2024-06-30 12:04:22,21 Yakutsk,Erchim,c6,cantillc@student.21-school.ru,LEAVING
+2024-06-30 12:04:22,21 Magas,Tesham,f1,merirosa@student.21-school.ru,LEAVING
+2024-06-30 12:04:40,21 Moscow,Mirage,k6,caroylns@student.21-school.ru,ENTERING
+2024-06-30 12:04:58,21 Magas,Sabar,g6,ronnelqu@student.21-school.ru,ENTERING
+2024-06-30 12:05:53,21 Kazan,Progress,c2,armondvi@student.21-school.ru,LEAVING
+2024-06-30 12:05:53,21 Moscow,Mirage,v3,gradyzan@student.21-school.ru,ENTERING
+2024-06-30 12:05:53,21 Magas,Tesham,f1,merirosa@student.21-school.ru,ENTERING
+2024-06-30 12:06:08,21 Magas,Ezdel,l3,lovejoye@student.21-school.ru,LEAVING
+2024-06-30 12:06:08,21 Kazan,Universe,e1,rockmelm@student.21-school.ru,ENTERING
+2024-06-30 12:06:25,21 Veliky Novgorod,Lepton,f3,beecheri@student.21-school.ru,ENTERING
+2024-06-30 12:06:25,21 Kazan,Universe,f2,chocolam@student.21-school.ru,ENTERING
+2024-06-30 12:06:25,21 Kazan,Genom,g3,louellat@student.21-school.ru,LEAVING
+2024-06-30 12:06:25,21 Magas,Tesham,b5,mogodaar@student.21-school.ru,ENTERING
+2024-06-30 12:06:44,21 Magas,Sabar,g6,ronnelqu@student.21-school.ru,LEAVING
+2024-06-30 12:07:01,21 Surgut,Hydrogen,g9,callistj@student.21-school.ru,LEAVING
+2024-06-30 12:07:21,21 Magas,Sabar,g6,ronnelqu@student.21-school.ru,ENTERING
+2024-06-30 12:07:21,21 Kazan,Vault,b4,theashaw@student.21-school.ru,ENTERING
+2024-06-30 12:07:40,21 Yaroslavl,Mudriy,a3,beneketo@student.21-school.ru,LEAVING
+2024-06-30 12:08:02,21 Magas,Denal,o6,fisholdt@student.21-school.ru,ENTERING
+2024-06-30 12:08:02,21 Yakutsk,Erchim,e6,fudgeare@student.21-school.ru,LEAVING
+2024-06-30 12:08:18,21 Yaroslavl,Mudriy,b2,ytramsse@student.21-school.ru,LEAVING
+2024-06-30 12:08:37,21 Veliky Novgorod,Quark,c9,mjollgra@student.21-school.ru,ENTERING
+2024-06-30 12:08:37,21 Samarkand,tillakori,l3,twannama@student.21-school.ru,LEAVING
+2024-06-30 12:08:37,21 Yaroslavl,Mudriy,b3,tyrionca@student.21-school.ru,LEAVING
+2024-06-30 12:09:30,21 Moscow,Oasis,c3,apearl@student.21-school.ru,LEAVING
+2024-06-30 12:10:12,21 Yaroslavl,Mudriy,c3,elisevil@student.21-school.ru,LEAVING
+2024-06-30 12:10:12,21 Magas,Ezdel,e2,romanami@student.21-school.ru,ENTERING
+2024-06-30 12:10:34,21 Surgut,Hydrogen,h7,melaraka@student.21-school.ru,ENTERING
+2024-06-30 12:11:10,21 Moscow,Atlantis,m5,niggurar@student.21-school.ru,ENTERING
+2024-06-30 12:11:10,21 Moscow,Atlantis,j3,tentacos@student.21-school.ru,LEAVING
+2024-06-30 12:11:27,21 Moscow,Oasis,c3,apearl@student.21-school.ru,ENTERING
+2024-06-30 12:11:27,21 Veliky Novgorod,Quark,f11,eleonoev@student.21-school.ru,LEAVING
+2024-06-30 12:11:45,21 Yaroslavl,Ushakov,n5,beardlep@student.21-school.ru,LEAVING
+2024-06-30 12:11:45,21 Magas,Tesham,j1,tonettes@student.21-school.ru,LEAVING
+2024-06-30 12:12:04,21 Yakutsk,Erchim,a1,grapevic@student.21-school.ru,LEAVING
+2024-06-30 12:12:20,21 Magas,Sabar,f6,xerathka@student.21-school.ru,LEAVING
+2024-06-30 12:12:38,21 Yaroslavl,Ushakov,j1,dunnygri@student.21-school.ru,ENTERING
+2024-06-30 12:12:55,21 Moscow,Mirage,g5,eabradol@student.21-school.ru,LEAVING
+2024-06-30 12:12:55,21 Novosibirsk,Obscurity,h5,electroe@student.21-school.ru,ENTERING
+2024-06-30 12:12:55,21 Kazan,Vault,f3,jenniffr@student.21-school.ru,ENTERING
+2024-06-30 12:12:55,21 Yaroslavl,Ushakov,c1,tarbeckm@student.21-school.ru,ENTERING
+2024-06-30 12:13:11,21 Moscow,Oasis,c3,apearl@student.21-school.ru,LEAVING
+2024-06-30 12:13:11,21 Magas,Denal,b5,fideldan@student.21-school.ru,ENTERING
+2024-06-30 12:13:30,21 Magas,Tesham,c4,arrected@student.21-school.ru,ENTERING
+2024-06-30 12:14:05,21 Veliky Novgorod,Quark,f4,tannickl@student.21-school.ru,LEAVING
+2024-06-30 12:14:05,21 Samarkand,tillakori,i3,unmentia@student.21-school.ru,ENTERING
+2024-06-30 12:14:43,21 Magas,Sabar,d2,harragto@student.21-school.ru,LEAVING
+2024-06-30 12:15:01,21 Moscow,Mirage,q1,alliserr@student.21-school.ru,ENTERING
+2024-06-30 12:15:20,21 Magas,Denal,f2,halfempd@student.21-school.ru,LEAVING
+2024-06-30 12:15:20,21 Yakutsk,Ayar,g1,lesleegw@student.21-school.ru,LEAVING
+2024-06-30 12:15:20,21 Magas,Denal,f4,sparecar@student.21-school.ru,ENTERING
+2024-06-30 12:16:00,21 Magas,Denal,i1,pomfreyl@student.21-school.ru,ENTERING
+2024-06-30 12:16:37,21 Moscow,Oasis,k3,cranbere@student.21-school.ru,ENTERING
+2024-06-30 12:16:55,21 Yaroslavl,Mudriy,e3,josefied@student.21-school.ru,LEAVING
+2024-06-30 12:17:48,21 Surgut,Hydrogen,b6,mitchelp@student.21-school.ru,ENTERING
+2024-06-30 12:17:48,21 Kazan,Universe,k1,zenyatan@student.21-school.ru,LEAVING
+2024-06-30 12:18:08,21 Moscow,Atlantis,r6,nohemife@student.21-school.ru,ENTERING
+2024-06-30 12:18:26,21 Magas,Denal,f5,baharatl@student.21-school.ru,ENTERING
+2024-06-30 12:19:21,21 Kazan,Vault,d2,zenyatan@student.21-school.ru,ENTERING
+2024-06-30 12:19:40,21 Veliky Novgorod,Lepton,a7,caladanw@student.21-school.ru,LEAVING
+2024-06-30 12:20:20,21 Kazan,Evolution,h1,edwylewo@student.21-school.ru,LEAVING
+2024-06-30 12:20:20,21 Samarkand,tillakori,i1,twannama@student.21-school.ru,ENTERING
+2024-06-30 12:20:38,21 Kazan,Singularity,p2,captaink@student.21-school.ru,LEAVING
+2024-06-30 12:20:38,21 Magas,Denal,o5,molochar@student.21-school.ru,ENTERING
+2024-06-30 12:21:33,21 Surgut,Hydrogen,a8,noahlesa@student.21-school.ru,LEAVING
+2024-06-30 12:21:51,21 Yaroslavl,Ushakov,c2,durkeecl@student.21-school.ru,ENTERING
+2024-06-30 12:23:08,21 Magas,Tesham,b1,clintonl@student.21-school.ru,ENTERING
+2024-06-30 12:23:08,21 Yaroslavl,Ushakov,f2,stinkshu@student.21-school.ru,LEAVING
+2024-06-30 12:23:27,21 Novosibirsk,Silence,a10,zgeorgan@student.21-school.ru,LEAVING
+2024-06-30 12:23:45,21 Moscow,Mirage,w6,clemenjo@student.21-school.ru,LEAVING
+2024-06-30 12:23:45,21 Kazan,Evolution,h6,evangelm@student.21-school.ru,LEAVING
+2024-06-30 12:23:45,21 Moscow,Mirage,w1,kathryho@student.21-school.ru,LEAVING
+2024-06-30 12:24:03,21 Veliky Novgorod,Lepton,f4,graveleg@student.21-school.ru,ENTERING
+2024-06-30 12:24:19,21 Magas,Tesham,d1,monarchc@student.21-school.ru,ENTERING
+2024-06-30 12:24:19,21 Magas,Ezdel,f4,mountaie@student.21-school.ru,LEAVING
+2024-06-30 12:24:42,21 Veliky Novgorod,Quark,f2,kassiema@student.21-school.ru,LEAVING
+2024-06-30 12:24:42,21 Magas,Ezdel,b1,lovejoye@student.21-school.ru,ENTERING
+2024-06-30 12:24:42,21 Veliky Novgorod,Quark,f3,nettlesl@student.21-school.ru,LEAVING
+2024-06-30 12:24:59,21 Novosibirsk,Silence,a9,elenemar@student.21-school.ru,LEAVING
+2024-06-30 12:24:59,21 Kazan,Evolution,h6,evangelm@student.21-school.ru,ENTERING
+2024-06-30 12:24:59,21 Yakutsk,Ayar,d2,rickicha@student.21-school.ru,LEAVING
+2024-06-30 12:24:59,21 Magas,Ezdel,b4,shrimplm@student.21-school.ru,LEAVING
+2024-06-30 12:25:17,21 Veliky Novgorod,Quark,g7,betseywe@student.21-school.ru,LEAVING
+2024-06-30 12:25:17,21 Yakutsk,Ayar,f4,bumpbolg@student.21-school.ru,LEAVING
+2024-06-30 12:25:35,21 Magas,Denal,e5,zharaqgo@student.21-school.ru,ENTERING
+2024-06-30 12:26:15,21 Moscow,Illusion,h3,apearl@student.21-school.ru,ENTERING
+2024-06-30 12:26:33,21 Magas,Sabar,a2,chipmand@student.21-school.ru,LEAVING
+2024-06-30 12:27:10,21 Veliky Novgorod,Lepton,a3,betseywe@student.21-school.ru,ENTERING
+2024-06-30 12:27:10,21 Yakutsk,Ayar,h5,bumpbolg@student.21-school.ru,ENTERING
+2024-06-30 12:27:10,21 Magas,Tesham,c5,vanessst@student.21-school.ru,ENTERING
+2024-06-30 12:27:31,21 Yaroslavl,Tkachenko,p3,socorrov@student.21-school.ru,ENTERING
+2024-06-30 12:27:31,21 Yaroslavl,Volkov,c1,trumpecy@student.21-school.ru,LEAVING
+2024-06-30 12:27:51,21 Surgut,Hydrogen,a6,hagridmi@student.21-school.ru,LEAVING
+2024-06-30 12:28:09,21 Magas,Denal,d3,marilynu@student.21-school.ru,ENTERING
+2024-06-30 12:28:48,21 Yaroslavl,Tkachenko,p3,socorrov@student.21-school.ru,LEAVING
+2024-06-30 12:29:06,21 Novosibirsk,Silence,a2,mavissig@student.21-school.ru,LEAVING
+2024-06-30 12:29:23,21 Kazan,Universe,e6,kristofs@student.21-school.ru,ENTERING
+2024-06-30 12:29:23,21 Magas,Denal,n2,marisboo@student.21-school.ru,LEAVING
+2024-06-30 12:29:41,21 Magas,Denal,d4,seleneay@student.21-school.ru,ENTERING
+2024-06-30 12:29:41,21 Yakutsk,Ayar,f1,ventrest@student.21-school.ru,ENTERING
+2024-06-30 12:30:02,21 Kazan,Universe,a5,alivewel@student.21-school.ru,ENTERING
+2024-06-30 12:30:20,21 Magas,Ezdel,b1,lovejoye@student.21-school.ru,LEAVING
+2024-06-30 12:30:36,21 Magas,Ezdel,d3,allyriap@student.21-school.ru,ENTERING
+2024-06-30 12:31:13,21 Veliky Novgorod,Lepton,e1,grennric@student.21-school.ru,LEAVING
+2024-06-30 12:32:12,21 Magas,Denal,a5,tomatone@student.21-school.ru,LEAVING
+2024-06-30 12:32:12,21 Novosibirsk,Silence,a10,zgeorgan@student.21-school.ru,ENTERING
+2024-06-30 12:33:27,21 Magas,Sabar,c3,ninfascr@student.21-school.ru,LEAVING
+2024-06-30 12:33:27,21 Moscow,Mirage,h3,stephenk@student.21-school.ru,ENTERING
+2024-06-30 12:33:46,21 Yaroslavl,Ushakov,f2,stinkshu@student.21-school.ru,ENTERING
+2024-06-30 12:34:24,21 Yaroslavl,Ushakov,i3,darlaind@student.21-school.ru,ENTERING
+2024-06-30 12:34:24,21 Yaroslavl,Ushakov,q4,johnatmo@student.21-school.ru,ENTERING
+2024-06-30 12:34:24,21 Yaroslavl,Tkachenko,i3,ryzefire@student.21-school.ru,ENTERING
+2024-06-30 12:34:42,21 Yakutsk,Ayar,e1,elvinbru@student.21-school.ru,LEAVING
+2024-06-30 12:35:39,21 Yaroslavl,Tkachenko,i5,braintha@student.21-school.ru,ENTERING
+2024-06-30 12:35:39,21 Yaroslavl,Tkachenko,p2,kemmettc@student.21-school.ru,ENTERING
+2024-06-30 12:36:15,21 Kazan,Universe,d3,lenwooda@student.21-school.ru,LEAVING
+2024-06-30 12:36:15,21 Yaroslavl,Ushakov,q3,robbverl@student.21-school.ru,ENTERING
+2024-06-30 12:36:15,21 Kazan,Vault,d2,zenyatan@student.21-school.ru,LEAVING
+2024-06-30 12:36:52,21 Yaroslavl,Volkov,a2,jocelynw@student.21-school.ru,LEAVING
+2024-06-30 12:36:52,21 Kazan,Genom,i6,leonidak@student.21-school.ru,LEAVING
+2024-06-30 12:37:09,21 Magas,Sabar,c5,cheddarf@student.21-school.ru,LEAVING
+2024-06-30 12:37:09,21 Moscow,Oasis,l1,lucimorn@student.21-school.ru,LEAVING
+2024-06-30 12:37:09,21 Moscow,Oasis,j4,nedrapro@student.21-school.ru,LEAVING
+2024-06-30 12:37:27,21 Magas,Tesham,j6,brainyco@student.21-school.ru,LEAVING
+2024-06-30 12:37:27,21 Kazan,Genom,d6,elisabet@student.21-school.ru,LEAVING
+2024-06-30 12:37:27,21 Magas,Denal,b1,halfempd@student.21-school.ru,ENTERING
+2024-06-30 12:37:27,21 Moscow,Oasis,j6,pomonabu@student.21-school.ru,LEAVING
+2024-06-30 12:37:27,21 Samarkand,tillakori,i3,unmentia@student.21-school.ru,LEAVING
+2024-06-30 12:37:45,21 Magas,Denal,n5,celinagu@student.21-school.ru,LEAVING
+2024-06-30 12:38:03,21 Veliky Novgorod,Quark,g2,drynagus@student.21-school.ru,ENTERING
+2024-06-30 12:38:03,21 Yaroslavl,Tkachenko,p3,socorrov@student.21-school.ru,ENTERING
+2024-06-30 12:38:03,21 Novosibirsk,Silence,c10,wandaest@student.21-school.ru,LEAVING
+2024-06-30 12:38:03,21 Magas,Sabar,f6,xerathka@student.21-school.ru,ENTERING
+2024-06-30 12:38:23,21 Magas,Sabar,e3,brainyco@student.21-school.ru,ENTERING
+2024-06-30 12:38:58,21 Moscow,Mirage,s3,sierrash@student.21-school.ru,ENTERING
+2024-06-30 12:38:58,21 Kazan,Genom,k3,starkill@student.21-school.ru,ENTERING
+2024-06-30 12:39:16,21 Veliky Novgorod,Lepton,a7,caladanw@student.21-school.ru,ENTERING
+2024-06-30 12:39:53,21 Magas,Tesham,a5,corineil@student.21-school.ru,LEAVING
+2024-06-30 12:39:53,21 Yakutsk,Sitim,c5,harodonr@student.21-school.ru,ENTERING
+2024-06-30 12:40:11,21 Yakutsk,Ayar,c1,ezekiele@student.21-school.ru,LEAVING
+2024-06-30 12:40:11,21 Samarkand,tillakori,i3,unmentia@student.21-school.ru,ENTERING
+2024-06-30 12:40:29,21 Veliky Novgorod,Lepton,e3,jamibeul@student.21-school.ru,LEAVING
+2024-06-30 12:40:47,21 Magas,Tesham,j2,gayeearl@student.21-school.ru,LEAVING
+2024-06-30 12:41:07,21 Veliky Novgorod,Quark,b6,hammondb@student.21-school.ru,LEAVING
+2024-06-30 12:41:07,21 Magas,Tesham,e2,ygritttr@student.21-school.ru,ENTERING
+2024-06-30 12:41:25,21 Kazan,Genom,k2,risahamm@student.21-school.ru,ENTERING
+2024-06-30 12:41:43,21 Moscow,Mirage,t2,mumbleco@student.21-school.ru,ENTERING
+2024-06-30 12:42:57,21 Samarkand,tillakori,i3,unmentia@student.21-school.ru,LEAVING
+2024-06-30 12:43:15,21 Samarkand,sherdor,f5,hobgoblm@student.21-school.ru,ENTERING
+2024-06-30 12:43:35,21 Moscow,Atlantis,f6,ameeleon@student.21-school.ru,LEAVING
+2024-06-30 12:43:35,21 Magas,Denal,e1,lasszule@student.21-school.ru,LEAVING
+2024-06-30 12:43:53,21 Kazan,Universe,a5,alivewel@student.21-school.ru,LEAVING
+2024-06-30 12:44:29,21 Yaroslavl,Ushakov,g5,cadmusrh@student.21-school.ru,ENTERING
+2024-06-30 12:44:46,21 Yakutsk,Tuskul,i2,aeronedg@student.21-school.ru,LEAVING
+2024-06-30 12:44:46,21 Magas,Sabar,a2,chipmand@student.21-school.ru,ENTERING
+2024-06-30 12:44:46,21 Samarkand,tillakori,i3,unmentia@student.21-school.ru,ENTERING
+2024-06-30 12:45:25,21 Yaroslavl,Ushakov,o3,drivepos@student.21-school.ru,LEAVING
+2024-06-30 12:45:25,21 Kazan,Progress,e3,garigusn@student.21-school.ru,LEAVING
+2024-06-30 12:45:25,21 Yaroslavl,Ushakov,o1,leygoodg@student.21-school.ru,LEAVING
+2024-06-30 12:45:45,21 Yakutsk,Ayar,h3,aeronedg@student.21-school.ru,ENTERING
+2024-06-30 12:45:45,21 Yaroslavl,Volkov,g3,shelliek@student.21-school.ru,LEAVING
+2024-06-30 12:45:45,21 Yakutsk,Sitim,i2,tommyegr@student.21-school.ru,LEAVING
+2024-06-30 12:46:05,21 Yaroslavl,Ushakov,d2,earnesma@student.21-school.ru,ENTERING
+2024-06-30 12:46:05,21 Magas,Denal,n4,sunfloea@student.21-school.ru,LEAVING
+2024-06-30 12:46:23,21 Novosibirsk,Infinity,e7,elvistaw@student.21-school.ru,ENTERING
+2024-06-30 12:46:23,21 Moscow,Oasis,j4,nedrapro@student.21-school.ru,ENTERING
+2024-06-30 12:47:00,21 Moscow,Mirage,i6,hongdant@student.21-school.ru,LEAVING
+2024-06-30 12:47:53,21 Novosibirsk,Infinity,e5,dominicq@student.21-school.ru,ENTERING
+2024-06-30 12:47:53,21 Magas,Denal,m1,hellenor@student.21-school.ru,LEAVING
+2024-06-30 12:47:53,21 Moscow,Atlantis,q2,kaseltzt@student.21-school.ru,LEAVING
+2024-06-30 12:48:29,21 Magas,Sabar,a2,chipmand@student.21-school.ru,LEAVING
+2024-06-30 12:48:49,21 Yaroslavl,Tkachenko,i2,drivepos@student.21-school.ru,ENTERING
+2024-06-30 12:48:49,21 Yaroslavl,Tkachenko,i4,leygoodg@student.21-school.ru,ENTERING
+2024-06-30 12:48:49,21 Novosibirsk,Obscurity,h6,shaunnaa@student.21-school.ru,ENTERING
+2024-06-30 12:48:49,21 Kazan,Genom,k3,starkill@student.21-school.ru,LEAVING
+2024-06-30 12:48:49,21 Magas,Sabar,a1,suguhach@student.21-school.ru,LEAVING
+2024-06-30 12:49:28,21 Magas,Denal,l3,viviennb@student.21-school.ru,LEAVING
+2024-06-30 12:50:05,21 Yaroslavl,Tkachenko,p3,socorrov@student.21-school.ru,LEAVING
+2024-06-30 12:50:23,21 Moscow,Oasis,j6,pomonabu@student.21-school.ru,ENTERING
+2024-06-30 12:50:43,21 Magas,Tesham,j1,chipmand@student.21-school.ru,ENTERING
+2024-06-30 12:50:43,21 Yaroslavl,Ushakov,l1,gimpknru@student.21-school.ru,LEAVING
+2024-06-30 12:50:43,21 Surgut,Sulfur,g2,manealyc@student.21-school.ru,ENTERING
+2024-06-30 12:50:43,21 Magas,Tesham,j2,suguhach@student.21-school.ru,ENTERING
+2024-06-30 12:51:00,21 Novosibirsk,Infinity,e5,dominicq@student.21-school.ru,LEAVING
+2024-06-30 12:51:16,21 Veliky Novgorod,Boson,b4,petyrdar@student.21-school.ru,LEAVING
+2024-06-30 12:51:54,21 Kazan,Universe,g4,inocencl@student.21-school.ru,ENTERING
+2024-06-30 12:52:14,21 Veliky Novgorod,Quark,f11,eleonoev@student.21-school.ru,ENTERING
+2024-06-30 12:52:14,21 Veliky Novgorod,Quark,d6,sharlali@student.21-school.ru,LEAVING
+2024-06-30 12:52:34,21 Yaroslavl,Ushakov,n5,welkerka@student.21-school.ru,ENTERING
+2024-06-30 12:52:52,21 Magas,Tesham,a2,daxospre@student.21-school.ru,LEAVING
+2024-06-30 12:52:52,21 Veliky Novgorod,Lepton,e1,grennric@student.21-school.ru,ENTERING
+2024-06-30 12:52:52,21 Magas,Tesham,b5,mogodaar@student.21-school.ru,LEAVING
+2024-06-30 12:52:52,21 Magas,Tesham,j5,nguyetja@student.21-school.ru,LEAVING
+2024-06-30 12:52:52,21 Moscow,Oasis,k1,squanclo@student.21-school.ru,ENTERING
+2024-06-30 12:52:52,21 Kazan,Genom,h1,starkill@student.21-school.ru,ENTERING
+2024-06-30 12:52:52,21 Yaroslavl,Ushakov,q2,sylvapre@student.21-school.ru,LEAVING
+2024-06-30 12:53:12,21 Yaroslavl,Ushakov,q3,robbverl@student.21-school.ru,LEAVING
+2024-06-30 12:53:12,21 Magas,Tesham,j3,spinnetg@student.21-school.ru,LEAVING
+2024-06-30 12:53:29,21 Yaroslavl,Mudriy,b1,anglefar@student.21-school.ru,ENTERING
+2024-06-30 12:53:29,21 Yaroslavl,Ushakov,e4,didijacq@student.21-school.ru,ENTERING
+2024-06-30 12:53:29,21 Magas,Tesham,b4,kangaskr@student.21-school.ru,ENTERING
+2024-06-30 12:53:47,21 Surgut,Hydrogen,b9,medwicki@student.21-school.ru,LEAVING
+2024-06-30 12:54:06,21 Magas,Tesham,e4,lyndsays@student.21-school.ru,ENTERING
+2024-06-30 12:54:25,21 Veliky Novgorod,Lepton,e1,grennric@student.21-school.ru,LEAVING
+2024-06-30 12:54:44,21 Veliky Novgorod,Lepton,e2,jamibeul@student.21-school.ru,ENTERING
+2024-06-30 12:55:02,21 Veliky Novgorod,Lepton,e3,grennric@student.21-school.ru,ENTERING
+2024-06-30 12:55:02,21 Magas,Denal,j5,hagridar@student.21-school.ru,LEAVING
+2024-06-30 12:55:02,21 Moscow,Oasis,l1,lucimorn@student.21-school.ru,ENTERING
+2024-06-30 12:55:20,21 Veliky Novgorod,Lepton,e4,pipelemu@student.21-school.ru,ENTERING
+2024-06-30 12:55:41,21 Veliky Novgorod,Lepton,e3,grennric@student.21-school.ru,LEAVING
+2024-06-30 12:55:59,21 Veliky Novgorod,Lepton,f5,grennric@student.21-school.ru,ENTERING
+2024-06-30 12:55:59,21 Magas,Denal,a5,tomatone@student.21-school.ru,ENTERING
+2024-06-30 12:56:16,21 Veliky Novgorod,Boson,e4,souriape@student.21-school.ru,ENTERING
+2024-06-30 12:56:54,21 Veliky Novgorod,Quark,f2,kassiema@student.21-school.ru,ENTERING
+2024-06-30 12:57:12,21 Magas,Denal,l1,theobalk@student.21-school.ru,ENTERING
+2024-06-30 12:57:31,21 Yaroslavl,Tkachenko,q4,kezmyaca@student.21-school.ru,ENTERING
+2024-06-30 12:57:53,21 Magas,Tesham,h1,dinorahl@student.21-school.ru,LEAVING
+2024-06-30 12:58:12,21 Yaroslavl,Ushakov,i1,carmonra@student.21-school.ru,LEAVING
+2024-06-30 12:58:12,21 Magas,Tesham,g2,juliusav@student.21-school.ru,LEAVING
+2024-06-30 12:58:51,21 Surgut,Sulfur,b2,phoebehi@student.21-school.ru,ENTERING
+2024-06-30 12:59:25,21 Magas,Sabar,f5,trudivai@student.21-school.ru,LEAVING
+2024-06-30 12:59:41,21 Magas,Denal,j1,aragogha@student.21-school.ru,ENTERING
+2024-06-30 13:00:01,21 Kazan,Genom,h1,starkill@student.21-school.ru,LEAVING
+2024-06-30 13:00:01,21 Magas,Sabar,c6,zeftyjef@student.21-school.ru,LEAVING
+2024-06-30 13:00:19,21 Magas,Sabar,g6,ronnelqu@student.21-school.ru,LEAVING
+2024-06-30 13:00:19,21 Moscow,Atlantis,b2,sparrvio@student.21-school.ru,ENTERING
+2024-06-30 13:03:38,21 Novosibirsk,Infinity,f3,doduofor@student.21-school.ru,LEAVING
+2024-06-30 13:03:38,21 Yaroslavl,Ushakov,m1,dumbleda@student.21-school.ru,LEAVING
+2024-06-30 13:03:38,21 Novosibirsk,Obscurity,a1,jonnabin@student.21-school.ru,ENTERING
+2024-06-30 13:03:38,21 Kazan,Universe,d3,lenwooda@student.21-school.ru,ENTERING
+2024-06-30 13:03:38,21 Surgut,Hydrogen,h7,melaraka@student.21-school.ru,LEAVING
+2024-06-30 13:03:38,21 Veliky Novgorod,Lepton,b7,udyrannm@student.21-school.ru,LEAVING
+2024-06-30 13:04:05,21 Moscow,Mirage,d6,boilbrit@student.21-school.ru,LEAVING
+2024-06-30 13:04:05,21 Surgut,Sulfur,j4,darrelot@student.21-school.ru,LEAVING
+2024-06-30 13:04:05,21 Magas,Tesham,g3,galenani@student.21-school.ru,LEAVING
+2024-06-30 13:04:05,21 Moscow,Mirage,t5,lorinach@student.21-school.ru,LEAVING
+2024-06-30 13:04:05,21 Magas,Denal,i1,pomfreyl@student.21-school.ru,LEAVING
+2024-06-30 13:04:05,21 Magas,Denal,e5,zharaqgo@student.21-school.ru,LEAVING
+2024-06-30 13:04:23,21 Magas,Tesham,d1,monarchc@student.21-school.ru,LEAVING
+2024-06-30 13:04:59,21 Yaroslavl,Volkov,a3,chardnea@student.21-school.ru,ENTERING
+2024-06-30 13:04:59,21 Magas,Tesham,e4,lyndsays@student.21-school.ru,LEAVING
+2024-06-30 13:04:59,21 Veliky Novgorod,Lepton,e6,thedamol@student.21-school.ru,ENTERING
+2024-06-30 13:04:59,21 Samarkand,tillakori,i1,twannama@student.21-school.ru,LEAVING
+2024-06-30 13:05:17,21 Kazan,Progress,k4,eugeniee@student.21-school.ru,LEAVING
+2024-06-30 13:05:37,21 Magas,Tesham,e1,monarchc@student.21-school.ru,ENTERING
+2024-06-30 13:05:37,21 Magas,Ezdel,b4,shrimplm@student.21-school.ru,ENTERING
+2024-06-30 13:05:37,21 Kazan,Vault,a1,starkill@student.21-school.ru,ENTERING
+2024-06-30 13:06:14,21 Magas,Tesham,g3,galenani@student.21-school.ru,ENTERING
+2024-06-30 13:06:33,21 Moscow,Illusion,e6,pamellam@student.21-school.ru,LEAVING
+2024-06-30 13:06:52,21 Magas,Tesham,a5,corineil@student.21-school.ru,ENTERING
+2024-06-30 13:06:52,21 Moscow,Atlantis,j4,glossuvi@student.21-school.ru,LEAVING
+2024-06-30 13:06:52,21 Magas,Tesham,a6,lucamove@student.21-school.ru,ENTERING
+2024-06-30 13:07:11,21 Veliky Novgorod,Quark,g6,audrykar@student.21-school.ru,LEAVING
+2024-06-30 13:07:11,21 Moscow,Atlantis,m2,idellbel@student.21-school.ru,ENTERING
+2024-06-30 13:07:29,21 Yaroslavl,Ushakov,j4,staciaar@student.21-school.ru,ENTERING
+2024-06-30 13:07:47,21 Surgut,Hydrogen,b6,mitchelp@student.21-school.ru,LEAVING
+2024-06-30 13:08:03,21 Moscow,Illusion,e6,pamellam@student.21-school.ru,ENTERING
+2024-06-30 13:08:21,21 Magas,Denal,n5,celinagu@student.21-school.ru,ENTERING
+2024-06-30 13:08:21,21 Magas,Ezdel,f1,corrieha@student.21-school.ru,ENTERING
+2024-06-30 13:08:21,21 Yaroslavl,Ushakov,c2,durkeecl@student.21-school.ru,LEAVING
+2024-06-30 13:08:40,21 Magas,Sabar,b6,changkas@student.21-school.ru,ENTERING
+2024-06-30 13:09:35,21 Magas,Denal,b3,heathmer@student.21-school.ru,ENTERING
+2024-06-30 13:09:56,21 Novosibirsk,Infinity,f3,doduofor@student.21-school.ru,ENTERING
+2024-06-30 13:10:15,21 Veliky Novgorod,Quark,g5,charlerh@student.21-school.ru,LEAVING
+2024-06-30 13:10:15,21 Magas,Tesham,e1,monarchc@student.21-school.ru,LEAVING
+2024-06-30 13:10:15,21 Kazan,Progress,k2,wavesgin@student.21-school.ru,ENTERING
+2024-06-30 13:10:34,21 Veliky Novgorod,Lepton,f3,beecheri@student.21-school.ru,LEAVING
+2024-06-30 13:10:53,21 Veliky Novgorod,Lepton,a3,betseywe@student.21-school.ru,LEAVING
+2024-06-30 13:10:53,21 Novosibirsk,Infinity,i1,maudmadl@student.21-school.ru,LEAVING
+2024-06-30 13:10:53,21 Yaroslavl,Ushakov,n3,seftonma@student.21-school.ru,ENTERING
+2024-06-30 13:11:12,21 Kazan,Genom,d6,elisabet@student.21-school.ru,ENTERING
+2024-06-30 13:11:32,21 Moscow,Atlantis,m2,idellbel@student.21-school.ru,LEAVING
+2024-06-30 13:11:32,21 Surgut,Carbon,b9,wilberma@student.21-school.ru,LEAVING
+2024-06-30 13:12:26,21 Magas,Ezdel,a1,pullemni@student.21-school.ru,LEAVING
+2024-06-30 13:12:44,21 Magas,Tesham,c4,arrected@student.21-school.ru,LEAVING
+2024-06-30 13:12:44,21 Magas,Sabar,e5,josiahar@student.21-school.ru,LEAVING
+2024-06-30 13:12:44,21 Samarkand,tillakori,p4,ricassol@student.21-school.ru,LEAVING
+2024-06-30 13:13:23,21 Moscow,Mirage,r3,idellbel@student.21-school.ru,ENTERING
+2024-06-30 13:13:23,21 Magas,Tesham,g2,juliusav@student.21-school.ru,ENTERING
+2024-06-30 13:13:23,21 Magas,Sabar,c3,ninfascr@student.21-school.ru,ENTERING
+2024-06-30 13:13:41,21 Veliky Novgorod,Lepton,f4,graveleg@student.21-school.ru,LEAVING
+2024-06-30 13:13:41,21 Veliky Novgorod,Lepton,b7,udyrannm@student.21-school.ru,ENTERING
+2024-06-30 13:14:37,21 Magas,Denal,i1,stripeca@student.21-school.ru,ENTERING
+2024-06-30 13:14:54,21 Moscow,Atlantis,f4,gladyslo@student.21-school.ru,ENTERING
+2024-06-30 13:15:12,21 Magas,Tesham,i1,audriape@student.21-school.ru,LEAVING
+2024-06-30 13:15:12,21 Moscow,Mirage,k6,caroylns@student.21-school.ru,LEAVING
+2024-06-30 13:15:31,21 Yaroslavl,Ushakov,q2,sylvapre@student.21-school.ru,ENTERING
+2024-06-30 13:16:08,21 Novosibirsk,Silence,a10,zgeorgan@student.21-school.ru,LEAVING
+2024-06-30 13:16:27,21 Surgut,Hydrogen,b5,gibberir@student.21-school.ru,ENTERING
+2024-06-30 13:16:27,21 Magas,Sabar,d5,zeftyjef@student.21-school.ru,ENTERING
+2024-06-30 13:16:45,21 Yaroslavl,Tkachenko,e2,commanan@student.21-school.ru,LEAVING
+2024-06-30 13:16:45,21 Kazan,Genom,d2,kalynkei@student.21-school.ru,ENTERING
+2024-06-30 13:17:23,21 Moscow,Illusion,h3,apearl@student.21-school.ru,LEAVING
+2024-06-30 13:17:23,21 Surgut,Hydrogen,f4,melaraka@student.21-school.ru,ENTERING
+2024-06-30 13:17:41,21 Magas,Denal,m1,hellenor@student.21-school.ru,ENTERING
+2024-06-30 13:17:41,21 Kazan,Vault,a1,starkill@student.21-school.ru,LEAVING
+2024-06-30 13:18:00,21 Novosibirsk,Obscurity,e7,starfigd@student.21-school.ru,LEAVING
+2024-06-30 13:18:21,21 Magas,Denal,j4,ardrianw@student.21-school.ru,ENTERING
+2024-06-30 13:18:21,21 Samarkand,tillakori,p5,barramuc@student.21-school.ru,LEAVING
+2024-06-30 13:18:21,21 Veliky Novgorod,Quark,d6,sharlali@student.21-school.ru,ENTERING
+2024-06-30 13:19:33,21 Magas,Tesham,i3,argraveb@student.21-school.ru,LEAVING
+2024-06-30 13:19:33,21 Yaroslavl,Ushakov,e3,moaneyma@student.21-school.ru,LEAVING
+2024-06-30 13:19:52,21 Veliky Novgorod,Quark,f3,nettlesl@student.21-school.ru,ENTERING
+2024-06-30 13:20:11,21 Moscow,Atlantis,l4,rachellt@student.21-school.ru,LEAVING
+2024-06-30 13:20:33,21 Magas,Sabar,f6,xerathka@student.21-school.ru,LEAVING
+2024-06-30 13:21:10,21 Samarkand,sherdor,b2,toffeebl@student.21-school.ru,ENTERING
+2024-06-30 13:21:29,21 Yaroslavl,Tkachenko,i4,leygoodg@student.21-school.ru,LEAVING
+2024-06-30 13:21:29,21 Magas,Ezdel,k3,lovejoye@student.21-school.ru,ENTERING
+2024-06-30 13:21:29,21 Kazan,Universe,l4,ninapete@student.21-school.ru,LEAVING
+2024-06-30 13:21:29,21 Moscow,Atlantis,m3,rachellt@student.21-school.ru,ENTERING
+2024-06-30 13:21:47,21 Samarkand,tillakori,a5,ilynpois@student.21-school.ru,LEAVING
+2024-06-30 13:22:06,21 Yaroslavl,Tkachenko,i2,drivepos@student.21-school.ru,LEAVING
+2024-06-30 13:22:26,21 Moscow,Mirage,a3,jannmart@student.21-school.ru,ENTERING
+2024-06-30 13:22:44,21 Magas,Denal,m3,minisagu@student.21-school.ru,LEAVING
+2024-06-30 13:22:44,21 Yaroslavl,Mudriy,d1,sharelbe@student.21-school.ru,LEAVING
+2024-06-30 13:22:44,21 Magas,Denal,m6,tarrapen@student.21-school.ru,LEAVING
+2024-06-30 13:23:02,21 Magas,Denal,n4,sunfloea@student.21-school.ru,ENTERING
+2024-06-30 13:23:20,21 Magas,Tesham,f4,cherylol@student.21-school.ru,LEAVING
+2024-06-30 13:23:20,21 Yakutsk,Ayar,f1,ventrest@student.21-school.ru,LEAVING
+2024-06-30 13:23:55,21 Moscow,Oasis,k2,bartysun@student.21-school.ru,ENTERING
+2024-06-30 13:23:55,21 Moscow,Mirage,k4,sheriffl@student.21-school.ru,LEAVING
+2024-06-30 13:24:33,21 Magas,Denal,j3,tabethtu@student.21-school.ru,ENTERING
+2024-06-30 13:24:51,21 Magas,Ezdel,k3,lovejoye@student.21-school.ru,LEAVING
+2024-06-30 13:25:08,21 Moscow,Mirage,k6,caroylns@student.21-school.ru,ENTERING
+2024-06-30 13:25:08,21 Moscow,Mirage,k4,sheriffl@student.21-school.ru,ENTERING
+2024-06-30 13:25:08,21 Surgut,Sulfur,b4,whitneye@student.21-school.ru,LEAVING
+2024-06-30 13:25:08,21 Surgut,Carbon,b9,wilberma@student.21-school.ru,ENTERING
+2024-06-30 13:25:27,21 Moscow,Mirage,q1,alliserr@student.21-school.ru,LEAVING
+2024-06-30 13:25:27,21 Magas,Ezdel,k3,lovejoye@student.21-school.ru,ENTERING
+2024-06-30 13:25:45,21 Magas,Tesham,i3,argraveb@student.21-school.ru,ENTERING
+2024-06-30 13:25:45,21 Moscow,Oasis,n4,cadwynga@student.21-school.ru,ENTERING
+2024-06-30 13:25:45,21 Magas,Denal,m2,elinorwi@student.21-school.ru,ENTERING
+2024-06-30 13:26:40,21 Veliky Novgorod,Quark,g3,ellamaeo@student.21-school.ru,LEAVING
+2024-06-30 13:26:40,21 Kazan,Progress,f2,hardynsi@student.21-school.ru,ENTERING
+2024-06-30 13:26:40,21 Yaroslavl,Mudriy,d4,sharelbe@student.21-school.ru,ENTERING
+2024-06-30 13:27:51,21 Magas,Tesham,f4,cherylol@student.21-school.ru,ENTERING
+2024-06-30 13:27:51,21 Kazan,Eternity,n4,remarque@student.21-school.ru,ENTERING
+2024-06-30 13:28:08,21 Surgut,Hydrogen,b4,mangoshe@student.21-school.ru,LEAVING
+2024-06-30 13:28:27,21 Moscow,Mirage,f5,huntresl@student.21-school.ru,ENTERING
+2024-06-30 13:29:07,21 Yaroslavl,Tkachenko,p3,deethjoe@student.21-school.ru,ENTERING
+2024-06-30 13:29:07,21 Novosibirsk,Infinity,d10,nedrchan@student.21-school.ru,LEAVING
+2024-06-30 13:29:07,21 Moscow,Mirage,r1,newmanla@student.21-school.ru,LEAVING
+2024-06-30 13:29:07,21 Novosibirsk,Obscurity,h4,nicolesp@student.21-school.ru,LEAVING
+2024-06-30 13:29:07,21 Surgut,Hydrogen,b2,valentbl@student.21-school.ru,LEAVING
+2024-06-30 13:29:27,21 Yaroslavl,Ushakov,i3,darlaind@student.21-school.ru,LEAVING
+2024-06-30 13:29:44,21 Samarkand,sherdor,c4,ilynpois@student.21-school.ru,ENTERING
+2024-06-30 13:30:01,21 Magas,Ezdel,k3,lovejoye@student.21-school.ru,LEAVING
+2024-06-30 13:30:01,21 Moscow,Atlantis,q9,rauthade@student.21-school.ru,ENTERING
+2024-06-30 13:30:18,21 Yaroslavl,Ushakov,h5,darlaind@student.21-school.ru,ENTERING
+2024-06-30 13:30:36,21 Novosibirsk,Infinity,e7,elvistaw@student.21-school.ru,LEAVING
+2024-06-30 13:30:51,21 Novosibirsk,Infinity,f4,regeniae@student.21-school.ru,ENTERING
+2024-06-30 13:31:09,21 Moscow,Mirage,k2,gabriecr@student.21-school.ru,LEAVING
+2024-06-30 13:31:28,21 Magas,Denal,f5,baharatl@student.21-school.ru,LEAVING
+2024-06-30 13:31:28,21 Samarkand,tillakori,i3,unmentia@student.21-school.ru,LEAVING
+2024-06-30 13:31:46,21 Veliky Novgorod,Quark,h10,ashasutt@student.21-school.ru,ENTERING
+2024-06-30 13:31:46,21 Magas,Denal,o6,fisholdt@student.21-school.ru,LEAVING
+2024-06-30 13:32:21,21 Veliky Novgorod,Lepton,a3,betseywe@student.21-school.ru,ENTERING
+2024-06-30 13:32:21,21 Yaroslavl,Ushakov,h5,darlaind@student.21-school.ru,LEAVING
+2024-06-30 13:32:37,21 Veliky Novgorod,Lepton,f3,beecheri@student.21-school.ru,ENTERING
+2024-06-30 13:32:37,21 Veliky Novgorod,Lepton,f4,graveleg@student.21-school.ru,ENTERING
+2024-06-30 13:32:55,21 Magas,Tesham,j2,suguhach@student.21-school.ru,LEAVING
+2024-06-30 13:33:12,21 Magas,Tesham,j1,chipmand@student.21-school.ru,LEAVING
+2024-06-30 13:33:12,21 Samarkand,tillakori,l3,twannama@student.21-school.ru,ENTERING
+2024-06-30 13:33:30,21 Kazan,Universe,g4,inocencl@student.21-school.ru,LEAVING
+2024-06-30 13:33:47,21 Novosibirsk,Silence,b6,clements@student.21-school.ru,LEAVING
+2024-06-30 13:33:47,21 Moscow,Mirage,t5,lorinach@student.21-school.ru,ENTERING
+2024-06-30 13:34:42,21 Yaroslavl,Tkachenko,e2,commanan@student.21-school.ru,ENTERING
+2024-06-30 13:35:00,21 Kazan,Vault,e5,inocencl@student.21-school.ru,ENTERING
+2024-06-30 13:35:18,21 Kazan,Universe,b6,kaneshau@student.21-school.ru,LEAVING
+2024-06-30 13:35:18,21 Magas,Tesham,b6,tregarmi@student.21-school.ru,LEAVING
+2024-06-30 13:35:36,21 Kazan,Universe,m5,ellensem@student.21-school.ru,LEAVING
+2024-06-30 13:35:36,21 Kazan,Progress,f3,elliejac@student.21-school.ru,LEAVING
+2024-06-30 13:35:36,21 Magas,Tesham,d1,monarchc@student.21-school.ru,ENTERING
+2024-06-30 13:35:53,21 Moscow,Mirage,s4,manncall@student.21-school.ru,ENTERING
+2024-06-30 13:36:12,21 Yaroslavl,Tkachenko,e2,commanan@student.21-school.ru,LEAVING
+2024-06-30 13:36:12,21 Moscow,Mirage,t3,kwaltzgw@student.21-school.ru,LEAVING
+2024-06-30 13:36:29,21 Magas,Tesham,j1,chipmand@student.21-school.ru,ENTERING
+2024-06-30 13:36:29,21 Magas,Ezdel,b2,skipjacs@student.21-school.ru,ENTERING
+2024-06-30 13:36:45,21 Magas,Tesham,f3,pastkere@student.21-school.ru,LEAVING
+2024-06-30 13:36:45,21 Veliky Novgorod,Quark,g9,silenced@student.21-school.ru,LEAVING
+2024-06-30 13:36:45,21 Magas,Tesham,j2,suguhach@student.21-school.ru,ENTERING
+2024-06-30 13:37:03,21 Magas,Denal,l4,donettda@student.21-school.ru,ENTERING
+2024-06-30 13:37:03,21 Magas,Tesham,f3,pastkere@student.21-school.ru,ENTERING
+2024-06-30 13:37:22,21 Yaroslavl,Tkachenko,o2,commanan@student.21-school.ru,ENTERING
+2024-06-30 13:37:22,21 Veliky Novgorod,Lepton,e2,jamibeul@student.21-school.ru,LEAVING
+2024-06-30 13:37:22,21 Magas,Tesham,g5,johnnyfi@student.21-school.ru,ENTERING
+2024-06-30 13:37:22,21 Novosibirsk,Silence,e4,soymilkl@student.21-school.ru,LEAVING
+2024-06-30 13:37:39,21 Magas,Denal,e1,lasszule@student.21-school.ru,ENTERING
+2024-06-30 13:37:58,21 Samarkand,sherdor,y3,christib@student.21-school.ru,ENTERING
+2024-06-30 13:38:16,21 Magas,Denal,l4,donettda@student.21-school.ru,LEAVING
+2024-06-30 13:38:52,21 Magas,Tesham,f4,cherylol@student.21-school.ru,LEAVING
+2024-06-30 13:38:52,21 Veliky Novgorod,Lepton,f5,grennric@student.21-school.ru,LEAVING
+2024-06-30 13:38:52,21 Surgut,Hydrogen,b2,valentbl@student.21-school.ru,ENTERING
+2024-06-30 13:39:12,21 Samarkand,tillakori,p5,barramuc@student.21-school.ru,ENTERING
+2024-06-30 13:39:46,21 Magas,Ezdel,d3,allyriap@student.21-school.ru,LEAVING
+2024-06-30 13:39:46,21 Magas,Tesham,e4,cherylol@student.21-school.ru,ENTERING
+2024-06-30 13:40:05,21 Yaroslavl,Tkachenko,q4,kezmyaca@student.21-school.ru,LEAVING
+2024-06-30 13:40:24,21 Magas,Ezdel,m5,allyriap@student.21-school.ru,ENTERING
+2024-06-30 13:40:24,21 Surgut,Hydrogen,c2,kashiwai@student.21-school.ru,LEAVING
+2024-06-30 13:40:43,21 Magas,Tesham,d1,monarchc@student.21-school.ru,LEAVING
+2024-06-30 13:41:01,21 Yaroslavl,Tkachenko,q4,kezmyaca@student.21-school.ru,ENTERING
+2024-06-30 13:41:20,21 Yaroslavl,Ushakov,q3,robbverl@student.21-school.ru,ENTERING
+2024-06-30 13:41:38,21 Magas,Tesham,d1,monarchc@student.21-school.ru,ENTERING
+2024-06-30 13:41:59,21 Veliky Novgorod,Lepton,a3,betseywe@student.21-school.ru,LEAVING
+2024-06-30 13:41:59,21 Veliky Novgorod,Quark,i7,brookren@student.21-school.ru,ENTERING
+2024-06-30 13:41:59,21 Yaroslavl,Ushakov,d4,gathroac@student.21-school.ru,LEAVING
+2024-06-30 13:41:59,21 Magas,Tesham,h5,nereidat@student.21-school.ru,LEAVING
+2024-06-30 13:42:36,21 Surgut,Sulfur,b4,whitneye@student.21-school.ru,ENTERING
+2024-06-30 13:43:12,21 Magas,Tesham,j5,nguyetja@student.21-school.ru,ENTERING
+2024-06-30 13:44:05,21 Kazan,Genom,h3,fletamar@student.21-school.ru,ENTERING
+2024-06-30 13:44:05,21 Veliky Novgorod,Quark,f4,tannickl@student.21-school.ru,ENTERING
+2024-06-30 13:45:01,21 Yakutsk,Ayar,h3,aeronedg@student.21-school.ru,LEAVING
+2024-06-30 13:45:59,21 Yaroslavl,Ushakov,f3,rolleyby@student.21-school.ru,LEAVING
+2024-06-30 13:46:16,21 Veliky Novgorod,Lepton,f5,grennric@student.21-school.ru,ENTERING
+2024-06-30 13:46:52,21 Yakutsk,Tuskul,i2,aeronedg@student.21-school.ru,ENTERING
+2024-06-30 13:46:52,21 Moscow,Mirage,b1,fondaata@student.21-school.ru,ENTERING
+2024-06-30 13:47:10,21 Yakutsk,Ayar,i2,orethapr@student.21-school.ru,LEAVING
+2024-06-30 13:47:47,21 Yaroslavl,Tkachenko,p1,klotzqez@student.21-school.ru,ENTERING
+2024-06-30 13:47:47,21 Yaroslavl,Tkachenko,q1,okanosha@student.21-school.ru,LEAVING
+2024-06-30 13:47:47,21 Yakutsk,Ayar,i3,oshacary@student.21-school.ru,LEAVING
+2024-06-30 13:48:25,21 Veliky Novgorod,Quark,b6,hammondb@student.21-school.ru,ENTERING
+2024-06-30 13:48:44,21 Moscow,Atlantis,g2,marghazg@student.21-school.ru,ENTERING
+2024-06-30 13:49:21,21 Veliky Novgorod,Lepton,b6,stalward@student.21-school.ru,LEAVING
+2024-06-30 13:50:17,21 Yaroslavl,Tkachenko,o2,commanan@student.21-school.ru,LEAVING
+2024-06-30 13:50:17,21 Magas,Denal,m5,poutinec@student.21-school.ru,LEAVING
+2024-06-30 13:50:33,21 Kazan,Eternity,g5,weaverir@student.21-school.ru,LEAVING
+2024-06-30 13:50:49,21 Magas,Ezdel,f1,corrieha@student.21-school.ru,LEAVING
+2024-06-30 13:50:49,21 Yaroslavl,Ushakov,j4,staciaar@student.21-school.ru,LEAVING
+2024-06-30 13:50:49,21 Magas,Denal,g2,stumptok@student.21-school.ru,ENTERING
+2024-06-30 13:51:08,21 Kazan,Universe,k2,keiraski@student.21-school.ru,ENTERING
+2024-06-30 13:51:08,21 Yaroslavl,Ushakov,f6,zekefinn@student.21-school.ru,LEAVING
+2024-06-30 13:51:44,21 Moscow,Atlantis,m5,niggurar@student.21-school.ru,LEAVING
+2024-06-30 13:52:19,21 Magas,Sabar,d2,josiahar@student.21-school.ru,ENTERING
+2024-06-30 13:52:19,21 Yaroslavl,Ushakov,k3,zekefinn@student.21-school.ru,ENTERING
+2024-06-30 13:52:39,21 Magas,Sabar,d2,josiahar@student.21-school.ru,LEAVING
+2024-06-30 13:53:16,21 Yaroslavl,Tkachenko,e2,commanan@student.21-school.ru,ENTERING
+2024-06-30 13:53:16,21 Veliky Novgorod,Quark,b8,hickstag@student.21-school.ru,LEAVING
+2024-06-30 13:53:16,21 Yaroslavl,Ushakov,m3,tashiwin@student.21-school.ru,LEAVING
+2024-06-30 13:53:34,21 Veliky Novgorod,Quark,i7,brookren@student.21-school.ru,LEAVING
+2024-06-30 13:53:34,21 Moscow,Illusion,a1,felixdos@student.21-school.ru,LEAVING
+2024-06-30 13:53:34,21 Samarkand,sherdor,f5,hobgoblm@student.21-school.ru,LEAVING
+2024-06-30 13:53:53,21 Yaroslavl,Tkachenko,p1,klotzqez@student.21-school.ru,LEAVING
+2024-06-30 13:53:53,21 Moscow,Mirage,m6,porthert@student.21-school.ru,LEAVING
+2024-06-30 13:53:53,21 Magas,Denal,d4,seleneay@student.21-school.ru,LEAVING
+2024-06-30 13:54:11,21 Yaroslavl,Ushakov,e3,moaneyma@student.21-school.ru,ENTERING
+2024-06-30 13:54:29,21 Magas,Sabar,e3,brainyco@student.21-school.ru,LEAVING
+2024-06-30 13:54:29,21 Magas,Ezdel,a4,rapidass@student.21-school.ru,LEAVING
+2024-06-30 13:54:49,21 Moscow,Atlantis,h3,desperos@student.21-school.ru,LEAVING
+2024-06-30 13:54:49,21 Magas,Sabar,f1,pirzadgo@student.21-school.ru,ENTERING
+2024-06-30 13:55:23,21 Yaroslavl,Tkachenko,o1,klotzqez@student.21-school.ru,ENTERING
+2024-06-30 13:55:23,21 Magas,Ezdel,p4,lyannawi@student.21-school.ru,LEAVING
+2024-06-30 13:55:23,21 Magas,Sabar,f1,pirzadgo@student.21-school.ru,LEAVING
+2024-06-30 13:56:01,21 Yaroslavl,Ushakov,m4,quickaxc@student.21-school.ru,LEAVING
+2024-06-30 13:56:21,21 Magas,Sabar,a2,illiferr@student.21-school.ru,ENTERING
+2024-06-30 13:56:21,21 Magas,Sabar,e1,pirzadgo@student.21-school.ru,ENTERING
+2024-06-30 13:56:39,21 Magas,Sabar,e1,pirzadgo@student.21-school.ru,LEAVING
+2024-06-30 13:56:58,21 Magas,Denal,o5,molochar@student.21-school.ru,LEAVING
+2024-06-30 13:58:09,21 Magas,Denal,c3,hobertgo@student.21-school.ru,LEAVING
+2024-06-30 13:58:09,21 Yaroslavl,Tkachenko,p1,socorrov@student.21-school.ru,ENTERING
+2024-06-30 13:59:03,21 Magas,Sabar,b6,changkas@student.21-school.ru,LEAVING
+2024-06-30 13:59:21,21 Magas,Denal,n5,celinagu@student.21-school.ru,LEAVING
+2024-06-30 13:59:40,21 Magas,Denal,n1,hobertgo@student.21-school.ru,ENTERING
+2024-06-30 13:59:40,21 Magas,Tesham,h5,nereidat@student.21-school.ru,ENTERING
+2024-06-30 13:59:40,21 Magas,Denal,f4,sparecar@student.21-school.ru,LEAVING
+2024-06-30 13:59:40,21 Yaroslavl,Ushakov,f2,stinkshu@student.21-school.ru,LEAVING
+2024-06-30 13:59:58,21 Novosibirsk,Silence,e2,kilowoga@student.21-school.ru,LEAVING
+2024-06-30 13:59:58,21 Yaroslavl,Ushakov,a1,martainm@student.21-school.ru,ENTERING
+2024-06-30 14:00:18,21 Magas,Denal,m6,tarrapen@student.21-school.ru,ENTERING
+2024-06-30 14:00:37,21 Surgut,Hydrogen,b5,gibberir@student.21-school.ru,LEAVING
+2024-06-30 14:00:37,21 Kazan,Genom,g1,krabappk@student.21-school.ru,ENTERING
+2024-06-30 14:00:56,21 Magas,Denal,m5,celinagu@student.21-school.ru,ENTERING
+2024-06-30 14:00:56,21 Novosibirsk,Infinity,e6,julietah@student.21-school.ru,LEAVING
+2024-06-30 14:01:16,21 Magas,Sabar,b6,changkas@student.21-school.ru,ENTERING
+2024-06-30 14:01:16,21 Veliky Novgorod,Lepton,b7,udyrannm@student.21-school.ru,LEAVING
+2024-06-30 14:01:16,21 Novosibirsk,Infinity,e4,yesenias@student.21-school.ru,LEAVING
+2024-06-30 14:01:33,21 Magas,Denal,m1,hellenor@student.21-school.ru,LEAVING
+2024-06-30 14:03:43,21 Kazan,Universe,k2,keiraski@student.21-school.ru,LEAVING
+2024-06-30 14:04:40,21 Novosibirsk,Obscurity,e2,sharkmer@student.21-school.ru,ENTERING
+2024-06-30 14:05:18,21 Kazan,Genom,f4,quayleel@student.21-school.ru,LEAVING
+2024-06-30 14:05:18,21 Yaroslavl,Tkachenko,o3,ymirgowe@student.21-school.ru,LEAVING
+2024-06-30 14:05:55,21 Kazan,Progress,e2,blackfyd@student.21-school.ru,LEAVING
+2024-06-30 14:05:55,21 Kazan,Universe,f2,chocolam@student.21-school.ru,LEAVING
+2024-06-30 14:05:55,21 Kazan,Universe,e1,rockmelm@student.21-school.ru,LEAVING
+2024-06-30 14:05:55,21 Moscow,Atlantis,h2,winonale@student.21-school.ru,LEAVING
+2024-06-30 14:06:15,21 Magas,Denal,l5,cesarfis@student.21-school.ru,LEAVING
+2024-06-30 14:06:33,21 Kazan,Progress,h3,glenpoin@student.21-school.ru,ENTERING
+2024-06-30 14:06:33,21 Magas,Denal,m3,minisagu@student.21-school.ru,ENTERING
+2024-06-30 14:06:52,21 Magas,Denal,l5,cesarfis@student.21-school.ru,ENTERING
+2024-06-30 14:06:52,21 Veliky Novgorod,Boson,b4,petyrdar@student.21-school.ru,ENTERING
+2024-06-30 14:07:11,21 Veliky Novgorod,Quark,i5,akiraver@student.21-school.ru,LEAVING
+2024-06-30 14:07:11,21 Yaroslavl,Tkachenko,q1,okanosha@student.21-school.ru,ENTERING
+2024-06-30 14:08:25,21 Novosibirsk,Obscurity,g8,shenmurr@student.21-school.ru,LEAVING
+2024-06-30 14:08:42,21 Kazan,Universe,f3,franchel@student.21-school.ru,ENTERING
+2024-06-30 14:10:16,21 Yakutsk,Tuskul,i2,aeronedg@student.21-school.ru,LEAVING
+2024-06-30 14:10:16,21 Magas,Tesham,b4,kangaskr@student.21-school.ru,LEAVING
+2024-06-30 14:10:16,21 Kazan,Genom,g1,krabappk@student.21-school.ru,LEAVING
+2024-06-30 14:10:16,21 Magas,Tesham,c5,vanessst@student.21-school.ru,LEAVING
+2024-06-30 14:10:36,21 Magas,Tesham,b6,kangaskr@student.21-school.ru,ENTERING
+2024-06-30 14:10:36,21 Yaroslavl,Ushakov,i2,pulaskiu@student.21-school.ru,LEAVING
+2024-06-30 14:10:36,21 Yakutsk,Tuskul,i4,raffonec@student.21-school.ru,LEAVING
+2024-06-30 14:10:55,21 Magas,Tesham,f3,pastkere@student.21-school.ru,LEAVING
+2024-06-30 14:11:15,21 Magas,Tesham,i1,audriape@student.21-school.ru,ENTERING
+2024-06-30 14:11:15,21 Yaroslavl,Ushakov,i2,pulaskiu@student.21-school.ru,ENTERING
+2024-06-30 14:11:52,21 Yaroslavl,Ushakov,n4,moneylov@student.21-school.ru,LEAVING
+2024-06-30 14:12:10,21 Veliky Novgorod,Lepton,e2,jamibeul@student.21-school.ru,ENTERING
+2024-06-30 14:12:27,21 Veliky Novgorod,Lepton,e7,eugenacl@student.21-school.ru,ENTERING
+2024-06-30 14:12:27,21 Yaroslavl,Tkachenko,d3,quickaxc@student.21-school.ru,ENTERING
+2024-06-30 14:12:47,21 Moscow,Oasis,k5,ricardof@student.21-school.ru,LEAVING
+2024-06-30 14:13:05,21 Yakutsk,Sitim,c5,harodonr@student.21-school.ru,LEAVING
+2024-06-30 14:13:05,21 Surgut,Hydrogen,f3,stonetrl@student.21-school.ru,LEAVING
+2024-06-30 14:13:42,21 Yaroslavl,Tkachenko,d3,quickaxc@student.21-school.ru,LEAVING
+2024-06-30 14:15:00,21 Veliky Novgorod,Lepton,f3,beecheri@student.21-school.ru,LEAVING
+2024-06-30 14:15:00,21 Magas,Denal,j5,hagridar@student.21-school.ru,ENTERING
+2024-06-30 14:15:00,21 Surgut,Carbon,b9,wilberma@student.21-school.ru,LEAVING
+2024-06-30 14:15:39,21 Kazan,Genom,b1,shelbnet@student.21-school.ru,ENTERING
+2024-06-30 14:15:59,21 Novosibirsk,Infinity,g5,mitcheba@student.21-school.ru,LEAVING
+2024-06-30 14:15:59,21 Kazan,Progress,k2,wavesgin@student.21-school.ru,LEAVING
+2024-06-30 14:17:09,21 Novosibirsk,Obscurity,d6,tandrahu@student.21-school.ru,ENTERING
+2024-06-30 14:17:44,21 Yaroslavl,Ushakov,i1,carmonra@student.21-school.ru,ENTERING
+2024-06-30 14:17:44,21 Kazan,Vault,i4,krabappk@student.21-school.ru,ENTERING
+2024-06-30 14:18:03,21 Novosibirsk,Obscurity,a1,jonnabin@student.21-school.ru,LEAVING
+2024-06-30 14:18:21,21 Veliky Novgorod,Lepton,b6,stalward@student.21-school.ru,ENTERING
+2024-06-30 14:18:56,21 Kazan,Universe,k2,keiraski@student.21-school.ru,ENTERING
+2024-06-30 14:19:14,21 Kazan,Vault,c5,celestiv@student.21-school.ru,LEAVING
+2024-06-30 14:19:14,21 Novosibirsk,Obscurity,e2,sharkmer@student.21-school.ru,LEAVING
+2024-06-30 14:19:14,21 Veliky Novgorod,Lepton,b6,stalward@student.21-school.ru,LEAVING
+2024-06-30 14:19:35,21 Magas,Ezdel,b2,skipjacs@student.21-school.ru,LEAVING
+2024-06-30 14:19:55,21 Magas,Denal,b3,heathmer@student.21-school.ru,LEAVING
+2024-06-30 14:19:55,21 Magas,Tesham,g5,johnnyfi@student.21-school.ru,LEAVING
+2024-06-30 14:19:55,21 Yakutsk,Erchim,d9,totesora@student.21-school.ru,ENTERING
+2024-06-30 14:20:12,21 Surgut,Hydrogen,b4,mangoshe@student.21-school.ru,ENTERING
+2024-06-30 14:20:31,21 Kazan,Evolution,g5,frisbeet@student.21-school.ru,LEAVING
+2024-06-30 14:20:31,21 Moscow,Mirage,e2,ricardof@student.21-school.ru,ENTERING
+2024-06-30 14:20:31,21 Veliky Novgorod,Quark,a2,stalward@student.21-school.ru,ENTERING
+2024-06-30 14:20:53,21 Surgut,Hydrogen,b6,mitchelp@student.21-school.ru,ENTERING
+2024-06-30 14:21:10,21 Moscow,Mirage,j3,patchesj@student.21-school.ru,LEAVING
+2024-06-30 14:21:44,21 Magas,Denal,m5,celinagu@student.21-school.ru,LEAVING
+2024-06-30 14:23:13,21 Surgut,Carbon,b9,wilberma@student.21-school.ru,ENTERING
+2024-06-30 14:24:10,21 Kazan,Genom,f4,quayleel@student.21-school.ru,ENTERING
+2024-06-30 14:24:30,21 Yakutsk,Ayar,i1,nicolemy@student.21-school.ru,LEAVING
+2024-06-30 14:24:30,21 Moscow,Mirage,e2,ricardof@student.21-school.ru,LEAVING
+2024-06-30 14:24:48,21 Novosibirsk,Silence,c9,sancepas@student.21-school.ru,LEAVING
+2024-06-30 14:25:07,21 Moscow,Mirage,t1,dollvala@student.21-school.ru,ENTERING
+2024-06-30 14:25:27,21 Moscow,Mirage,h3,stephenk@student.21-school.ru,LEAVING
+2024-06-30 14:26:21,21 Yakutsk,Ayar,h5,bumpbolg@student.21-school.ru,LEAVING
+2024-06-30 14:26:41,21 Moscow,Mirage,p5,ricardof@student.21-school.ru,ENTERING
+2024-06-30 14:26:58,21 Samarkand,sherdor,y3,christib@student.21-school.ru,LEAVING
+2024-06-30 14:26:58,21 Magas,Denal,l2,margaerm@student.21-school.ru,LEAVING
+2024-06-30 14:26:58,21 Samarkand,tillakori,i3,unmentia@student.21-school.ru,ENTERING
+2024-06-30 14:27:17,21 Magas,Ezdel,p2,neelixve@student.21-school.ru,LEAVING
+2024-06-30 14:27:37,21 Novosibirsk,Obscurity,a1,jonnabin@student.21-school.ru,ENTERING
+2024-06-30 14:27:55,21 Kazan,Progress,i3,condonmi@student.21-school.ru,LEAVING
+2024-06-30 14:28:13,21 Kazan,Universe,k2,keiraski@student.21-school.ru,LEAVING
+2024-06-30 14:28:13,21 Yakutsk,Erchim,d9,totesora@student.21-school.ru,LEAVING
+2024-06-30 14:28:29,21 Magas,Ezdel,m5,allyriap@student.21-school.ru,LEAVING
+2024-06-30 14:28:29,21 Magas,Tesham,d2,gastropb@student.21-school.ru,LEAVING
+2024-06-30 14:28:29,21 Yakutsk,Erchim,d10,selmaman@student.21-school.ru,LEAVING
+2024-06-30 14:28:29,21 Kazan,Eternity,g5,weaverir@student.21-school.ru,ENTERING
+2024-06-30 14:28:48,21 Moscow,Atlantis,h3,desperos@student.21-school.ru,ENTERING
+2024-06-30 14:28:48,21 Moscow,Atlantis,h2,winonale@student.21-school.ru,ENTERING
+2024-06-30 14:29:24,21 Veliky Novgorod,Lepton,f3,beecheri@student.21-school.ru,ENTERING
+2024-06-30 14:29:39,21 Kazan,Vault,c5,keiraski@student.21-school.ru,ENTERING
+2024-06-30 14:30:12,21 Novosibirsk,Obscurity,h5,electroe@student.21-school.ru,LEAVING
+2024-06-30 14:30:12,21 Novosibirsk,Infinity,h6,granceti@student.21-school.ru,LEAVING
+2024-06-30 14:30:12,21 Magas,Tesham,g2,juliusav@student.21-school.ru,LEAVING
+2024-06-30 14:30:31,21 Novosibirsk,Infinity,d8,shelbaja@student.21-school.ru,LEAVING
+2024-06-30 14:30:31,21 Novosibirsk,Infinity,d4,waltlate@student.21-school.ru,LEAVING
+2024-06-30 14:31:07,21 Kazan,Universe,l4,ninapete@student.21-school.ru,ENTERING
+2024-06-30 14:31:43,21 Magas,Denal,b3,heathmer@student.21-school.ru,ENTERING
+2024-06-30 14:31:43,21 Novosibirsk,Silence,a3,myrlemal@student.21-school.ru,LEAVING
+2024-06-30 14:31:43,21 Yakutsk,Erchim,e3,scarletr@student.21-school.ru,LEAVING
+2024-06-30 14:32:01,21 Moscow,Atlantis,j2,aleentor@student.21-school.ru,ENTERING
+2024-06-30 14:32:01,21 Kazan,Universe,m5,ellensem@student.21-school.ru,ENTERING
+2024-06-30 14:32:01,21 Magas,Sabar,d5,zeftyjef@student.21-school.ru,LEAVING
+2024-06-30 14:32:36,21 Moscow,Mirage,t5,lorinach@student.21-school.ru,LEAVING
+2024-06-30 14:32:56,21 Moscow,Mirage,b1,fondaata@student.21-school.ru,LEAVING
+2024-06-30 14:32:56,21 Moscow,Atlantis,q6,virginil@student.21-school.ru,ENTERING
+2024-06-30 14:34:07,21 Magas,Tesham,g3,galenani@student.21-school.ru,LEAVING
+2024-06-30 14:34:07,21 Magas,Denal,d4,seleneay@student.21-school.ru,ENTERING
+2024-06-30 14:34:25,21 Yaroslavl,Ushakov,q3,robbverl@student.21-school.ru,LEAVING
+2024-06-30 14:35:19,21 Samarkand,tillakori,w5,illalong@student.21-school.ru,ENTERING
+2024-06-30 14:35:37,21 Veliky Novgorod,Quark,g7,betseywe@student.21-school.ru,ENTERING
+2024-06-30 14:35:37,21 Moscow,Oasis,o1,dmyrl@student.21-school.ru,ENTERING
+2024-06-30 14:36:14,21 Magas,Denal,l2,margaerm@student.21-school.ru,ENTERING
+2024-06-30 14:36:50,21 Kazan,Universe,j6,emrickon@student.21-school.ru,LEAVING
+2024-06-30 14:36:50,21 Yaroslavl,Ushakov,j5,shericev@student.21-school.ru,ENTERING
+2024-06-30 14:37:10,21 Novosibirsk,Obscurity,j8,hatchesn@student.21-school.ru,ENTERING
+2024-06-30 14:37:10,21 Magas,Denal,l2,margaerm@student.21-school.ru,LEAVING
+2024-06-30 14:37:50,21 Yaroslavl,Ushakov,d6,karrieer@student.21-school.ru,LEAVING
+2024-06-30 14:38:27,21 Veliky Novgorod,Quark,a1,udyrannm@student.21-school.ru,ENTERING
+2024-06-30 14:38:43,21 Yaroslavl,Ushakov,g4,dorianbu@student.21-school.ru,LEAVING
+2024-06-30 14:38:43,21 Magas,Sabar,b3,nadiagat@student.21-school.ru,ENTERING
+2024-06-30 14:38:43,21 Magas,Denal,d4,seleneay@student.21-school.ru,LEAVING
+2024-06-30 14:39:03,21 Moscow,Illusion,k2,bmaegan@student.21-school.ru,ENTERING
+2024-06-30 14:39:03,21 Yaroslavl,Ushakov,n3,seftonma@student.21-school.ru,LEAVING
+2024-06-30 14:39:03,21 Kazan,Singularity,h5,zekemath@student.21-school.ru,ENTERING
+2024-06-30 14:39:22,21 Magas,Tesham,j4,margaerm@student.21-school.ru,ENTERING
+2024-06-30 14:39:40,21 Novosibirsk,Obscurity,d5,tiffanek@student.21-school.ru,ENTERING
+2024-06-30 14:39:59,21 Novosibirsk,Infinity,h6,granceti@student.21-school.ru,ENTERING
+2024-06-30 14:39:59,21 Veliky Novgorod,Quark,c9,mjollgra@student.21-school.ru,LEAVING
+2024-06-30 14:40:34,21 Yaroslavl,Ushakov,q3,robbverl@student.21-school.ru,ENTERING
+2024-06-30 14:40:34,21 Veliky Novgorod,Quark,g9,silenced@student.21-school.ru,ENTERING
+2024-06-30 14:40:53,21 Veliky Novgorod,Quark,g6,audrykar@student.21-school.ru,ENTERING
+2024-06-30 14:40:53,21 Veliky Novgorod,Quark,d7,kosiseli@student.21-school.ru,LEAVING
+2024-06-30 14:41:47,21 Yaroslavl,Ushakov,n1,boomclar@student.21-school.ru,LEAVING
+2024-06-30 14:41:47,21 Kazan,Progress,k2,wavesgin@student.21-school.ru,ENTERING
+2024-06-30 14:43:02,21 Yaroslavl,Ushakov,g4,dorianbu@student.21-school.ru,ENTERING
+2024-06-30 14:43:02,21 Veliky Novgorod,Lepton,f5,grennric@student.21-school.ru,LEAVING
+2024-06-30 14:43:02,21 Moscow,Mirage,r5,randalls@student.21-school.ru,LEAVING
+2024-06-30 14:43:02,21 Magas,Denal,i1,stripeca@student.21-school.ru,LEAVING
+2024-06-30 14:43:54,21 Magas,Ezdel,n6,carylonp@student.21-school.ru,ENTERING
+2024-06-30 14:43:54,21 Kazan,Universe,f1,myregree@student.21-school.ru,ENTERING
+2024-06-30 14:44:33,21 Kazan,Vault,i4,krabappk@student.21-school.ru,LEAVING
+2024-06-30 14:44:33,21 Surgut,Hydrogen,f4,melaraka@student.21-school.ru,LEAVING
+2024-06-30 14:45:10,21 Moscow,Mirage,d3,greenham@student.21-school.ru,ENTERING
+2024-06-30 14:45:10,21 Veliky Novgorod,Quark,i8,grennric@student.21-school.ru,ENTERING
+2024-06-30 14:45:26,21 Veliky Novgorod,Lepton,e2,jamibeul@student.21-school.ru,LEAVING
+2024-06-30 14:45:26,21 Magas,Denal,n3,ottyneus@student.21-school.ru,LEAVING
+2024-06-30 14:45:46,21 Yaroslavl,Ushakov,f1,dennisli@student.21-school.ru,LEAVING
+2024-06-30 14:46:06,21 Veliky Novgorod,Quark,i10,jamibeul@student.21-school.ru,ENTERING
+2024-06-30 14:46:25,21 Magas,Tesham,d1,monarchc@student.21-school.ru,LEAVING
+2024-06-30 14:47:19,21 Yaroslavl,Ushakov,g5,cadmusrh@student.21-school.ru,LEAVING
+2024-06-30 14:47:19,21 Moscow,Oasis,k1,squanclo@student.21-school.ru,LEAVING
+2024-06-30 14:47:39,21 Novosibirsk,Infinity,e4,yesenias@student.21-school.ru,ENTERING
+2024-06-30 14:48:01,21 Moscow,Atlantis,m3,rachellt@student.21-school.ru,LEAVING
+2024-06-30 14:48:21,21 Veliky Novgorod,Quark,i8,grennric@student.21-school.ru,LEAVING
+2024-06-30 14:48:39,21 Veliky Novgorod,Quark,i10,jamibeul@student.21-school.ru,LEAVING
+2024-06-30 14:48:39,21 Kazan,Singularity,h4,krabappk@student.21-school.ru,ENTERING
+2024-06-30 14:48:57,21 Moscow,Oasis,k3,cranbere@student.21-school.ru,LEAVING
+2024-06-30 14:48:57,21 Yaroslavl,Ushakov,e4,didijacq@student.21-school.ru,LEAVING
+2024-06-30 14:49:17,21 Samarkand,sherdor,c4,ilynpois@student.21-school.ru,LEAVING
+2024-06-30 14:49:56,21 Veliky Novgorod,Quark,g3,ellamaeo@student.21-school.ru,ENTERING
+2024-06-30 14:49:56,21 Magas,Denal,o3,vanessst@student.21-school.ru,ENTERING
+2024-06-30 14:50:14,21 Veliky Novgorod,Quark,h10,ashasutt@student.21-school.ru,LEAVING
+2024-06-30 14:50:14,21 Moscow,Void,a1,guillerg@student.21-school.ru,ENTERING
+2024-06-30 14:50:14,21 Surgut,Hydrogen,b9,medwicki@student.21-school.ru,ENTERING
+2024-06-30 14:50:14,21 Moscow,Void,a2,warploki@student.21-school.ru,ENTERING
+2024-06-30 14:50:31,21 Yaroslavl,Ushakov,g4,dorianbu@student.21-school.ru,LEAVING
+2024-06-30 14:50:31,21 Kazan,Evolution,h5,mildredm@student.21-school.ru,LEAVING
+2024-06-30 14:50:31,21 Novosibirsk,Infinity,b8,zubatdom@student.21-school.ru,ENTERING
+2024-06-30 14:50:49,21 Yaroslavl,Mudriy,c3,jocelynw@student.21-school.ru,ENTERING
+2024-06-30 14:51:08,21 Veliky Novgorod,Quark,i4,grennric@student.21-school.ru,ENTERING
+2024-06-30 14:51:08,21 Magas,Sabar,b4,shavonry@student.21-school.ru,LEAVING
+2024-06-30 14:51:27,21 Moscow,Oasis,j2,hooverde@student.21-school.ru,ENTERING
+2024-06-30 14:51:45,21 Moscow,Atlantis,q8,broderci@student.21-school.ru,LEAVING
+2024-06-30 14:51:45,21 Magas,Denal,h3,tresaaeg@student.21-school.ru,ENTERING
+2024-06-30 14:52:01,21 Magas,Denal,l5,cesarfis@student.21-school.ru,LEAVING
+2024-06-30 14:52:22,21 Novosibirsk,Silence,e2,kilowoga@student.21-school.ru,ENTERING
+2024-06-30 14:52:22,21 Kazan,Singularity,h4,krabappk@student.21-school.ru,LEAVING
+2024-06-30 14:52:22,21 Magas,Tesham,a6,lucamove@student.21-school.ru,LEAVING
+2024-06-30 14:52:22,21 Kazan,Universe,b3,mirrigay@student.21-school.ru,ENTERING
+2024-06-30 14:52:22,21 Samarkand,sherdor,b2,toffeebl@student.21-school.ru,LEAVING
+2024-06-30 14:52:40,21 Magas,Sabar,c5,cheddarf@student.21-school.ru,ENTERING
+2024-06-30 14:52:59,21 Magas,Sabar,b1,brainyco@student.21-school.ru,ENTERING
+2024-06-30 14:53:18,21 Magas,Denal,j3,tabethtu@student.21-school.ru,LEAVING
+2024-06-30 14:53:36,21 Samarkand,tillakori,p5,barramuc@student.21-school.ru,LEAVING
+2024-06-30 14:53:55,21 Moscow,Atlantis,j4,glossuvi@student.21-school.ru,ENTERING
+2024-06-30 14:54:12,21 Yaroslavl,Ushakov,h5,darlaind@student.21-school.ru,ENTERING
+2024-06-30 14:54:30,21 Magas,Denal,j4,ardrianw@student.21-school.ru,LEAVING
+2024-06-30 14:54:49,21 Kazan,Singularity,h3,krabappk@student.21-school.ru,ENTERING
+2024-06-30 14:55:09,21 Moscow,Void,a1,guillerg@student.21-school.ru,LEAVING
+2024-06-30 14:55:09,21 Surgut,Hydrogen,b4,mangoshe@student.21-school.ru,LEAVING
+2024-06-30 14:55:09,21 Yaroslavl,Volkov,g3,shelliek@student.21-school.ru,ENTERING
+2024-06-30 14:55:09,21 Yaroslavl,Ushakov,n5,welkerka@student.21-school.ru,LEAVING
+2024-06-30 14:55:47,21 Moscow,Atlantis,n6,chingros@student.21-school.ru,ENTERING
+2024-06-30 14:56:04,21 Yaroslavl,Tkachenko,d3,quickaxc@student.21-school.ru,ENTERING
+2024-06-30 14:56:24,21 Magas,Tesham,f2,baggskur@student.21-school.ru,LEAVING
+2024-06-30 14:56:24,21 Veliky Novgorod,Quark,d6,sharlali@student.21-school.ru,LEAVING
+2024-06-30 14:56:42,21 Magas,Denal,l1,theobalk@student.21-school.ru,LEAVING
+2024-06-30 14:57:00,21 Moscow,Void,a1,guillerg@student.21-school.ru,ENTERING
+2024-06-30 14:57:56,21 Magas,Denal,j5,hagridar@student.21-school.ru,LEAVING
+2024-06-30 14:59:30,21 Moscow,Atlantis,n5,jonnelle@student.21-school.ru,ENTERING
+2024-06-30 14:59:46,21 Magas,Tesham,a1,dugtrios@student.21-school.ru,LEAVING
+2024-06-30 14:59:46,21 Magas,Tesham,a3,rosellem@student.21-school.ru,LEAVING
+2024-06-30 15:00:06,21 Moscow,Void,a1,guillerg@student.21-school.ru,LEAVING
+2024-06-30 15:00:22,21 Yakutsk,Ayar,f2,margeral@student.21-school.ru,LEAVING
+2024-06-30 15:00:22,21 Kazan,Vault,b3,rachelsa@student.21-school.ru,LEAVING
+2024-06-30 15:00:59,21 Magas,Tesham,a5,corineil@student.21-school.ru,LEAVING
+2024-06-30 15:00:59,21 Moscow,Illusion,a3,hortonbe@student.21-school.ru,LEAVING
+2024-06-30 15:01:35,21 Moscow,Void,a1,guillerg@student.21-school.ru,ENTERING
+2024-06-30 15:01:53,21 Magas,Denal,f4,sparecar@student.21-school.ru,ENTERING
+2024-06-30 15:01:53,21 Moscow,Oasis,b4,virgilwi@student.21-school.ru,ENTERING
+2024-06-30 15:02:11,21 Magas,Denal,f5,baharatl@student.21-school.ru,ENTERING
+2024-06-30 15:02:11,21 Yaroslavl,Ushakov,e4,didijacq@student.21-school.ru,ENTERING
+2024-06-30 15:02:28,21 Samarkand,sherdor,y5,kaylenak@student.21-school.ru,LEAVING
+2024-06-30 15:02:28,21 Yaroslavl,Ushakov,c6,tashiwin@student.21-school.ru,ENTERING
+2024-06-30 15:02:47,21 Yaroslavl,Tkachenko,d3,quickaxc@student.21-school.ru,LEAVING
+2024-06-30 15:02:47,21 Veliky Novgorod,Quark,a2,stalward@student.21-school.ru,LEAVING
+2024-06-30 15:03:07,21 Magas,Tesham,g3,galenani@student.21-school.ru,ENTERING
+2024-06-30 15:04:06,21 Moscow,Atlantis,r7,michalfe@student.21-school.ru,ENTERING
+2024-06-30 15:04:25,21 Kazan,Universe,f1,myregree@student.21-school.ru,LEAVING
+2024-06-30 15:04:25,21 Yaroslavl,Ushakov,d3,stinkshu@student.21-school.ru,ENTERING
+2024-06-30 15:05:02,21 Veliky Novgorod,Quark,h10,ashasutt@student.21-school.ru,ENTERING
+2024-06-30 15:05:02,21 Veliky Novgorod,Quark,i3,isisalbi@student.21-school.ru,ENTERING
+2024-06-30 15:05:02,21 Novosibirsk,Infinity,c8,sharkmer@student.21-school.ru,ENTERING
+2024-06-30 15:05:22,21 Yaroslavl,Volkov,f4,stacygri@student.21-school.ru,ENTERING
+2024-06-30 15:05:43,21 Surgut,Sulfur,d2,cardigaa@student.21-school.ru,LEAVING
+2024-06-30 15:05:43,21 Moscow,Mirage,j3,patchesj@student.21-school.ru,ENTERING
+2024-06-30 15:05:43,21 Novosibirsk,Obscurity,g3,rondaeli@student.21-school.ru,LEAVING
+2024-06-30 15:06:02,21 Veliky Novgorod,Lepton,e6,thedamol@student.21-school.ru,LEAVING
+2024-06-30 15:06:19,21 Magas,Sabar,b1,brainyco@student.21-school.ru,LEAVING
+2024-06-30 15:06:19,21 Yaroslavl,Ushakov,c6,tashiwin@student.21-school.ru,LEAVING
+2024-06-30 15:06:37,21 Kazan,Progress,c5,kosssoni@student.21-school.ru,LEAVING
+2024-06-30 15:06:37,21 Yaroslavl,Ushakov,c2,muleanis@student.21-school.ru,ENTERING
+2024-06-30 15:06:37,21 Kazan,Universe,l4,ninapete@student.21-school.ru,LEAVING
+2024-06-30 15:06:54,21 Moscow,Mirage,w6,clemenjo@student.21-school.ru,ENTERING
+2024-06-30 15:06:54,21 Moscow,Illusion,a2,skarnede@student.21-school.ru,LEAVING
+2024-06-30 15:06:54,21 Novosibirsk,Infinity,d4,waltlate@student.21-school.ru,ENTERING
+2024-06-30 15:07:34,21 Veliky Novgorod,Lepton,f7,thedamol@student.21-school.ru,ENTERING
+2024-06-30 15:08:14,21 Magas,Denal,d3,marilynu@student.21-school.ru,LEAVING
+2024-06-30 15:08:14,21 Samarkand,tillakori,l3,twannama@student.21-school.ru,LEAVING
+2024-06-30 15:08:34,21 Veliky Novgorod,Quark,f10,esgredbo@student.21-school.ru,ENTERING
+2024-06-30 15:08:51,21 Veliky Novgorod,Quark,f10,esgredbo@student.21-school.ru,LEAVING
+2024-06-30 15:09:09,21 Magas,Tesham,h5,nereidat@student.21-school.ru,LEAVING
+2024-06-30 15:09:09,21 Magas,Denal,g2,stumptok@student.21-school.ru,LEAVING
+2024-06-30 15:09:28,21 Magas,Denal,m2,elinorwi@student.21-school.ru,LEAVING
+2024-06-30 15:09:28,21 Magas,Denal,b1,halfempd@student.21-school.ru,LEAVING
+2024-06-30 15:09:28,21 Yaroslavl,Ushakov,o2,muckwyli@student.21-school.ru,LEAVING
+2024-06-30 15:09:47,21 Veliky Novgorod,Quark,f5,esgredbo@student.21-school.ru,ENTERING
+2024-06-30 15:09:47,21 Veliky Novgorod,Lepton,a5,quianakr@student.21-school.ru,LEAVING
+2024-06-30 15:10:04,21 Moscow,Mirage,a6,aseptimu@student.21-school.ru,LEAVING
+2024-06-30 15:10:04,21 Veliky Novgorod,Lepton,a5,quianakr@student.21-school.ru,ENTERING
+2024-06-30 15:10:43,21 Veliky Novgorod,Lepton,e4,pipelemu@student.21-school.ru,LEAVING
+2024-06-30 15:11:21,21 Kazan,Vault,a5,captaink@student.21-school.ru,ENTERING
+2024-06-30 15:11:21,21 Moscow,Illusion,a1,felixdos@student.21-school.ru,ENTERING
+2024-06-30 15:11:21,21 Yaroslavl,Ushakov,q2,sylvapre@student.21-school.ru,LEAVING
+2024-06-30 15:11:47,21 Veliky Novgorod,Quark,d8,pipelemu@student.21-school.ru,ENTERING
+2024-06-30 15:11:47,21 Magas,Sabar,b4,shavonry@student.21-school.ru,ENTERING
+2024-06-30 15:11:47,21 Yaroslavl,Ushakov,d1,tomatofe@student.21-school.ru,LEAVING
+2024-06-30 15:12:06,21 Magas,Denal,m3,minisagu@student.21-school.ru,LEAVING
+2024-06-30 15:13:38,21 Yaroslavl,Tkachenko,q1,okanosha@student.21-school.ru,LEAVING
+2024-06-30 15:13:55,21 Moscow,Mirage,v4,everettl@student.21-school.ru,LEAVING
+2024-06-30 15:13:55,21 Veliky Novgorod,Lepton,f4,graveleg@student.21-school.ru,LEAVING
+2024-06-30 15:13:55,21 Kazan,Vault,b4,theashaw@student.21-school.ru,LEAVING
+2024-06-30 15:15:08,21 Yaroslavl,Volkov,a3,chardnea@student.21-school.ru,LEAVING
+2024-06-30 15:16:04,21 Moscow,Illusion,a3,hortonbe@student.21-school.ru,ENTERING
+2024-06-30 15:16:22,21 Veliky Novgorod,Quark,a2,stalward@student.21-school.ru,ENTERING
+2024-06-30 15:16:42,21 Moscow,Illusion,a2,fletchle@student.21-school.ru,ENTERING
+2024-06-30 15:17:17,21 Magas,Tesham,a5,corineil@student.21-school.ru,ENTERING
+2024-06-30 15:17:17,21 Magas,Tesham,a3,rosellem@student.21-school.ru,ENTERING
+2024-06-30 15:17:35,21 Novosibirsk,Obscurity,k2,nelsonma@student.21-school.ru,LEAVING
+2024-06-30 15:17:35,21 Yaroslavl,Tkachenko,p1,socorrov@student.21-school.ru,LEAVING
+2024-06-30 15:19:39,21 Kazan,Vault,d5,powersmi@student.21-school.ru,LEAVING
+2024-06-30 15:20:16,21 Kazan,Evolution,h6,evangelm@student.21-school.ru,LEAVING
+2024-06-30 15:20:16,21 Veliky Novgorod,Quark,b8,hickstag@student.21-school.ru,ENTERING
+2024-06-30 15:20:16,21 Yaroslavl,Ushakov,q3,robbverl@student.21-school.ru,LEAVING
+2024-06-30 15:20:34,21 Moscow,Oasis,o1,dmyrl@student.21-school.ru,LEAVING
+2024-06-30 15:20:34,21 Yaroslavl,Ushakov,d3,stinkshu@student.21-school.ru,LEAVING
+2024-06-30 15:20:52,21 Kazan,Evolution,h3,catinasw@student.21-school.ru,LEAVING
+2024-06-30 15:21:28,21 Yaroslavl,Ushakov,m3,robbverl@student.21-school.ru,ENTERING
+2024-06-30 15:22:06,21 Yaroslavl,Ushakov,d5,babakaly@student.21-school.ru,LEAVING
+2024-06-30 15:22:06,21 Kazan,Genom,h3,fletamar@student.21-school.ru,LEAVING
+2024-06-30 15:22:06,21 Magas,Tesham,c4,lillyleo@student.21-school.ru,ENTERING
+2024-06-30 15:22:24,21 Magas,Tesham,g3,galenani@student.21-school.ru,LEAVING
+2024-06-30 15:23:17,21 Veliky Novgorod,Lepton,e7,eugenacl@student.21-school.ru,LEAVING
+2024-06-30 15:23:36,21 Samarkand,tillakori,p5,barramuc@student.21-school.ru,ENTERING
+2024-06-30 15:23:36,21 Yaroslavl,Ushakov,l3,yellinbu@student.21-school.ru,ENTERING
+2024-06-30 15:24:12,21 Veliky Novgorod,Quark,g5,charlerh@student.21-school.ru,ENTERING
+2024-06-30 15:24:30,21 Magas,Denal,b2,chytterm@student.21-school.ru,ENTERING
+2024-06-30 15:24:30,21 Veliky Novgorod,Quark,d9,eugenacl@student.21-school.ru,ENTERING
+2024-06-30 15:24:49,21 Moscow,Atlantis,g1,bastarsn@student.21-school.ru,ENTERING
+2024-06-30 15:25:09,21 Veliky Novgorod,Boson,b4,petyrdar@student.21-school.ru,LEAVING
+2024-06-30 15:25:27,21 Novosibirsk,Obscurity,k2,nelsonma@student.21-school.ru,ENTERING
+2024-06-30 15:25:46,21 Kazan,Evolution,h6,evangelm@student.21-school.ru,ENTERING
+2024-06-30 15:26:04,21 Novosibirsk,Obscurity,j8,hatchesn@student.21-school.ru,LEAVING
+2024-06-30 15:26:24,21 Novosibirsk,Obscurity,k4,microchm@student.21-school.ru,LEAVING
+2024-06-30 15:26:41,21 Magas,Tesham,h4,luciascl@student.21-school.ru,LEAVING
+2024-06-30 15:26:41,21 Yaroslavl,Tkachenko,p1,socorrov@student.21-school.ru,ENTERING
+2024-06-30 15:27:19,21 Magas,Tesham,b1,clintonl@student.21-school.ru,LEAVING
+2024-06-30 15:27:19,21 Novosibirsk,Obscurity,k2,nelsonma@student.21-school.ru,LEAVING
+2024-06-30 15:27:36,21 Magas,Tesham,b3,dinorahl@student.21-school.ru,ENTERING
+2024-06-30 15:27:36,21 Moscow,Atlantis,q2,kaseltzt@student.21-school.ru,ENTERING
+2024-06-30 15:27:36,21 Yaroslavl,Ushakov,m1,nealfost@student.21-school.ru,ENTERING
+2024-06-30 15:27:53,21 Kazan,Evolution,h5,mildredm@student.21-school.ru,ENTERING
+2024-06-30 15:27:53,21 Veliky Novgorod,Quark,d6,sharlali@student.21-school.ru,ENTERING
+2024-06-30 15:28:12,21 Veliky Novgorod,Quark,a4,daariobr@student.21-school.ru,ENTERING
+2024-06-30 15:28:12,21 Yaroslavl,Tkachenko,q4,kezmyaca@student.21-school.ru,LEAVING
+2024-06-30 15:28:31,21 Magas,Ezdel,k2,ngocbitt@student.21-school.ru,LEAVING
+2024-06-30 15:28:51,21 Veliky Novgorod,Quark,c9,mjollgra@student.21-school.ru,ENTERING
+2024-06-30 15:29:28,21 Magas,Tesham,a1,dugtrios@student.21-school.ru,ENTERING
+2024-06-30 15:30:06,21 Novosibirsk,Infinity,h6,granceti@student.21-school.ru,LEAVING
+2024-06-30 15:30:06,21 Kazan,Universe,b5,margarme@student.21-school.ru,ENTERING
+2024-06-30 15:30:42,21 Magas,Ezdel,k4,bhattlen@student.21-school.ru,LEAVING
+2024-06-30 15:30:42,21 Samarkand,tillakori,w5,illalong@student.21-school.ru,LEAVING
+2024-06-30 15:30:42,21 Novosibirsk,Infinity,f4,regeniae@student.21-school.ru,LEAVING
+2024-06-30 15:31:01,21 Novosibirsk,Infinity,f3,doduofor@student.21-school.ru,LEAVING
+2024-06-30 15:31:38,21 Yaroslavl,Ushakov,d1,redwyndi@student.21-school.ru,ENTERING
+2024-06-30 15:32:14,21 Magas,Ezdel,b4,shrimplm@student.21-school.ru,LEAVING
+2024-06-30 15:32:49,21 Yaroslavl,Tkachenko,p1,socorrov@student.21-school.ru,LEAVING
+2024-06-30 15:34:01,21 Moscow,Mirage,w6,clemenjo@student.21-school.ru,LEAVING
+2024-06-30 15:34:22,21 Moscow,Atlantis,f4,gladyslo@student.21-school.ru,LEAVING
+2024-06-30 15:34:22,21 Veliky Novgorod,Quark,i4,grennric@student.21-school.ru,LEAVING
+2024-06-30 15:34:22,21 Moscow,Mirage,r3,idellbel@student.21-school.ru,LEAVING
+2024-06-30 15:34:22,21 Kazan,Progress,h5,redfortp@student.21-school.ru,ENTERING
+2024-06-30 15:34:22,21 Yaroslavl,Ushakov,h3,stinkshu@student.21-school.ru,ENTERING
+2024-06-30 15:34:37,21 Kazan,Progress,h4,eldredmo@student.21-school.ru,ENTERING
+2024-06-30 15:34:54,21 Veliky Novgorod,Quark,i3,isisalbi@student.21-school.ru,LEAVING
+2024-06-30 15:35:13,21 Yaroslavl,Ushakov,c3,ricardsa@student.21-school.ru,ENTERING
+2024-06-30 15:35:31,21 Novosibirsk,Infinity,h2,jeffielo@student.21-school.ru,LEAVING
+2024-06-30 15:36:29,21 Kazan,Genom,a5,cookling@student.21-school.ru,LEAVING
+2024-06-30 15:36:29,21 Kazan,Progress,f1,godardge@student.21-school.ru,LEAVING
+2024-06-30 15:36:47,21 Kazan,Universe,d3,lenwooda@student.21-school.ru,LEAVING
+2024-06-30 15:37:05,21 Moscow,Mirage,t1,dollvala@student.21-school.ru,LEAVING
+2024-06-30 15:37:22,21 Moscow,Oasis,o3,lidiamah@student.21-school.ru,LEAVING
+2024-06-30 15:37:42,21 Yaroslavl,Ushakov,h5,darlaind@student.21-school.ru,LEAVING
+2024-06-30 15:37:42,21 Veliky Novgorod,Quark,b3,owynwend@student.21-school.ru,LEAVING
+2024-06-30 15:38:59,21 Kazan,Universe,d3,lenwooda@student.21-school.ru,ENTERING
+2024-06-30 15:38:59,21 Yaroslavl,Ushakov,h3,stinkshu@student.21-school.ru,LEAVING
+2024-06-30 15:39:17,21 Moscow,Illusion,h6,dollvala@student.21-school.ru,ENTERING
+2024-06-30 15:39:35,21 Moscow,Oasis,b5,shunnedx@student.21-school.ru,LEAVING
+2024-06-30 15:40:16,21 Moscow,Mirage,k6,caroylns@student.21-school.ru,LEAVING
+2024-06-30 15:41:08,21 Yaroslavl,Ushakov,q4,johnatmo@student.21-school.ru,LEAVING
+2024-06-30 15:41:08,21 Novosibirsk,Infinity,f4,regeniae@student.21-school.ru,ENTERING
+2024-06-30 15:42:18,21 Moscow,Mirage,k4,sheriffl@student.21-school.ru,LEAVING
+2024-06-30 15:42:55,21 Veliky Novgorod,Quark,c10,grennric@student.21-school.ru,ENTERING
+2024-06-30 15:43:13,21 Veliky Novgorod,Quark,e8,concenth@student.21-school.ru,LEAVING
+2024-06-30 15:43:31,21 Magas,Denal,j1,aragogha@student.21-school.ru,LEAVING
+2024-06-30 15:44:27,21 Magas,Denal,f5,baharatl@student.21-school.ru,LEAVING
+2024-06-30 15:44:47,21 Veliky Novgorod,Quark,g2,drynagus@student.21-school.ru,LEAVING
+2024-06-30 15:44:47,21 Yaroslavl,Tkachenko,p4,eleonorc@student.21-school.ru,LEAVING
+2024-06-30 15:45:06,21 Yaroslavl,Ushakov,e2,pepperno@student.21-school.ru,LEAVING
+2024-06-30 15:45:06,21 Veliky Novgorod,Lepton,f7,thedamol@student.21-school.ru,LEAVING
+2024-06-30 15:45:43,21 Yaroslavl,Ushakov,e2,pepperno@student.21-school.ru,ENTERING
+2024-06-30 15:46:19,21 Kazan,Evolution,g4,barleyhe@student.21-school.ru,LEAVING
+2024-06-30 15:46:19,21 Magas,Denal,n1,hobertgo@student.21-school.ru,LEAVING
+2024-06-30 15:46:56,21 Kazan,Genom,g3,louellat@student.21-school.ru,ENTERING
+2024-06-30 15:47:14,21 Kazan,Universe,b6,kaneshau@student.21-school.ru,ENTERING
+2024-06-30 15:47:14,21 Novosibirsk,Obscurity,d6,tandrahu@student.21-school.ru,LEAVING
+2024-06-30 15:47:32,21 Kazan,Universe,a5,alivewel@student.21-school.ru,ENTERING
+2024-06-30 15:47:32,21 Novosibirsk,Obscurity,h6,shaunnaa@student.21-school.ru,LEAVING
+2024-06-30 15:47:52,21 Magas,Denal,o3,vanessst@student.21-school.ru,LEAVING
+2024-06-30 15:48:08,21 Novosibirsk,Infinity,c6,durranpl@student.21-school.ru,ENTERING
+2024-06-30 15:48:08,21 Magas,Sabar,h1,halfempd@student.21-school.ru,ENTERING
+2024-06-30 15:48:29,21 Moscow,Illusion,k6,gerrenka@student.21-school.ru,LEAVING
+2024-06-30 15:49:07,21 Veliky Novgorod,Quark,g2,drynagus@student.21-school.ru,ENTERING
+2024-06-30 15:49:07,21 Veliky Novgorod,Quark,b9,luisemar@student.21-school.ru,ENTERING
+2024-06-30 15:50:23,21 Magas,Sabar,a1,mutterim@student.21-school.ru,ENTERING
+2024-06-30 15:50:23,21 Kazan,Eternity,i6,ricardac@student.21-school.ru,LEAVING
+2024-06-30 15:50:41,21 Magas,Denal,m6,tarrapen@student.21-school.ru,LEAVING
+2024-06-30 15:51:16,21 Kazan,Universe,m5,ellensem@student.21-school.ru,LEAVING
+2024-06-30 15:51:35,21 Veliky Novgorod,Boson,b6,patakibe@student.21-school.ru,LEAVING
+2024-06-30 15:51:53,21 Yaroslavl,Volkov,f4,stacygri@student.21-school.ru,LEAVING
+2024-06-30 15:52:11,21 Moscow,Oasis,j6,pomonabu@student.21-school.ru,LEAVING
+2024-06-30 15:52:11,21 Magas,Denal,n4,sunfloea@student.21-school.ru,LEAVING
+2024-06-30 15:52:30,21 Surgut,Hydrogen,b6,mitchelp@student.21-school.ru,LEAVING
+2024-06-30 15:52:30,21 Yaroslavl,Ushakov,m1,nealfost@student.21-school.ru,LEAVING
+2024-06-30 15:52:30,21 Moscow,Atlantis,f3,rossartb@student.21-school.ru,LEAVING
+2024-06-30 15:53:44,21 Kazan,Universe,m1,melaniad@student.21-school.ru,ENTERING
+2024-06-30 15:54:00,21 Magas,Denal,o6,fisholdt@student.21-school.ru,ENTERING
+2024-06-30 15:54:00,21 Veliky Novgorod,Lepton,a5,quianakr@student.21-school.ru,LEAVING
+2024-06-30 15:54:00,21 Veliky Novgorod,Lepton,e6,thedamol@student.21-school.ru,ENTERING
+2024-06-30 15:54:18,21 Novosibirsk,Silence,b5,burchbel@student.21-school.ru,ENTERING
+2024-06-30 15:54:18,21 Yaroslavl,Ushakov,c1,tarbeckm@student.21-school.ru,LEAVING
+2024-06-30 15:54:54,21 Veliky Novgorod,Quark,e8,concenth@student.21-school.ru,ENTERING
+2024-06-30 15:54:54,21 Yaroslavl,Tkachenko,o1,klotzqez@student.21-school.ru,LEAVING
+2024-06-30 15:56:12,21 Moscow,Oasis,l1,lucimorn@student.21-school.ru,LEAVING
+2024-06-30 15:56:30,21 Novosibirsk,Infinity,f3,cicelyce@student.21-school.ru,ENTERING
+2024-06-30 15:56:30,21 Yaroslavl,Ushakov,k4,cugermak@student.21-school.ru,ENTERING
+2024-06-30 15:56:49,21 Yaroslavl,Tkachenko,o1,klotzqez@student.21-school.ru,ENTERING
+2024-06-30 15:57:22,21 Novosibirsk,Obscurity,d2,kudzusat@student.21-school.ru,LEAVING
+2024-06-30 15:58:03,21 Novosibirsk,Obscurity,d1,hummusje@student.21-school.ru,LEAVING
+2024-06-30 15:58:39,21 Magas,Denal,f4,sparecar@student.21-school.ru,LEAVING
+2024-06-30 15:58:57,21 Yaroslavl,Tkachenko,e2,commanan@student.21-school.ru,LEAVING
+2024-06-30 15:58:57,21 Yaroslavl,Tkachenko,o1,klotzqez@student.21-school.ru,LEAVING
+2024-06-30 15:58:57,21 Veliky Novgorod,Quark,a1,udyrannm@student.21-school.ru,LEAVING
+2024-06-30 15:59:32,21 Veliky Novgorod,Quark,a4,daariobr@student.21-school.ru,LEAVING
+2024-06-30 15:59:32,21 Kazan,Progress,k6,grubbsas@student.21-school.ru,LEAVING
+2024-06-30 16:00:09,21 Moscow,Oasis,k2,bartysun@student.21-school.ru,LEAVING
+2024-06-30 16:00:09,21 Yaroslavl,Mudriy,a1,lonnysig@student.21-school.ru,LEAVING
+2024-06-30 16:00:09,21 Yaroslavl,Ushakov,m3,robbverl@student.21-school.ru,LEAVING
+2024-06-30 16:00:55,21 Yaroslavl,Tkachenko,p2,kemmettc@student.21-school.ru,LEAVING
+2024-06-30 16:00:55,21 Moscow,Atlantis,g4,pirzamar@student.21-school.ru,ENTERING
+2024-06-30 16:00:55,21 Moscow,Mirage,p5,ricardof@student.21-school.ru,LEAVING
+2024-06-30 16:01:14,21 Moscow,Atlantis,o2,alliserr@student.21-school.ru,ENTERING
+2024-06-30 16:01:14,21 Moscow,Atlantis,g2,marghazg@student.21-school.ru,LEAVING
+2024-06-30 16:01:14,21 Novosibirsk,Infinity,e4,yesenias@student.21-school.ru,LEAVING
+2024-06-30 16:01:51,21 Yaroslavl,Ushakov,m4,quickaxc@student.21-school.ru,ENTERING
+2024-06-30 16:02:14,21 Magas,Denal,n4,sunfloea@student.21-school.ru,ENTERING
+2024-06-30 16:02:14,21 Magas,Denal,m6,tarrapen@student.21-school.ru,ENTERING
+2024-06-30 16:02:32,21 Veliky Novgorod,Quark,d7,kosiseli@student.21-school.ru,ENTERING
+2024-06-30 16:02:49,21 Magas,Tesham,e4,cherylol@student.21-school.ru,LEAVING
+2024-06-30 16:02:49,21 Samarkand,sherdor,y5,kaylenak@student.21-school.ru,ENTERING
+2024-06-30 16:03:09,21 Samarkand,sherdor,f5,hobgoblm@student.21-school.ru,ENTERING
+2024-06-30 16:03:09,21 Magas,Tesham,c6,merlingd@student.21-school.ru,LEAVING
+2024-06-30 16:03:26,21 Moscow,Atlantis,o7,vanesawo@student.21-school.ru,LEAVING
+2024-06-30 16:03:46,21 Magas,Tesham,f2,baggskur@student.21-school.ru,ENTERING
+2024-06-30 16:03:46,21 Kazan,Genom,b4,bookesal@student.21-school.ru,ENTERING
+2024-06-30 16:03:46,21 Yaroslavl,Mudriy,c3,jocelynw@student.21-school.ru,LEAVING
+2024-06-30 16:04:40,21 Veliky Novgorod,Quark,g4,cavalood@student.21-school.ru,LEAVING
+2024-06-30 16:05:00,21 Veliky Novgorod,Quark,g4,cavalood@student.21-school.ru,ENTERING
+2024-06-30 16:05:00,21 Yaroslavl,Tkachenko,p3,deethjoe@student.21-school.ru,LEAVING
+2024-06-30 16:05:37,21 Magas,Denal,b5,fideldan@student.21-school.ru,LEAVING
+2024-06-30 16:05:37,21 Kazan,Genom,f4,quayleel@student.21-school.ru,LEAVING
+2024-06-30 16:05:57,21 Moscow,Mirage,a3,jannmart@student.21-school.ru,LEAVING
+2024-06-30 16:06:15,21 Yaroslavl,Tkachenko,i5,braintha@student.21-school.ru,LEAVING
+2024-06-30 16:06:15,21 Kazan,Universe,h5,ismaeldi@student.21-school.ru,LEAVING
+2024-06-30 16:06:49,21 Magas,Denal,o3,vanessst@student.21-school.ru,ENTERING
+2024-06-30 16:07:08,21 Kazan,Vault,g3,diamondp@student.21-school.ru,LEAVING
+2024-06-30 16:07:08,21 Magas,Denal,b3,heathmer@student.21-school.ru,LEAVING
+2024-06-30 16:07:08,21 Moscow,Oasis,f4,rikkifan@student.21-school.ru,LEAVING
+2024-06-30 16:07:29,21 Magas,Denal,b2,chytterm@student.21-school.ru,LEAVING
+2024-06-30 16:07:48,21 Kazan,Vault,a5,captaink@student.21-school.ru,LEAVING
+2024-06-30 16:08:26,21 Magas,Tesham,a6,lucamove@student.21-school.ru,ENTERING
+2024-06-30 16:08:26,21 Magas,Sabar,b4,shavonry@student.21-school.ru,LEAVING
+2024-06-30 16:09:58,21 Magas,Tesham,i1,audriape@student.21-school.ru,LEAVING
+2024-06-30 16:09:58,21 Magas,Denal,o3,vanessst@student.21-school.ru,LEAVING
+2024-06-30 16:10:36,21 Magas,Tesham,b1,clintonl@student.21-school.ru,ENTERING
+2024-06-30 16:10:36,21 Moscow,Illusion,a1,felixdos@student.21-school.ru,LEAVING
+2024-06-30 16:10:36,21 Moscow,Illusion,a2,fletchle@student.21-school.ru,LEAVING
+2024-06-30 16:11:05,21 Kazan,Vault,j1,msima@student.21-school.ru,LEAVING
+2024-06-30 16:11:42,21 Magas,Denal,j4,ardrianw@student.21-school.ru,ENTERING
+2024-06-30 16:12:01,21 Moscow,Illusion,a2,fletchle@student.21-school.ru,ENTERING
+2024-06-30 16:12:01,21 Magas,Tesham,j2,suguhach@student.21-school.ru,LEAVING
+2024-06-30 16:12:55,21 Yaroslavl,Tkachenko,j1,robbverl@student.21-school.ru,ENTERING
+2024-06-30 16:12:55,21 Novosibirsk,Obscurity,h6,shaunnaa@student.21-school.ru,ENTERING
+2024-06-30 16:13:54,21 Moscow,Atlantis,k5,acollin@student.21-school.ru,LEAVING
+2024-06-30 16:14:12,21 Magas,Tesham,b3,dinorahl@student.21-school.ru,LEAVING
+2024-06-30 16:14:32,21 Surgut,Sulfur,b2,phoebehi@student.21-school.ru,LEAVING
+2024-06-30 16:14:49,21 Moscow,Oasis,f4,rikkifan@student.21-school.ru,ENTERING
+2024-06-30 16:14:49,21 Veliky Novgorod,Quark,f4,tannickl@student.21-school.ru,LEAVING
