@@ -63,7 +63,9 @@ def all_campus_stat(campus1, df1):
     return
 
 
-df = pd.read_csv(r"D:\visitors_log (2).csv", delimiter=',')
+df = pd.read_csv(r"D:/visitors_log.csv", delimiter=',') # enter your file_name and path
+# clickhouse's data will be added soon
+print(df.tail(5))
 data_campus = list(df.iloc[:, 2])
 campus = sorted(list(set(data_campus)))
 data_cluster = list(df.iloc[:, 3])
@@ -83,6 +85,7 @@ for i in campus:
             counter1 += 1
     BOOK.append(row)
     counter2 += 1
+
 selected_calculation = st.selectbox('choose data:', ('mean cluster', 'mean campus', 'exact cluster', 'exact campus'))
 if selected_calculation == 'mean cluster':
     all_cluster_stat(BOOK, df, campus)
